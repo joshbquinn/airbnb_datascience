@@ -1,0 +1,12 @@
+id
+street
+neighbourhood
+zipcode
+smart_location
+is_location_exact
+property_type
+room_type
+accommodates
+bedrooms
+beds
+price

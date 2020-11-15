@@ -1,0 +1,2266 @@
+entry_id,property_type,beds,location,price_19q1,price_19q3,price_19q4,price_20q1,price_20q2
+5847,All property types,One bed,Balbriggan; Dublin,905.12,902.23,902.52,897.82,947.71
+5848,All property types,One bed,Blackrock; Dublin,1414.62,1444.12,1454.63,1458.24,1479.01
+5849,All property types,One bed,Booterstown; Dublin,1418.3,0,0,0,0
+5853,All property types,One bed,Donabate; Dublin,948.67,1015.5,1024.2,1042.38,1059.64
+5854,All property types,One bed,Dun Laoghaire; Dublin,1341.55,1330.25,1383.7,1441,1443.47
+5859,All property types,One bed,Lucan; Dublin,1110.97,932.97,976.12,994.76,1001.91
+5861,All property types,One bed,Malahide; Dublin,1378,1416.96,1466.47,1470.29,1458.17
+5862,All property types,One bed,Monkstown; Dublin,1181.69,1254.38,1237.19,1246.59,1239.48
+5864,All property types,One bed,Portmarnock; Dublin,1300.7,1333.34,0,1330.84,0
+5872,All property types,One bed,Stillorgan; Dublin,1432.89,1482.79,1502.26,1534.77,1572.76
+5873,All property types,One bed,Swords; Dublin,1124.44,1145.54,1145.11,1161.83,1167.5
+5874,All property types,One bed,Dublin 1,1228.83,1274.66,1293.01,1329.26,1328.98
+5875,All property types,One bed,I.F.S.C.; Dublin 1,1508.47,1560.24,1557.01,1616.38,1600.36
+5876,All property types,One bed,Parnell Street; Dublin 1,1295.1,1361.94,1374.33,1390.51,1393.2
+5878,All property types,One bed,Summerhill; Dublin 1,0,0,0,0,1442.81
+5879,All property types,One bed,Dublin 2,1481.58,1591.47,1638.89,1666.51,1646.09
+5886,All property types,One bed,Pearse Street; Dublin 2,0,0,1629.34,1607.17,1619.93
+5889,All property types,One bed,Townsend Street; Dublin 2,0,1564.57,1572.2,1611.26,0
+5890,All property types,One bed,Dublin 3,1144.52,1191.06,1211.36,1260.59,1270.06
+5891,All property types,One bed,Clonliffe; Dublin 3,0,0,0,0,1277.92
+5892,All property types,One bed,Clontarf; Dublin 3,1193.25,1276.25,1281.64,1343.64,1340.19
+5893,All property types,One bed,Drumcondra; Dublin 3,1146.39,1133.35,1094.71,1063.44,1003.71
+5894,All property types,One bed,East Wall; Dublin 3,0,1292.43,0,1438,1465.85
+5896,All property types,One bed,Fairview; Dublin 3,995.93,1014.68,1079.92,1148.11,1187.42
+5898,All property types,One bed,North Strand; Dublin 3,1153.92,1162.21,1195.8,1203.07,0
+5899,All property types,One bed,Dublin 4,1434.38,1490.62,1502.72,1535.42,1541.57
+5900,All property types,One bed,Ballsbridge; Dublin 4,1471.27,1512.67,1523.98,1531.65,1526.73
+5901,All property types,One bed,Donnybrook; Dublin 4,1370.84,1357.66,1372.09,1374.39,1391.74
+5903,All property types,One bed,Merrion; Dublin 4,1413.1,1476.48,1501.64,1522,1569.54
+5904,All property types,One bed,Pembroke; Dublin 4,0,0,1344.84,1446.52,1444.45
+5905,All property types,One bed,Ringsend; Dublin 4,1439.6,1574.23,1574.34,1635.98,1647.43
+5906,All property types,One bed,Sandymount; Dublin 4,1470.45,1603.74,1519.05,1528.87,1489.77
+5907,All property types,One bed,Dublin 5,1105.95,1167.13,1187.36,1189.89,1192.85
+5910,All property types,One bed,Raheny; Dublin 5,1194.12,1248.19,1252.38,1235.51,1212.61
+5911,All property types,One bed,Dublin 6,1146.03,1205.51,1233.62,1250.33,1257.34
+5913,All property types,One bed,Harolds Cross; Dublin 6,1182.63,1250.72,1266.96,1275.27,1507.38
+5914,All property types,One bed,Milltown; Dublin 6,1523.73,1604.83,1618.53,1664.06,1667.2
+5915,All property types,One bed,Ranelagh; Dublin 6,1165.33,1262.04,1293.07,1315.02,1320.55
+5916,All property types,One bed,Rathgar; Dublin 6,1165.38,1193.22,1213.16,1231.32,1230.45
+5917,All property types,One bed,Rathmines; Dublin 6,1081.97,1149.3,1175.23,1194.83,1200.23
+5918,All property types,One bed,Terenure; Dublin 6,1110.4,1178.41,1238.39,1228,1208.06
+5919,All property types,One bed,Dublin 6W,1126.43,1144.85,1154.02,1139.27,1184.6
+5920,All property types,One bed,Harolds Cross; Dublin 6W,1084.33,1082.4,1075.52,1056.82,1069.51
+5922,All property types,One bed,Terenure; Dublin 6W,1298.49,1290.06,1300.07,1280.59,1282.87
+5923,All property types,One bed,Dublin 7,1055.4,1090.21,1108.76,1124.22,1119.56
+5925,All property types,One bed,Cabra; Dublin 7,1032.99,1042.42,1044.66,1069.18,1048.2
+5927,All property types,One bed,North Circular Road; Dublin 7,993.33,1004.43,1009.99,1016.6,1005.3
+5928,All property types,One bed,Phibsboro; Dublin 7,873.93,923.73,951.95,961.9,960.83
+5929,All property types,One bed,Smithfield; Dublin 7,1355.81,1393.19,1421.51,1421.85,1436.41
+5930,All property types,One bed,Stoneybatter; Dublin 7,1087.38,1048.04,0,0,0
+5931,All property types,One bed,Dublin 8,1234.38,1309.09,1312.68,1320.3,1320.1
+5932,All property types,One bed,Christchurch; Dublin 8,1425.57,1453.63,1454.16,1452.11,1415.86
+5933,All property types,One bed,Cork Street; Dublin 8,1126.53,1316.05,1293.77,1301.27,1302
+5935,All property types,One bed,Inchicore; Dublin 8,1156.76,1226.36,1203.44,1200.1,1176.22
+5936,All property types,One bed,Islandbridge; Dublin 8,1541.48,1618.35,1616.72,1629.96,1645.93
+5937,All property types,One bed,Kilmainham ; Dublin 8,1258.2,1270.54,1244.28,1246.31,1249.49
+5938,All property types,One bed,Portobello; Dublin 8,1099.11,1175.72,1219.73,1238.41,1288.5
+5979,All property types,One bed,Castleknock; Dublin 15,1321.73,0,0,0,0
+5986,All property types,One bed,Royal Canal Park; Dublin 15,0,1240.8,1232.55,1233.8,1225.95
+5988,All property types,One bed,Dublin 16,1353.06,1358.58,1384.38,1436.43,1433.98
+5990,All property types,One bed,Dundrum; Dublin 16,1525.69,1540.79,1539.76,1603.52,1609.53
+5994,All property types,One bed,Dublin 17,1131.09,1150.57,1134.85,1160.39,1178.23
+5995,All property types,One bed,Malahide Road; Dublin 17,1163.87,1136.6,1148.68,1153.07,0
+5997,All property types,One bed,Dublin 18,1433.14,1483.83,1489.18,1496.52,1512.01
+6001,All property types,One bed,Leopardstown; Dublin 18,1706.22,1745.19,1720.98,1687.68,1701.48
+6002,All property types,One bed,Sandyford; Dublin 18,1423.52,1466.45,1467.55,1470.13,1480.34
+6003,All property types,One bed,Stepaside; Dublin 18,1355.69,1401.54,1411.03,0,0
+6004,All property types,One bed,Dublin 20,1236.01,1228.79,1221.96,1211.3,1208.22
+6005,All property types,One bed,Chapelizod; Dublin 20,1234.59,1230.91,1258.59,1250.41,1236.53
+6007,All property types,One bed,Clondalkin; Dublin 22,1094.81,1120.24,1131.12,1129.86,1135.29
+6008,All property types,One bed,Dublin 24,1161,1166.06,1153.08,1166.5,1178.41
+6012,All property types,One bed,Tallaght; Dublin 24,1162.48,1155.6,1137.98,1161.89,1157.42
+6013,All property types,One bed,Dublin,1564.51,1598.4,1613.94,1632.22,1638.43
+6180,All property types,Three bed,Dublin,1682.26,1746.95,1751.29,1767.89,1785.01
+1715,Semi detached house,1 to 2 bed,Dublin 3,1637.7,1566.52,1607.58,1658.17,1635.4
+1724,Semi detached house,1 to 2 bed,Dublin 4,2006.28,2108.55,2079.4,1969.58,1982.43
+1732,Semi detached house,1 to 2 bed,Dublin 5,1532.03,1586.73,0,1528.44,1504.83
+1736,Semi detached house,1 to 2 bed,Dublin 6,1672.67,1813.83,1769.08,1756.75,1770.28
+889,Detached house,Four plus bed,Dublin 4,3640.66,3888.71,3895.6,4021.88,4060.42
+959,Detached house,Four plus bed,Dublin 14,2969.19,3142.15,3220.15,3170.06,3142.11
+965,Detached house,Four plus bed,Dublin 15,1839.66,1979.06,2034.75,2011.08,2017.26
+987,Detached house,Four plus bed,Dublin 18,3061.49,3160.89,3193.45,3204.88,3180.36
+990,Detached house,Four plus bed,Foxrock; Dublin 18,3660.88,3842.23,3777.69,3741.81,3527.54
+2031,Semi detached house,Four plus bed,Stillorgan; Dublin,0,2573.14,0,0,0
+2032,Semi detached house,Four plus bed,Swords; Dublin,1728.38,1808.78,1818.6,1808.03,1760.03
+2049,Semi detached house,Four plus bed,Dublin 3,1994.82,2168.41,2321.22,2224.93,2254.41
+6514,All property types,1 to 3 bed,Dublin,1547.01,1581.05,1593.22,1610.27,1619.56
+6515,All property types,1 to 3 bed,Balbriggan; Dublin,1143.67,1211.16,1256.53,1278.49,1291.21
+6516,All property types,1 to 3 bed,Blackrock; Dublin,1807.61,1868.68,1850.42,1870.23,1898.73
+6517,All property types,1 to 3 bed,Booterstown; Dublin,1833.39,1877.04,1834.72,1874.85,1932.78
+6520,All property types,1 to 3 bed,Dalkey; Dublin,1971.49,2038.32,2079.23,2093.01,2120.36
+6521,All property types,1 to 3 bed,Donabate; Dublin,1236.7,1313.62,1401.47,1485.82,1516.35
+6522,All property types,1 to 3 bed,Dun Laoghaire; Dublin,1795.64,1809.25,1844.42,1892.02,1898.14
+6523,All property types,1 to 3 bed,Glenageary; Dublin,1905.73,1895,1791.43,1757.34,1833.38
+6524,All property types,1 to 3 bed,Howth; Dublin,1605.88,1745.11,1787.88,1791.41,1796.49
+6525,All property types,1 to 3 bed,Killiney; Dublin,1788.49,1913.8,1938.74,1950.1,1886.74
+6526,All property types,1 to 3 bed,Kinsealy; Dublin,1422.21,1436.68,1474.79,1504.48,1526.81
+6527,All property types,1 to 3 bed,Lucan; Dublin,1485.85,1475.62,1479.91,1489.13,1492.63
+2058,Semi detached house,Four plus bed,Dublin 4,3376.8,3609.19,3690.6,3887.22,3850.31
+2059,Semi detached house,Four plus bed,Ballsbridge; Dublin 4,0,0,3569.01,0,0
+2066,Semi detached house,Four plus bed,Dublin 5,2090.24,2163.46,2151.1,1961.5,1920.29
+2070,Semi detached house,Four plus bed,Dublin 6,3108.32,3228.87,3329.39,3305.71,3308.49
+2078,Semi detached house,Four plus bed,Dublin 6W,2325.97,2485.37,2550.36,2511.93,2555.66
+2081,Semi detached house,Four plus bed,Terenure; Dublin 6W,0,2741.73,2805.4,2768.7,2809.07
+2082,Semi detached house,Four plus bed,Dublin 7,1974.18,2131.98,2260.06,2275.22,2280.98
+2101,Semi detached house,Four plus bed,Dublin 9,2150.61,2254.92,2203.61,2103.64,2131.68
+2104,Semi detached house,Four plus bed,Drumcondra; Dublin 9,2242,2446.63,0,0,0
+2106,Semi detached house,Four plus bed,Santry; Dublin 9,0,0,0,0,2106.45
+2111,Semi detached house,Four plus bed,Dublin 11,1726.59,1836.98,1813.65,1885.94,1935.46
+2117,Semi detached house,Four plus bed,Dublin 12,2034.71,2139.79,2173.56,0,0
+2122,Semi detached house,Four plus bed,Dublin 13,1946.89,0,0,2172.13,2210.85
+2128,Semi detached house,Four plus bed,Dublin 14,2580.75,2704.98,2685.62,2676.4,2628.02
+2130,Semi detached house,Four plus bed,Clonskeagh; Dublin 14,0,3217.52,0,0,0
+5954,All property types,One bed,Finglas; Dublin 11,1187.65,1182.23,1145.2,1156.47,1169.54
+5955,All property types,One bed,Glasnevin; Dublin 11,1135.49,1109.96,0,0,0
+5958,All property types,One bed,Dublin 12,1108.05,1133.56,1141.98,1144.89,1139.82
+5959,All property types,One bed,Crumlin; Dublin 12,0,1179.58,1224.01,1225.18,1205.05
+5961,All property types,One bed,Kimmage; Dublin 12,1191.44,1187.04,1160.28,1129.87,1134.61
+5963,All property types,One bed,Dublin 13,1246.64,1265,1280.42,1315.08,1308.31
+5964,All property types,One bed,Baldoyle; Dublin 13,1310.37,0,0,0,0
+5966,All property types,One bed,Clongriffin; Dublin 13,1296.32,1332.62,1351.44,1347.96,1269.23
+5969,All property types,One bed,Dublin 14,1398.01,1450.25,1425.49,1524.08,1532.52
+5970,All property types,One bed,Churchtown; Dublin 14,0,0,0,1733.49,1780.4
+2133,Semi detached house,Four plus bed,Rathfarnham; Dublin 14,2182.81,2180.38,0,0,0
+2134,Semi detached house,Four plus bed,Dublin 15,1744.51,1829.87,1846.82,1882.46,1898.51
+2138,Semi detached house,Four plus bed,Castleknock; Dublin 15,2000.68,2091.77,2066.55,2050.23,2057.53
+2139,Semi detached house,Four plus bed,Clonee; Dublin 15,1571.85,1656.76,1669.15,1642.69,0
+2140,Semi detached house,Four plus bed,Clonsilla; Dublin 15,1685.79,1719.87,1781.23,1853.05,1861.92
+2147,Semi detached house,Four plus bed,Dublin 16,2152.24,2226.11,2262.57,2300.42,2252.33
+2151,Semi detached house,Four plus bed,Rathfarnham; Dublin 16,2163.04,0,0,2403.01,2445.72
+1748,Semi detached house,1 to 2 bed,Dublin 7,1292.02,1333.89,1361.09,1354.05,1375.59
+1756,Semi detached house,1 to 2 bed,Dublin 8,1432.14,1534.17,1486.77,1580.69,1595.68
+2156,Semi detached house,Four plus bed,Dublin 18,2356.98,2359.73,2378.82,2474.02,2445.87
+2167,Semi detached house,Four plus bed,Dublin 24,1634.2,1699.59,1788.73,1871.69,1859.99
+1381,Semi detached house,Two bed,Dublin 3,0,0,1674.17,0,0
+1390,Semi detached house,Two bed,Dublin 4,2060.3,2144.34,2120.3,2007.98,2039.2
+1402,Semi detached house,Two bed,Dublin 6,1847.85,1923.44,1891.44,1869.21,1885.68
+1414,Semi detached house,Two bed,Dublin 7,1435.72,1476.61,1492.66,1441.91,1454.2
+1422,Semi detached house,Two bed,Dublin 8,1533.55,1620.61,0,0,0
+1433,Semi detached house,Two bed,Dublin 9,0,1402.87,1383.43,1351.79,0
+1449,Semi detached house,Two bed,Dublin 12,1410.38,1428.34,1475.69,1558.04,1548.9
+1460,Semi detached house,Two bed,Dublin 14,0,1808.06,0,1762.63,0
+1466,Semi detached house,Two bed,Dublin 15,1340.06,1421.36,1430.21,1416.65,1413.41
+1498,Semi detached house,Two bed,Clondalkin; Dublin 22,0,1269.61,0,0,0
+2514,Terrace house,Two bed,Dun Laoghaire; Dublin,0,1542.4,1553.23,1603.37,0
+2519,Terrace house,Two bed,Lucan; Dublin,1325.43,1386.84,1408.41,1423.19,1427.86
+2171,Semi detached house,Four plus bed,Tallaght; Dublin 24,1546.36,1587.11,0,0,0
+2533,Terrace house,Two bed,Swords; Dublin,1353.62,1342.75,1358.11,1384.91,1388.8
+2534,Terrace house,Two bed,Dublin 1,0,0,1533.55,1605.88,1633.71
+1170,Semi detached house,One bed,Dublin,1100.54,1118.46,1127.27,0,1115.04
+2550,Terrace house,Two bed,Dublin 3,1501.83,1574.58,1577.41,1586.26,1569.71
+2552,Terrace house,Two bed,Clontarf; Dublin 3,0,1716.91,1699.67,0,0
+2554,Terrace house,Two bed,East Wall; Dublin 3,1439.78,1514.73,1547.83,1527.85,1466.41
+2559,Terrace house,Two bed,Dublin 4,2025.86,2084.19,2096.85,2070.63,2081.03
+2560,Terrace house,Two bed,Ballsbridge; Dublin 4,2258.94,2257.85,2282.81,2167.78,2178.22
+2561,Terrace house,Two bed,Donnybrook; Dublin 4,1951.6,2021.08,2052.64,2037.06,2067.52
+2565,Terrace house,Two bed,Ringsend; Dublin 4,1898.47,1951.38,1914.2,1948.39,1941.39
+2566,Terrace house,Two bed,Sandymount; Dublin 4,2093.75,2124.54,2168.22,2125.17,2139.73
+2567,Terrace house,Two bed,Dublin 5,1441.25,1539.25,1515.02,1602.23,1585.56
+2571,Terrace house,Two bed,Dublin 6,1807,1883.51,1874.49,1860.41,1871.42
+2575,Terrace house,Two bed,Ranelagh; Dublin 6,2128.88,2122.68,2060.39,2093.18,2063.13
+2576,Terrace house,Two bed,Rathgar; Dublin 6,1700.53,1845.53,1841.71,1802.23,1821
+2577,Terrace house,Two bed,Rathmines; Dublin 6,1752.07,1889.79,1844.26,1811.94,0
+2579,Terrace house,Two bed,Dublin 6W,1479.5,1586.01,1581.82,1637.74,0
+2583,Terrace house,Two bed,Dublin 7,1482.78,1547.68,1569.53,1578.18,1565.96
+2585,Terrace house,Two bed,Cabra; Dublin 7,1424.35,1422.15,1417.17,1476.69,1453.27
+2590,Terrace house,Two bed,Stoneybatter; Dublin 7,1521.78,1586.75,1617.3,1582.21,1564.9
+2591,Terrace house,Two bed,Dublin 8,1620.2,1649.44,1675.98,1668.14,1672.85
+2595,Terrace house,Two bed,Inchicore; Dublin 8,1451.38,1448.82,1486.57,1499.27,1496.83
+2597,Terrace house,Two bed,Kilmainham ; Dublin 8,1637.34,0,0,0,0
+2602,Terrace house,Two bed,Dublin 9,1471.51,1549.91,1557.71,1545.63,1561.29
+2605,Terrace house,Two bed,Drumcondra; Dublin 9,1482.25,0,0,0,0
+2609,Terrace house,Two bed,Dublin 10,1339.83,1384.42,1423.81,1374.26,1376.83
+2610,Terrace house,Two bed,Ballyfermot; Dublin 10,1342.45,1377.44,1402.92,1360.41,1350.06
+2612,Terrace house,Two bed,Dublin 11,1330.4,1315.29,1337.69,1451.39,1479.77
+2614,Terrace house,Two bed,Finglas; Dublin 11,1318.79,1289.89,1296.76,0,0
+2618,Terrace house,Two bed,Dublin 12,1325.2,1433.17,1447.59,1466.42,1496.01
+2619,Terrace house,Two bed,Crumlin; Dublin 12,1327.42,1424.88,1423.08,1431.02,1460.9
+2620,Terrace house,Two bed,Drimnagh; Dublin 12,1264.71,1389.34,1448.62,1464.48,1478.26
+2621,Terrace house,Two bed,Kimmage; Dublin 12,0,1484.97,0,0,1527.93
+2623,Terrace house,Two bed,Dublin 13,0,0,1628.65,0,0
+2629,Terrace house,Two bed,Dublin 14,1623.56,1710.52,1714.5,1742.04,1737.26
+2635,Terrace house,Two bed,Dublin 15,1286.74,1294.5,1306.86,1292.67,1334.73
+2640,Terrace house,Two bed,Clonee; Dublin 15,1280.65,0,0,0,0
+2657,Terrace house,Two bed,Dublin 18,1683,1772.97,1788.8,1804.97,1753.91
+2667,Terrace house,Two bed,Clondalkin; Dublin 22,1222,1218.38,1209.76,1197.48,1224.99
+3696,Apartment,Two bed,Saggart; Dublin,1430.93,1503.47,1535.08,1508.1,1526.6
+3698,Apartment,Two bed,Shankill; Dublin,1430.77,1463.29,1480.22,0,0
+3699,Apartment,Two bed,Skerries; Dublin,1179.46,1211.45,1198.11,1225.66,1241.34
+3701,Apartment,Two bed,Stillorgan; Dublin,1743.96,1779.93,1790.27,1801.49,1819.83
+3702,Apartment,Two bed,Swords; Dublin,1372.07,1405.13,1412.11,1437.68,1436.58
+3703,Apartment,Two bed,Dublin 1,1739.47,1800.95,1831.39,1841.97,1851.89
+3704,Apartment,Two bed,I.F.S.C.; Dublin 1,1912.94,1958.93,1952.57,1983.96,1984.66
+3705,Apartment,Two bed,Parnell Street; Dublin 1,1842.68,1825.55,1829.71,1842.62,1857.25
+3706,Apartment,Two bed,Spencer Dock; Dublin 1,2013.62,2098.58,2127.73,2160.71,2183.31
+3707,Apartment,Two bed,Summerhill; Dublin 1,1763.08,1771.78,1786.08,0,0
+3708,Apartment,Two bed,Dublin 2,2167.77,2336.95,2387.32,2445.46,2410.26
+3711,Apartment,Two bed,Grand Canal Dock; Dublin 2,2348.48,2400.62,2415.23,0,0
+3719,Apartment,Two bed,Dublin 3,1642.43,1674.81,1694.28,1702.94,1718.13
+3721,Apartment,Two bed,Clontarf; Dublin 3,1632.16,1697.88,1700.19,1692.52,1706.17
+3723,Apartment,Two bed,East Wall; Dublin 3,1789.85,1844.51,1870.31,1924.91,1917.93
+3725,Apartment,Two bed,Fairview; Dublin 3,1571.39,1511.68,1515.12,1528.94,1574.5
+3728,Apartment,Two bed,Dublin 4,2032.48,2112.74,2141.48,2175.63,2168.99
+3729,Apartment,Two bed,Ballsbridge; Dublin 4,2311.04,2434.9,2477.33,2514.07,2497.27
+3730,Apartment,Two bed,Donnybrook; Dublin 4,1922.55,1964.4,1968.48,1974.26,1986.69
+3732,Apartment,Two bed,Merrion; Dublin 4,1663.19,1693.36,1726.38,1809.1,1854.04
+3733,Apartment,Two bed,Pembroke; Dublin 4,1852.77,1980.53,1966.28,2039.06,2022.04
+3734,Apartment,Two bed,Ringsend; Dublin 4,1815.87,1848.6,1842.98,1825.32,1856.13
+3735,Apartment,Two bed,Sandymount; Dublin 4,1829.39,1900.7,1951.83,2030.51,2018.81
+3736,Apartment,Two bed,Dublin 5,1543.64,1607.03,1615.01,1628.48,1650.36
+3737,Apartment,Two bed,Artane; Dublin 5,1494.2,1531.9,1556.7,1581.97,1515.16
+3739,Apartment,Two bed,Raheny; Dublin 5,1580.53,1628.28,1665.95,1669.91,1668.94
+3740,Apartment,Two bed,Dublin 6,1868.42,1907.41,1908.21,1921.46,1926.22
+3743,Apartment,Two bed,Milltown; Dublin 6,1994.47,1987.08,1991.38,2008.84,2011.99
+3744,Apartment,Two bed,Ranelagh; Dublin 6,1863.3,1973.06,1965.93,1988.9,1976.35
+3745,Apartment,Two bed,Rathgar; Dublin 6,2108.05,2164.34,2153.86,2116.21,2111.84
+3746,Apartment,Two bed,Rathmines; Dublin 6,1633.62,1735.72,1776.16,1804.31,1799.36
+3747,Apartment,Two bed,Terenure; Dublin 6,0,1713.21,1755.42,1767,1770.44
+3748,Apartment,Two bed,Dublin 6W,1736.29,1806.31,1814.31,1799.02,1841.1
+3751,Apartment,Two bed,Terenure; Dublin 6W,1778.52,1854.9,1848.67,1846.11,1880.31
+3752,Apartment,Two bed,Dublin 7,1586.72,1635.05,1665.28,1687.97,1696.61
+3754,Apartment,Two bed,Cabra; Dublin 7,0,1686.93,0,0,0
+3755,Apartment,Two bed,Navan Road; Dublin 7,1498.64,1524.36,0,0,0
+3758,Apartment,Two bed,Smithfield; Dublin 7,1757.72,1828.18,1859.16,1889.51,1869.22
+3760,Apartment,Two bed,Dublin 8,1607.65,1668.23,1672.5,1689.79,1701.79
+3761,Apartment,Two bed,Christchurch; Dublin 8,1651.81,1739.23,1739.44,1732,1684.35
+3762,Apartment,Two bed,Cork Street; Dublin 8,1586.03,1606.76,1688.2,1738.41,1774.61
+3764,Apartment,Two bed,Inchicore; Dublin 8,1419.68,1441.08,1407.68,1426.26,1431.11
+3765,Apartment,Two bed,Islandbridge; Dublin 8,1848.37,1865.55,1886.13,1895.82,1913.1
+3766,Apartment,Two bed,Kilmainham ; Dublin 8,1597.3,1599.95,1601.28,1603.51,1623.68
+3768,Apartment,Two bed,Rialto; Dublin 8,1502.24,1537.16,1518.03,1509.47,1540.81
+3769,Apartment,Two bed,South Circular Road; Dublin 8,1099.5,1276.55,1285.22,1341.48,1388.65
+3771,Apartment,Two bed,Dublin 9,1467.58,1536.33,1563.73,1588.41,1617.13
+3772,Apartment,Two bed,Ballymun; Dublin 9,1430.83,1397.07,0,0,0
+3773,Apartment,Two bed,Beaumont; Dublin 9,1407.97,1464.1,1496.83,1487.39,1507.28
+3774,Apartment,Two bed,Drumcondra; Dublin 9,1583.03,1568.52,1574.95,1578.78,1614.25
+3776,Apartment,Two bed,Santry; Dublin 9,1428.42,1514.84,1555.68,1626.66,1657.05
+3778,Apartment,Two bed,Dublin 10,1289.11,1374.14,1365.72,1352.74,1361.88
+3780,Apartment,Two bed,Cherry Orchard; Dublin 10,1269.56,0,1346.84,0,0
+3781,Apartment,Two bed,Dublin 11,1439.5,1402.32,1408.96,1430.85,1441.78
+3782,Apartment,Two bed,Ballymun; Dublin 11,1348.67,1408.6,1398.53,1347.22,1393.11
+3783,Apartment,Two bed,Finglas; Dublin 11,1459.81,1367.79,1365.69,1385.38,1382.72
+3784,Apartment,Two bed,Glasnevin; Dublin 11,1386.8,1445.36,1458.06,1437.54,1439.94
+3787,Apartment,Two bed,Dublin 12,1457.31,1509.18,1530.43,1555.15,1552.66
+3788,Apartment,Two bed,Crumlin; Dublin 12,0,0,1443.03,0,0
+3789,Apartment,Two bed,Drimnagh; Dublin 12,1535.78,1533.01,1528.07,1572.03,1648.32
+3790,Apartment,Two bed,Kimmage; Dublin 12,1574.97,1606.05,1624.15,1650.21,1652.52
+3792,Apartment,Two bed,Dublin 13,1563.62,1576.24,1576.3,1649.68,1658.91
+3793,Apartment,Two bed,Baldoyle; Dublin 13,1547.3,1547.76,1567.72,1541.53,1558.41
+3794,Apartment,Two bed,Balgriffin; Dublin 13,1393.69,1499.53,1492.81,0,0
+3795,Apartment,Two bed,Clongriffin; Dublin 13,1493.89,1527.49,1512.65,1549.92,1565.33
+3796,Apartment,Two bed,Donaghmede; Dublin 13,1347.07,0,0,0,0
+3798,Apartment,Two bed,Dublin 14,1740.35,1826.98,1841.31,1886.68,1893.47
+3799,Apartment,Two bed,Churchtown; Dublin 14,1927.53,2163.4,2182.44,2248.28,2302.26
+3800,Apartment,Two bed,Clonskeagh; Dublin 14,1800.71,1786.01,1799.8,1834.18,1827.72
+3801,Apartment,Two bed,Dundrum; Dublin 14,1753.52,1801.26,1800.96,1799.52,1767.11
+3802,Apartment,Two bed,Goatstown; Dublin 14,0,1969.45,1991.93,2048.43,2052.46
+3803,Apartment,Two bed,Rathfarnham; Dublin 14,1588.66,1606.73,1627.22,1621.41,1635.71
+3804,Apartment,Two bed,Dublin 15,1455.15,1496.74,1519.21,1530.44,1541.48
+3805,Apartment,Two bed,Ashtown; Dublin 15,1527.09,1553.19,1608.57,1620.3,1644.41
+3806,Apartment,Two bed,Blanchardstown; Dublin 15,1397.44,1428.83,1453.26,1466.49,1478.29
+3808,Apartment,Two bed,Castleknock; Dublin 15,1601.15,1616.39,1632.87,1645.09,1658.14
+3809,Apartment,Two bed,Clonee; Dublin 15,1296.07,1280.72,1306.98,1320.12,1336.25
+3810,Apartment,Two bed,Clonsilla; Dublin 15,1440.58,1445.35,1390.87,1359.36,1361.25
+3813,Apartment,Two bed,Ongar; Dublin 15,1309.65,1324.19,1334.41,1361,1417.61
+3815,Apartment,Two bed,Royal Canal Park; Dublin 15,1404.13,1486.65,1507.38,1519.4,1501.74
+3816,Apartment,Two bed,Tyrrelstown; Dublin 15,0,1291.31,0,0,0
+3817,Apartment,Two bed,Dublin 16,1724.06,1786.71,1780.42,1800.57,1817.34
+3818,Apartment,Two bed,Ballinteer; Dublin 16,1665.37,1729.5,1738.01,1727.29,1784.46
+3819,Apartment,Two bed,Dundrum; Dublin 16,1826.64,1870.58,1857.79,1884.29,1884.66
+3821,Apartment,Two bed,Rathfarnham; Dublin 16,1628.75,1675.92,1671.87,1679.29,1686.25
+3823,Apartment,Two bed,Dublin 17,1400.23,1427.49,1418.7,1429.83,1437.59
+3824,Apartment,Two bed,Malahide Road; Dublin 17,1635.78,1583.87,1586.5,1606.68,1635.88
+3826,Apartment,Two bed,Dublin 18,1738.35,1790.27,1786.66,1790.97,1798.41
+3827,Apartment,Two bed,Cabinteely; Dublin 18,1491.96,1543.77,1552.13,1554.8,1559.27
+3828,Apartment,Two bed,Carrickmines; Dublin 18,1741.71,1794.63,1811.94,1779.31,1795.73
+3830,Apartment,Two bed,Leopardstown; Dublin 18,1932.51,1931.47,1904.57,1912.64,1894.9
+3831,Apartment,Two bed,Sandyford; Dublin 18,1749.87,1796.51,1793.41,1795.71,1814.99
+3832,Apartment,Two bed,Stepaside; Dublin 18,1609.14,1664.12,1669.99,1677.69,1668.73
+3833,Apartment,Two bed,Dublin 20,1423.98,1445.45,1437.31,1422.52,1419.16
+3834,Apartment,Two bed,Chapelizod; Dublin 20,1402.76,1429.88,1400.26,1389.43,1378.78
+3836,Apartment,Two bed,Clondalkin; Dublin 22,1401.16,1363.76,1384.8,1359.43,1370.43
+3837,Apartment,Two bed,Dublin 24,1407.94,1424.21,1418.83,1424.67,1435.57
+3838,Apartment,Two bed,Ballycullen; Dublin 24,1466.44,1497,1506.63,1502.59,1477.56
+3839,Apartment,Two bed,Citywest; Dublin 24,1357.27,1411.25,1421.41,1438.93,1451.87
+3841,Apartment,Two bed,Tallaght; Dublin 24,1395.53,1387.14,1386.21,1383.64,1385.97
+2404,Terrace house,One bed,Dublin 6,0,1086.32,1156.45,1164.08,1150.15
+2416,Terrace house,One bed,Dublin 7,1053.34,981.26,1000.09,997.04,998.18
+2424,Terrace house,One bed,Dublin 8,1215.88,1249.23,1239.67,1303.76,1285.14
+3509,Apartment,One bed,Balbriggan; Dublin,912.78,919.28,916.56,917.91,972.5
+3510,Apartment,One bed,Blackrock; Dublin,1436.14,1448.35,1481.05,1493.54,1524.07
+3511,Apartment,One bed,Booterstown; Dublin,1418.3,0,0,0,0
+3515,Apartment,One bed,Donabate; Dublin,948.67,1016.99,1026.28,1045.33,1064.03
+3516,Apartment,One bed,Dun Laoghaire; Dublin,1479.6,1472.26,1520.34,1557.95,1568.14
+3521,Apartment,One bed,Lucan; Dublin,1155.56,964.21,1010.78,1032.83,1036.8
+3523,Apartment,One bed,Malahide; Dublin,1382.61,1423.87,1487.18,1491.06,1518.08
+3524,Apartment,One bed,Monkstown; Dublin,1187.45,1300.93,1295.82,1295.51,1302.36
+3526,Apartment,One bed,Portmarnock; Dublin,0,1311.84,0,1309.26,0
+3534,Apartment,One bed,Stillorgan; Dublin,1475.94,1526.79,1551.1,1573.23,1576.99
+3535,Apartment,One bed,Swords; Dublin,1120.87,1142.82,1151.31,1172.89,1179.91
+3536,Apartment,One bed,Dublin 1,1341.19,1391,1411.88,1453.95,1457.75
+3537,Apartment,One bed,I.F.S.C.; Dublin 1,1508.15,1560.33,1560.35,1620.04,1598.7
+3538,Apartment,One bed,Parnell Street; Dublin 1,1295.1,1376.56,1390.71,1403.38,1405.83
+3541,Apartment,One bed,Dublin 2,1591.3,1688.41,1726.96,1739.77,1712.07
+3548,Apartment,One bed,Pearse Street; Dublin 2,0,0,0,1612.07,1626.44
+3551,Apartment,One bed,Townsend Street; Dublin 2,0,1564.57,1572.2,1601.64,0
+3552,Apartment,One bed,Dublin 3,1333.12,1405.05,1415.76,1440.09,1438.46
+3554,Apartment,One bed,Clontarf; Dublin 3,1366.61,1467.04,1478.97,1491.42,1493.33
+3558,Apartment,One bed,Fairview; Dublin 3,1245.37,1265.72,1330.05,1333.15,1347.49
+3561,Apartment,One bed,Dublin 4,1508.51,1556.44,1575.03,1613.83,1619.77
+3562,Apartment,One bed,Ballsbridge; Dublin 4,1570.53,1614.46,1639.67,1662.52,1657.24
+3563,Apartment,One bed,Donnybrook; Dublin 4,1546.81,1481.42,1489.31,1455.98,1471.2
+3565,Apartment,One bed,Merrion; Dublin 4,1448.5,1487.73,1506.61,1528.36,1577.83
+3567,Apartment,One bed,Ringsend; Dublin 4,1467.08,1564.02,1582.72,1615.67,1585.45
+3568,Apartment,One bed,Sandymount; Dublin 4,1480.82,1618.07,1623.75,1619.02,1609.11
+3569,Apartment,One bed,Dublin 5,1150.37,1200.47,1231.82,1260,1233
+3572,Apartment,One bed,Raheny; Dublin 5,1196.64,1248.74,1264.37,1267.07,1228.02
+3573,Apartment,One bed,Dublin 6,1410.65,1427.96,1442.97,1458.01,1452.67
+3576,Apartment,One bed,Milltown; Dublin 6,1604.37,1651.2,1662.66,1664.06,1677.49
+3577,Apartment,One bed,Ranelagh; Dublin 6,1435.73,1497.34,1501.31,1507.01,1509.08
+3578,Apartment,One bed,Rathgar; Dublin 6,1381.92,1376.83,1398.15,1438.56,1422.33
+3579,Apartment,One bed,Rathmines; Dublin 6,1345.33,1369.58,1391.55,1408.41,1398.58
+3581,Apartment,One bed,Dublin 6W,1298.98,1357.14,1350.46,1338.39,1381.38
+3582,Apartment,One bed,Harolds Cross; Dublin 6W,1207.41,1239.15,1249.61,0,0
+3584,Apartment,One bed,Terenure; Dublin 6W,1437.79,1497.51,1460,1449.07,1446.05
+3585,Apartment,One bed,Dublin 7,1233.73,1258.67,1283.08,1290.19,1288.2
+3587,Apartment,One bed,Cabra; Dublin 7,1204.64,1279.53,1256.34,1231.93,1194.63
+3591,Apartment,One bed,Smithfield; Dublin 7,1354.8,1400.27,1430.75,1432.2,1454.7
+3593,Apartment,One bed,Dublin 8,1343.56,1425.91,1419.82,1414.45,1413.69
+3594,Apartment,One bed,Christchurch; Dublin 8,1425.57,1460,1461.23,1458.42,1421.18
+3595,Apartment,One bed,Cork Street; Dublin 8,1275.84,1319.65,1293.15,1308.47,1294.43
+3597,Apartment,One bed,Inchicore; Dublin 8,1228.51,1265.85,1258.25,1256.59,1242.21
+3598,Apartment,One bed,Islandbridge; Dublin 8,1551.02,1623.25,1639.07,1650.95,1669.69
+3599,Apartment,One bed,Kilmainham ; Dublin 8,1317.73,1319.48,1310.4,1300.75,1310.34
+3600,Apartment,One bed,Portobello; Dublin 8,1260.48,1371.94,1379.71,1357.91,1372.4
+3601,Apartment,One bed,Rialto; Dublin 8,1232.82,1363.76,1355.39,1301.1,1259.61
+3602,Apartment,One bed,South Circular Road; Dublin 8,0,0,0,1344.72,1366.58
+3604,Apartment,One bed,Dublin 9,1224.83,1258.21,1269.77,1268.06,1271.68
+3607,Apartment,One bed,Drumcondra; Dublin 9,1201.28,1246.05,1241.62,1208.83,1234.25
+3608,Apartment,One bed,Glasnevin; Dublin 9,1096.83,1119.28,1111.36,1181.35,1207.59
+3609,Apartment,One bed,Santry; Dublin 9,1230.4,1290.69,1313.88,1347.93,1331.73
+3614,Apartment,One bed,Dublin 11,1239.5,1238.71,1216.92,1217.83,1219.26
+3616,Apartment,One bed,Finglas; Dublin 11,1241.84,1235.19,1194.99,1201.53,1205.34
+3620,Apartment,One bed,Dublin 12,1201.1,1206.77,1208.22,1212.36,1205.72
+3625,Apartment,One bed,Dublin 13,1282.84,1298.47,1308.54,1343.3,1317.69
+3628,Apartment,One bed,Clongriffin; Dublin 13,1296.32,1332.62,1351.44,1347.96,1269.23
+3631,Apartment,One bed,Dublin 14,1452.35,1498.31,1475.96,1575.12,1576.96
+3632,Apartment,One bed,Churchtown; Dublin 14,0,0,0,1736.67,1784.5
+3634,Apartment,One bed,Dundrum; Dublin 14,1507.09,1532.21,1516.58,1522.23,1505.4
+3637,Apartment,One bed,Dublin 15,1180.37,1201.45,1231.05,1250.2,1251.98
+3638,Apartment,One bed,Ashtown; Dublin 15,1278.87,1327.49,1446.38,1442.21,1457.49
+3641,Apartment,One bed,Castleknock; Dublin 15,1311.03,0,0,0,0
+3648,Apartment,One bed,Royal Canal Park; Dublin 15,0,1240.8,1232.55,1233.8,1225.95
+3650,Apartment,One bed,Dublin 16,1396.43,1396.52,1413.02,1476.98,1460.81
+3652,Apartment,One bed,Dundrum; Dublin 16,1585.61,1587.82,1589.01,1654.98,1635.42
+3656,Apartment,One bed,Dublin 17,1172.92,1156.02,1150.89,1178.59,1201.53
+3657,Apartment,One bed,Malahide Road; Dublin 17,1163.87,1136.6,1148.68,0,0
+3659,Apartment,One bed,Dublin 18,1449.71,1495.71,1504.83,1511.05,1531.31
+3663,Apartment,One bed,Leopardstown; Dublin 18,1706.22,1745.19,1720.98,1687.68,1701.48
+3664,Apartment,One bed,Sandyford; Dublin 18,1448.16,1484.02,1489.6,1493.05,1509.58
+3665,Apartment,One bed,Stepaside; Dublin 18,1357.68,1409.12,1424.41,0,0
+3666,Apartment,One bed,Dublin 20,1252.98,1231.87,1223.09,1219.62,1204.55
+3667,Apartment,One bed,Chapelizod; Dublin 20,1234.69,1213.45,0,0,1222.97
+3669,Apartment,One bed,Clondalkin; Dublin 22,1148.17,1166.77,1164.29,1160.54,1160.6
+3670,Apartment,One bed,Dublin 24,1186.79,1187.52,1172.09,1185.49,1197.96
+3674,Apartment,One bed,Tallaght; Dublin 24,1182.72,1170.97,1149.76,1171.55,1170.11
+4685,Other Flats,One bed,Dun Laoghaire; Dublin,929.33,986.96,992.52,1017.6,1002.21
+4705,Other Flats,One bed,Dublin 1,963.44,1032.91,1043.4,1055.76,1059.5
+4710,Other Flats,One bed,Dublin 2,1050.8,1236.59,1301.56,1335.52,1358.23
+4721,Other Flats,One bed,Dublin 3,946.92,979.61,985.87,1037.13,1067.74
+4723,Other Flats,One bed,Clontarf; Dublin 3,990.29,972.96,938.29,973.53,1002.37
+4724,Other Flats,One bed,Drumcondra; Dublin 3,0,965.63,960.01,980.27,945.73
+4727,Other Flats,One bed,Fairview; Dublin 3,797.68,879.2,930.68,1036.31,1100.98
+4730,Other Flats,One bed,Dublin 4,1090.58,1192.89,1203.84,1215.48,1224.23
+4731,Other Flats,One bed,Ballsbridge; Dublin 4,1097.46,1209.76,1207.53,1203.85,1233.66
+4732,Other Flats,One bed,Donnybrook; Dublin 4,1086.35,1189.06,1200.56,1232.14,1251.73
+4742,Other Flats,One bed,Dublin 6,994.96,1034.14,1046.02,1048.45,1058.55
+4746,Other Flats,One bed,Ranelagh; Dublin 6,996.77,1028.34,1061.92,1076.54,1083.74
+4747,Other Flats,One bed,Rathgar; Dublin 6,992.5,1028.52,1055.73,1037.33,1044.01
+4748,Other Flats,One bed,Rathmines; Dublin 6,991.86,1034.06,1036.23,1042.42,1054.5
+4750,Other Flats,One bed,Dublin 6W,928.81,935.6,960.04,964.04,981.87
+4751,Other Flats,One bed,Harolds Cross; Dublin 6W,953.43,961.59,971.46,977.31,974.47
+4754,Other Flats,One bed,Dublin 7,883.84,953.85,960.94,990.74,991.87
+4756,Other Flats,One bed,Cabra; Dublin 7,944.36,988.19,990.56,1020.58,1037.69
+4758,Other Flats,One bed,North Circular Road; Dublin 7,0,940.51,0,0,0
+4759,Other Flats,One bed,Phibsboro; Dublin 7,801.93,872.1,892.08,900.18,905.26
+4762,Other Flats,One bed,Dublin 8,968.24,1024.79,1032.43,1047.72,1046.82
+4769,Other Flats,One bed,Portobello; Dublin 8,1032.92,1083.06,1093.51,1142.59,1192.38
+4770,Other Flats,One bed,Rialto; Dublin 8,952.44,979.99,0,0,0
+4771,Other Flats,One bed,South Circular Road; Dublin 8,0,0,953.36,0,969.46
+4773,Other Flats,One bed,Dublin 9,901.12,910.29,938.76,958.01,988.87
+4776,Other Flats,One bed,Drumcondra; Dublin 9,926.12,920.16,934.17,953.47,982.07
+4789,Other Flats,One bed,Dublin 12,982.83,1067.54,1072.76,1068.06,1062.04
+4790,Other Flats,One bed,Crumlin; Dublin 12,0,0,0,0,1191.81
+4844,Other Flats,One bed,Dublin,1340.42,1431.65,1474.41,1440.52,1439.49
+1767,Semi detached house,1 to 2 bed,Dublin 9,1256.51,1299.03,1290.48,1234.94,1254.46
+1783,Semi detached house,1 to 2 bed,Dublin 12,1384.35,1388.49,1442.62,1517.64,1509.22
+1785,Semi detached house,1 to 2 bed,Drimnagh; Dublin 12,0,1480.7,0,1538.99,0
+1794,Semi detached house,1 to 2 bed,Dublin 14,1805.58,1744.71,1712.78,1666.49,1589.75
+1800,Semi detached house,1 to 2 bed,Dublin 15,1367.65,1402.37,1398.48,1384.32,1376.33
+1832,Semi detached house,1 to 2 bed,Clondalkin; Dublin 22,1133.44,1171.11,1199.04,1241.48,1271
+1833,Semi detached house,1 to 2 bed,Dublin 24,0,1438.4,0,0,0
+2848,Terrace house,1 to 2 bed,Dun Laoghaire; Dublin,0,1504.18,1515.51,1547.29,1528.21
+2853,Terrace house,1 to 2 bed,Lucan; Dublin,1325.43,1386.84,1408.41,1423.19,1424.44
+2856,Terrace house,1 to 2 bed,Monkstown; Dublin,0,1758.29,0,0,0
+2339,Terrace house,One bed,Dublin,1209.38,1262.25,1279.62,1256.2,1290.49
+2867,Terrace house,1 to 2 bed,Swords; Dublin,1353.62,1342.75,1353.5,1380.26,1383.31
+2868,Terrace house,1 to 2 bed,Dublin 1,1216.99,1225.71,1283.93,1363.75,1415.37
+2873,Terrace house,1 to 2 bed,Dublin 2,1711.28,1795.24,1888.7,0,1990.59
+2884,Terrace house,1 to 2 bed,Dublin 3,1440.72,1495.61,1501.42,1534.86,1520.9
+2886,Terrace house,1 to 2 bed,Clontarf; Dublin 3,1544.22,1597.71,1577,1682,1666
+2888,Terrace house,1 to 2 bed,East Wall; Dublin 3,1425.84,1499.88,1530.99,1509.53,1448.58
+2893,Terrace house,1 to 2 bed,Dublin 4,1966.14,2043.19,2049.79,2038.25,2056.98
+2894,Terrace house,1 to 2 bed,Ballsbridge; Dublin 4,2173.35,2197.07,2207.69,2155.43,2166.11
+2895,Terrace house,1 to 2 bed,Donnybrook; Dublin 4,1919.6,1988.06,2011.95,2004.99,2064.88
+5939,All property types,One bed,Rialto; Dublin 8,1112.05,1182.76,1212.57,1206.8,1174.89
+5940,All property types,One bed,South Circular Road; Dublin 8,1094.74,1127.5,1123.27,1159.38,1160.38
+5942,All property types,One bed,Dublin 9,1087.18,1099.02,1116.66,1125.13,1140.37
+5945,All property types,One bed,Drumcondra; Dublin 9,1038.84,1020.63,1030.19,1030.79,1052.19
+5946,All property types,One bed,Glasnevin; Dublin 9,995.14,1017.05,1050.45,1126.04,1141.49
+5947,All property types,One bed,Santry; Dublin 9,1220.51,1267.06,1284.48,1301.7,1293.44
+5949,All property types,One bed,Dublin 10,1084.95,1109.89,1090.1,1136.32,1108.38
+5952,All property types,One bed,Dublin 11,1183.38,1183.94,1167.36,1164.37,1173.88
+5972,All property types,One bed,Dundrum; Dublin 14,1426.88,1468.52,1447.7,1467.07,1464.4
+5974,All property types,One bed,Rathfarnham; Dublin 14,1293.29,0,1315.4,1314.29,1308.33
+5975,All property types,One bed,Dublin 15,1176.67,1175.57,1188.3,1204.76,1200.54
+5976,All property types,One bed,Ashtown; Dublin 15,1278.87,1327.49,1446.38,1442.21,1457.49
+5977,All property types,One bed,Blanchardstown; Dublin 15,0,0,0,1147,1156.47
+2899,Terrace house,1 to 2 bed,Ringsend; Dublin 4,1814.38,1917.87,1870.98,1910.17,1931.55
+2900,Terrace house,1 to 2 bed,Sandymount; Dublin 4,2060.34,2088.39,2129.65,2089.68,2105.53
+2901,Terrace house,1 to 2 bed,Dublin 5,1418,1499.71,1474.96,1539.32,1524.23
+2905,Terrace house,1 to 2 bed,Dublin 6,1676.96,1735.02,1731.63,1725.3,1715.47
+2909,Terrace house,1 to 2 bed,Ranelagh; Dublin 6,1937.69,1999.75,1960.8,1955,1943.31
+2910,Terrace house,1 to 2 bed,Rathgar; Dublin 6,1618.06,1593.49,1592.92,1590.13,1561.35
+2911,Terrace house,1 to 2 bed,Rathmines; Dublin 6,1503.57,1613.04,1622.88,1613.86,1657.33
+2913,Terrace house,1 to 2 bed,Dublin 6W,1440.48,1492.33,1505.67,1545.61,1521.24
+2917,Terrace house,1 to 2 bed,Dublin 7,1427.55,1475.47,1492.31,1504.91,1493.7
+2919,Terrace house,1 to 2 bed,Cabra; Dublin 7,1404.83,1355.15,1349.71,1403.73,1357.41
+6681,All property types,Four plus bed,Dublin,2340.08,2448.64,2451.85,2479.54,2476.56
+6848,All property types,All bedrooms,Dublin,1634.95,1684.62,1691.84,1706.42,1719.07
+6849,All property types,All bedrooms,Balbriggan; Dublin,1156.81,1225.63,1274.09,1297.06,1312.5
+6850,All property types,All bedrooms,Blackrock; Dublin,1986.73,2059.73,2050.77,2064.03,2098.23
+6851,All property types,All bedrooms,Booterstown; Dublin,2036.46,2138.7,2037.34,2054.82,2147.93
+6854,All property types,All bedrooms,Dalkey; Dublin,2390.86,2503.77,2535.53,2546.74,2481.16
+6855,All property types,All bedrooms,Donabate; Dublin,1276.93,1366.97,1456.84,1561.3,1591.8
+6856,All property types,All bedrooms,Dun Laoghaire; Dublin,1858.01,1890,1911.79,1955.99,1957.58
+6857,All property types,All bedrooms,Glenageary; Dublin,2041.44,2334.48,2248.23,2204.15,2294.46
+6858,All property types,All bedrooms,Howth; Dublin,1765.43,1907.33,1926.61,1965.32,2034.72
+6859,All property types,All bedrooms,Killiney; Dublin,2123.62,2124.48,2229.67,2238.56,2192.25
+2924,Terrace house,1 to 2 bed,Stoneybatter; Dublin 7,1492.89,1563.82,1593.46,1577.32,1564.9
+2925,Terrace house,1 to 2 bed,Dublin 8,1529.58,1571.01,1583.99,1597.76,1597.35
+2929,Terrace house,1 to 2 bed,Inchicore; Dublin 8,1379.49,1401.3,1438.28,1456.39,1463.33
+2931,Terrace house,1 to 2 bed,Kilmainham ; Dublin 8,1613.18,0,0,0,0
+335,Detached house,Three bed,Dublin,1884.29,1905.04,1894.87,1946.31,1994.28
+388,Detached house,Three bed,Dublin 4,3077.49,3177.04,3235.21,3283.38,3364.12
+464,Detached house,Three bed,Dublin 15,0,1441.35,1469.69,0,1561.47
+497,Detached house,Three bed,Dublin 24,1411.43,0,0,0,0
+1548,Semi detached house,Three bed,Dublin 3,1870.59,2021.04,2099.38,2115.88,2096.98
+1550,Semi detached house,Three bed,Clontarf; Dublin 3,1933.89,2068.42,2159.51,2152.26,2145.44
+1557,Semi detached house,Three bed,Dublin 4,2952.44,2849.78,2858.17,2820.45,2819.81
+1565,Semi detached house,Three bed,Dublin 5,1639.36,1714.38,1703.91,1728.27,1710.15
+1566,Semi detached house,Three bed,Artane; Dublin 5,1591.89,1629.65,1553.97,1553.13,1552.67
+1568,Semi detached house,Three bed,Raheny; Dublin 5,1678.4,1747.81,1788.86,1870.71,1797.89
+1569,Semi detached house,Three bed,Dublin 6,2423.72,2684.31,2655.82,2739.41,2762.72
+1573,Semi detached house,Three bed,Ranelagh; Dublin 6,2711.83,2987.15,0,3085.47,0
+1577,Semi detached house,Three bed,Dublin 6W,1879.99,1939.33,1945.82,1885.71,1912.02
+1579,Semi detached house,Three bed,Templeogue; Dublin 6W,0,1821.32,0,0,0
+1580,Semi detached house,Three bed,Terenure; Dublin 6W,2036.88,2112.13,2123.5,0,0
+1581,Semi detached house,Three bed,Dublin 7,1700.9,1714.49,1742.03,1710.54,1696.15
+1584,Semi detached house,Three bed,Navan Road; Dublin 7,0,1887.49,0,0,0
+1589,Semi detached house,Three bed,Dublin 8,1968.85,1886.72,1891.5,1837.47,1842.24
+1600,Semi detached house,Three bed,Dublin 9,1674.56,1723.06,1718.26,1695.24,1715.19
+1602,Semi detached house,Three bed,Beaumont; Dublin 9,1790.76,1835.1,1741.03,1692.06,1681.59
+1603,Semi detached house,Three bed,Drumcondra; Dublin 9,1739.35,1816.52,1879.22,1858.89,0
+1605,Semi detached house,Three bed,Santry; Dublin 9,1612.44,1630.97,1624.7,1557.29,1572.88
+1610,Semi detached house,Three bed,Dublin 11,1436.78,1458.49,1466.73,1508.88,1582
+1612,Semi detached house,Three bed,Finglas; Dublin 11,1376.18,1371.63,1413.78,1438.06,1487.74
+1613,Semi detached house,Three bed,Glasnevin; Dublin 11,1550.93,1573.78,0,0,0
+1616,Semi detached house,Three bed,Dublin 12,1525.99,1566.84,1618.42,1652.66,1691.07
+1617,Semi detached house,Three bed,Crumlin; Dublin 12,1551.87,1626.8,1674.89,1713.63,1727.08
+1621,Semi detached house,Three bed,Dublin 13,1582.49,1655.5,1630.68,1596.51,1574.12
+1627,Semi detached house,Three bed,Dublin 14,2073.78,2135.18,2124.78,2122.51,2144.12
+1629,Semi detached house,Three bed,Clonskeagh; Dublin 14,0,2257.16,2227.55,0,0
+1632,Semi detached house,Three bed,Rathfarnham; Dublin 14,1927.48,1881.37,1881.4,1993.1,2028.01
+1633,Semi detached house,Three bed,Dublin 15,1419.51,1466.77,1481.58,1504.14,1493.46
+1635,Semi detached house,Three bed,Blanchardstown; Dublin 15,1288.34,1359.53,1398.88,1423.26,1428.95
+1637,Semi detached house,Three bed,Castleknock; Dublin 15,1551.47,1582.28,1586.53,1644.83,1646.01
+1638,Semi detached house,Three bed,Clonee; Dublin 15,1332.23,1465.41,1485.61,1469.94,1462.86
+1639,Semi detached house,Three bed,Clonsilla; Dublin 15,1439.55,1420.61,1439.75,1452.75,1439.47
+1641,Semi detached house,Three bed,Mulhuddart; Dublin 15,1391.11,1404.6,1367.98,1376.27,1346.48
+1646,Semi detached house,Three bed,Dublin 16,1752.11,1850,1822.84,1823.39,1853.99
+1647,Semi detached house,Three bed,Ballinteer; Dublin 16,1786.32,0,0,0,0
+1649,Semi detached house,Three bed,Knocklyon; Dublin 16,1732.08,1802.22,1777.27,1773.19,1754.96
+1650,Semi detached house,Three bed,Rathfarnham; Dublin 16,1786.2,1890.25,1857.78,1797.8,1826.14
+1652,Semi detached house,Three bed,Dublin 17,1481.29,1607.83,1605.82,1579.81,1550.53
+1655,Semi detached house,Three bed,Dublin 18,1819.98,1861.29,1881.14,1911.46,1922.04
+1659,Semi detached house,Three bed,Leopardstown; Dublin 18,1933.82,1938.37,1962.66,1954.11,1941.22
+1662,Semi detached house,Three bed,Dublin 20,1588.69,1591.25,1565,0,1522.4
+1664,Semi detached house,Three bed,Palmerstown; Dublin 20,1588.91,1576.94,1536.4,0,0
+1665,Semi detached house,Three bed,Clondalkin; Dublin 22,1371.42,1439.56,1433.96,1469.73,1487.82
+1666,Semi detached house,Three bed,Dublin 24,1503.63,1536.14,1567.57,1571.42,1569.08
+1669,Semi detached house,Three bed,Firhouse; Dublin 24,1496.14,1565.76,1595.19,1626.22,1646.13
+1670,Semi detached house,Three bed,Tallaght; Dublin 24,1487.95,1494.97,1524.75,1516.22,1510.85
+2686,Terrace house,Three bed,Lucan; Dublin,1684.07,1737.28,1717.87,1673.46,1681.55
+2687,Terrace house,Three bed,Lusk; Dublin,0,1420.9,0,1464.64,0
+2688,Terrace house,Three bed,Malahide; Dublin,2041.54,2108.17,2096.19,2068.91,1981.95
+2700,Terrace house,Three bed,Swords; Dublin,1478.4,1493.57,1494.84,1496.58,1537.03
+2717,Terrace house,Three bed,Dublin 3,1788.56,1874.03,1929.28,2030.78,2038.95
+2719,Terrace house,Three bed,Clontarf; Dublin 3,1935.6,2078.23,2048.93,2149.6,2247.78
+2726,Terrace house,Three bed,Dublin 4,2743.09,2787.59,2802.69,2847.34,2807.76
+2727,Terrace house,Three bed,Ballsbridge; Dublin 4,0,0,3080.7,2970.56,2922.93
+2728,Terrace house,Three bed,Donnybrook; Dublin 4,0,2491,0,0,0
+2733,Terrace house,Three bed,Sandymount; Dublin 4,2441.38,2609.33,0,2675.8,2563.17
+2734,Terrace house,Three bed,Dublin 5,1581.01,1631.12,1631.47,1642.25,1633.04
+2735,Terrace house,Three bed,Artane; Dublin 5,1601.21,1630.33,1602.2,1624,1589.09
+2737,Terrace house,Three bed,Raheny; Dublin 5,1611.27,1688.77,1677.51,1691.95,1697.74
+2738,Terrace house,Three bed,Dublin 6,2436.26,2403.48,2372.11,2388.8,2411.74
+2742,Terrace house,Three bed,Ranelagh; Dublin 6,2764.82,2670.74,2621.76,2625.21,2641.21
+2743,Terrace house,Three bed,Rathgar; Dublin 6,2238.03,0,0,0,0
+2746,Terrace house,Three bed,Dublin 6W,1826.07,1841.58,1831.38,1816.23,1818.97
+2749,Terrace house,Three bed,Terenure; Dublin 6W,1841.3,0,0,0,0
+2750,Terrace house,Three bed,Dublin 7,1572.85,1680.95,1680.16,1743.79,1797.13
+2752,Terrace house,Three bed,Cabra; Dublin 7,1479.14,1526,1513.41,0,0
+2753,Terrace house,Three bed,Navan Road; Dublin 7,1586.65,1714.03,0,0,0
+2758,Terrace house,Three bed,Dublin 8,1914.85,2034.29,2041.11,2094.63,2106.8
+2762,Terrace house,Three bed,Inchicore; Dublin 8,1465.35,1577.05,1531.49,1664.82,1724.21
+2769,Terrace house,Three bed,Dublin 9,1724.78,1835.15,1800.98,1754.58,1793.97
+2772,Terrace house,Three bed,Drumcondra; Dublin 9,1821.38,1930.19,1980.63,1974.17,2018.43
+2776,Terrace house,Three bed,Dublin 10,1378.12,1469.17,1529.81,1544.57,1533.06
+2777,Terrace house,Three bed,Ballyfermot; Dublin 10,1362.73,1424.9,1485.31,1487.55,1477.03
+2779,Terrace house,Three bed,Dublin 11,1366.63,1415.3,1458.9,1481.46,1527.55
+2781,Terrace house,Three bed,Finglas; Dublin 11,1342.51,1392.03,1434.81,1464.98,1501.89
+2785,Terrace house,Three bed,Dublin 12,1484.21,1558.34,1568.2,1562.52,1545.09
+2786,Terrace house,Three bed,Crumlin; Dublin 12,1480.21,1629.1,1646.27,1632.33,1614.69
+2787,Terrace house,Three bed,Drimnagh; Dublin 12,1417.54,1433.1,1420.74,1434.83,1424.24
+2788,Terrace house,Three bed,Kimmage; Dublin 12,0,1814.32,1809.26,0,0
+2789,Terrace house,Three bed,Walkinstown; Dublin 12,1451.04,1470.94,0,0,0
+2790,Terrace house,Three bed,Dublin 13,1729.9,1704.96,1702.86,1734.48,1703.84
+2792,Terrace house,Three bed,Balgriffin; Dublin 13,0,1854.91,1832.13,1811.97,1788.91
+2796,Terrace house,Three bed,Dublin 14,1953.69,2011.48,2017.24,2017.02,2010.96
+2801,Terrace house,Three bed,Rathfarnham; Dublin 14,0,1790.49,0,0,0
+2802,Terrace house,Three bed,Dublin 15,1526.41,1551.59,1577.13,1599.62,1585.23
+2806,Terrace house,Three bed,Castleknock; Dublin 15,1631.09,1643.82,1640.74,1603.86,1598.86
+2815,Terrace house,Three bed,Dublin 16,1837.7,1789.59,1836.78,1963.05,2011.5
+2821,Terrace house,Three bed,Dublin 17,1345.29,1328.06,1299.59,1287.79,1330.08
+2824,Terrace house,Three bed,Dublin 18,1909.78,1939.16,1962.46,1937.65,1963.77
+2834,Terrace house,Three bed,Clondalkin; Dublin 22,1324.41,1368.11,1396.59,1387.3,1419.97
+2835,Terrace house,Three bed,Dublin 24,1416.56,1471.44,1498.12,1509.77,1502.69
+2839,Terrace house,Three bed,Tallaght; Dublin 24,1376.96,1423.81,1443.36,1457.94,1453.72
+3875,Apartment,Three bed,Dublin 2,2606.04,2884.94,2960.72,2948.09,2881.71
+3508,Apartment,One bed,Dublin,1322.69,1310.31,1328.52,1355.45,1360.78
+3886,Apartment,Three bed,Dublin 3,2047.42,2099.23,2123.51,2085.2,2162.63
+3895,Apartment,Three bed,Dublin 4,2711.73,2965.11,2973.13,3001.75,3021.85
+3896,Apartment,Three bed,Ballsbridge; Dublin 4,2930.03,3291.65,3377.15,3424.88,3484.63
+3901,Apartment,Three bed,Ringsend; Dublin 4,2480.52,0,0,0,0
+3907,Apartment,Three bed,Dublin 6,2463.1,2430.91,2459.39,2415.6,2361.36
+3910,Apartment,Three bed,Milltown; Dublin 6,2404.55,0,0,0,0
+3915,Apartment,Three bed,Dublin 6W,2046.21,2131.31,2114.68,2170.57,2240.41
+3919,Apartment,Three bed,Dublin 7,2006.68,2007.91,2045.16,2133.34,2239.25
+3927,Apartment,Three bed,Dublin 8,2119.1,2143.54,2159.43,2193.92,2183.33
+3932,Apartment,Three bed,Islandbridge; Dublin 8,0,2286.33,2327.13,2373.5,2400.84
+3938,Apartment,Three bed,Dublin 9,1765.04,1898.45,1942.12,1965.75,2016.33
+3943,Apartment,Three bed,Santry; Dublin 9,1693.46,1813.1,1826.1,1934.59,2011.12
+3948,Apartment,Three bed,Dublin 11,1581.38,1591.46,1614.09,1601.25,1586.73
+3950,Apartment,Three bed,Finglas; Dublin 11,1622.79,1596.47,1609.25,1578.2,1556.32
+3954,Apartment,Three bed,Dublin 12,1788.03,1838.15,1873.58,1856.2,1944.48
+3959,Apartment,Three bed,Dublin 13,1871.68,1848.98,1790.99,1814.77,1800.4
+3965,Apartment,Three bed,Dublin 14,2313.6,2362.93,2378.13,2441.85,2465.85
+3971,Apartment,Three bed,Dublin 15,1748.53,1729.24,1673.44,1685.22,1694.6
+3973,Apartment,Three bed,Blanchardstown; Dublin 15,1447.07,1471.8,1527.9,1575.42,1556.06
+3975,Apartment,Three bed,Castleknock; Dublin 15,1754.36,1811.91,1859.33,1865.25,1927.17
+3977,Apartment,Three bed,Clonsilla; Dublin 15,2046.48,2009.17,0,0,0
+3984,Apartment,Three bed,Dublin 16,0,2238.84,2280.39,2280.66,2232.77
+3991,Apartment,Three bed,Malahide Road; Dublin 17,2250.55,0,0,0,0
+3993,Apartment,Three bed,Dublin 18,2141.76,2214.22,2196.12,2254.16,2306.36
+3994,Apartment,Three bed,Cabinteely; Dublin 18,1844.91,1930,1977.24,0,0
+3997,Apartment,Three bed,Leopardstown; Dublin 18,2437.39,2489.89,2481.31,2531.46,2449.91
+3998,Apartment,Three bed,Sandyford; Dublin 18,2050.98,2200.8,2176.17,2228.5,2327.84
+4003,Apartment,Three bed,Clondalkin; Dublin 22,1553.29,1573.57,0,0,1623.73
+4004,Apartment,Three bed,Dublin 24,1531.04,1553.1,1582.89,1615.71,1649.31
+4008,Apartment,Three bed,Tallaght; Dublin 24,1572.15,1566.75,1593.82,1626.86,1628.26
+5076,Other Flats,Three bed,Dublin 6,1856.49,1948.48,1928.49,0,0
+6181,All property types,Three bed,Balbriggan; Dublin,1240.97,1335.35,1396.16,1433.34,1456.17
+6182,All property types,Three bed,Blackrock; Dublin,2202.13,2292.62,2218.14,2267.26,2306.95
+6183,All property types,Three bed,Booterstown; Dublin,0,2370.41,0,0,0
+6186,All property types,Three bed,Dalkey; Dublin,2585.61,2681.87,2716.3,2687.15,2631.9
+6187,All property types,Three bed,Donabate; Dublin,1613.48,1721.49,1817.26,1869.74,1853.63
+6188,All property types,Three bed,Dun Laoghaire; Dublin,2351.04,2330.49,2333.97,2361.56,2378.99
+6191,All property types,Three bed,Killiney; Dublin,1932.76,2114.04,2168.62,2174.75,2124.01
+6192,All property types,Three bed,Kinsealy; Dublin,1557.7,1552.2,1586.81,1607.21,1630.35
+6193,All property types,Three bed,Lucan; Dublin,1532.18,1582.08,1593.75,1602.57,1601.45
+6194,All property types,Three bed,Lusk; Dublin,1365.34,1406.97,1430.81,1444.88,1439.58
+6195,All property types,Three bed,Malahide; Dublin,2030.28,2053.5,2052.37,2042.33,2008.25
+6196,All property types,Three bed,Monkstown; Dublin,0,2357.36,2373.11,0,0
+6200,All property types,Three bed,Rush; Dublin,1330.46,1367.95,1386.8,1380.63,1377.68
+6201,All property types,Three bed,Saggart; Dublin,1480.27,1592.23,1628.69,1677.78,1666.02
+6203,All property types,Three bed,Shankill; Dublin,1668.85,1656.82,1673.81,1680.55,1650.17
+6204,All property types,Three bed,Skerries; Dublin,1399.6,1461.11,1457.62,1464.47,1456.7
+6206,All property types,Three bed,Stillorgan; Dublin,2124.68,2146.9,2126.72,2077.23,2077.42
+6207,All property types,Three bed,Swords; Dublin,1454.47,1505.81,1523.9,1532.26,1573.17
+6208,All property types,Three bed,Dublin 1,2018.9,2235.45,2267.65,2283.09,2303.8
+6213,All property types,Three bed,Dublin 2,2555.3,2728.81,2856.83,2851.28,2829.29
+6224,All property types,Three bed,Dublin 3,1860.08,1944.82,2001.06,2040.03,2062.05
+6226,All property types,Three bed,Clontarf; Dublin 3,1986.1,2106.5,2135.68,2157.21,2203.62
+6228,All property types,Three bed,East Wall; Dublin 3,2007.31,2052,2164.42,2072.38,0
+6230,All property types,Three bed,Fairview; Dublin 3,1731.48,1785.34,1773.45,1826.67,0
+6231,All property types,Three bed,Marino; Dublin 3,1706.34,0,1797.29,1908.07,1894.34
+6233,All property types,Three bed,Dublin 4,2792.27,2901.71,2916.84,2935.87,2931.57
+6234,All property types,Three bed,Ballsbridge; Dublin 4,3113.78,3158.95,3198.88,3194.33,3209.46
+6235,All property types,Three bed,Donnybrook; Dublin 4,2595.42,2687.09,2591.86,2688.81,2711.77
+6239,All property types,Three bed,Ringsend; Dublin 4,2376.52,2524.87,2533.92,2503.55,0
+6240,All property types,Three bed,Sandymount; Dublin 4,2599.89,2754.45,2787.67,2848.04,2763.48
+6241,All property types,Three bed,Dublin 5,1617.22,1705.15,1703.43,1736.53,1720.35
+6242,All property types,Three bed,Artane; Dublin 5,1599.85,1648.93,1599.49,1619.62,1602
+6243,All property types,Three bed,Killester; Dublin 5,1812.46,1861.79,1867.57,1770.78,1749.22
+6244,All property types,Three bed,Raheny; Dublin 5,1653,1750.91,1759.5,1820.91,1785.6
+6245,All property types,Three bed,Dublin 6,2393.65,2454.27,2437.31,2474.31,2459.5
+6248,All property types,Three bed,Milltown; Dublin 6,2351.88,2515.87,2499.74,2444.46,2430.56
+6249,All property types,Three bed,Ranelagh; Dublin 6,2644.36,2710.73,2658.76,2746.96,2744.34
+6250,All property types,Three bed,Rathgar; Dublin 6,2373.4,2407.64,2324.06,2318.66,2225.02
+6251,All property types,Three bed,Rathmines; Dublin 6,2198.14,2229.56,2226.97,2241.01,2243.96
+6253,All property types,Three bed,Dublin 6W,1903.17,1951.42,1940.04,1918.92,1945.23
+6254,All property types,Three bed,Harolds Cross; Dublin 6W,1849.51,1844.8,1864.04,1888.6,1905.29
+6255,All property types,Three bed,Templeogue; Dublin 6W,1762.78,1847.42,1780.11,1791.54,1828.34
+6256,All property types,Three bed,Terenure; Dublin 6W,2009.65,2072.66,2051.8,2036.12,2022.35
+6257,All property types,Three bed,Dublin 7,1685.61,1740.2,1754.61,1793.18,1835.55
+6259,All property types,Three bed,Cabra; Dublin 7,1512.2,1579.48,1625.55,1585.08,1707.85
+6260,All property types,Three bed,Navan Road; Dublin 7,1709.86,1817.96,1804.79,1780.13,1751.08
+6265,All property types,Three bed,Dublin 8,2002.59,2062,2066.69,2095.2,2101.76
+6269,All property types,Three bed,Inchicore; Dublin 8,1659.63,1738.97,1730.12,1797.3,1780.85
+6270,All property types,Three bed,Islandbridge; Dublin 8,2412.67,2414.3,2400.31,2388.37,2384.24
+6271,All property types,Three bed,Kilmainham ; Dublin 8,1980.4,2049.33,2075.74,2054.89,2063.15
+6273,All property types,Three bed,Rialto; Dublin 8,0,1892.34,1974.83,1924.84,1924.26
+6274,All property types,Three bed,South Circular Road; Dublin 8,0,0,2038.14,2054.85,0
+6276,All property types,Three bed,Dublin 9,1712.98,1801.79,1803.18,1787.62,1822.12
+6278,All property types,Three bed,Beaumont; Dublin 9,1775.49,1844.49,1795.3,1709.39,1711.81
+6279,All property types,Three bed,Drumcondra; Dublin 9,1831.83,1954.33,2007.01,1969.1,2027.3
+6280,All property types,Three bed,Glasnevin; Dublin 9,1822.16,1970.61,0,0,0
+6281,All property types,Three bed,Santry; Dublin 9,1613.51,1678.87,1678.81,1708.84,1746.54
+6282,All property types,Three bed,Whitehall; Dublin 9,1634.47,1736.64,1724.08,1750.1,0
+6283,All property types,Three bed,Dublin 10,1378.08,1432.79,1452.95,1466.85,1465.48
+6284,All property types,Three bed,Ballyfermot; Dublin 10,1316.28,1359.43,1405.77,1403.88,1413.65
+6286,All property types,Three bed,Dublin 11,1436.39,1459.02,1490.43,1513.9,1549.48
+6288,All property types,Three bed,Finglas; Dublin 11,1416.53,1426.83,1464.33,1486.92,1511.35
+6289,All property types,Three bed,Glasnevin; Dublin 11,1607,1605.4,1606.21,1670.86,1695.34
+6292,All property types,Three bed,Dublin 12,1540.28,1605.91,1633.75,1634.75,1660.1
+6293,All property types,Three bed,Crumlin; Dublin 12,1529.8,1645.99,1694.33,1707.63,1705.13
+6294,All property types,Three bed,Drimnagh; Dublin 12,1441.86,1470.63,1484.54,1502.67,1544.63
+6295,All property types,Three bed,Kimmage; Dublin 12,1782.59,1822.98,1851.19,1806.3,1848.62
+6296,All property types,Three bed,Walkinstown; Dublin 12,1479.52,1482.84,1477.9,1468.34,1522.92
+6297,All property types,Three bed,Dublin 13,1724.44,1722.13,1702.08,1721.47,1699.52
+6298,All property types,Three bed,Baldoyle; Dublin 13,1670.56,1735.19,1709.56,1759.5,1758.61
+6299,All property types,Three bed,Balgriffin; Dublin 13,1802.59,1803.09,1779.85,1797.77,1783.85
+6300,All property types,Three bed,Clongriffin; Dublin 13,1685.94,1710.67,1612.31,1651.51,1670.1
+6301,All property types,Three bed,Donaghmede; Dublin 13,1318.43,0,0,1360.27,1370.3
+6302,All property types,Three bed,Sutton; Dublin 13,1830.07,1797.86,1886.83,1808.67,1765.4
+6303,All property types,Three bed,Dublin 14,2085.88,2154.86,2150.53,2174.4,2185.46
+6304,All property types,Three bed,Churchtown; Dublin 14,2099.17,2247.56,2245.52,2312.54,2348.99
+6305,All property types,Three bed,Clonskeagh; Dublin 14,2328.74,2293.69,2250.7,2226.94,2166.49
+6306,All property types,Three bed,Dundrum; Dublin 14,2176.5,2179.49,2129.74,2137.93,2141.36
+6308,All property types,Three bed,Rathfarnham; Dublin 14,1901.57,1865.79,1892.64,1961.96,1953.47
+6309,All property types,Three bed,Dublin 15,1525.24,1550.27,1543.25,1562.25,1558.48
+6310,All property types,Three bed,Ashtown; Dublin 15,1741.13,1716.83,0,0,0
+6311,All property types,Three bed,Blanchardstown; Dublin 15,1359.41,1422.06,1462.24,1490.61,1488.2
+6313,All property types,Three bed,Castleknock; Dublin 15,1610.7,1645.19,1656,1675.58,1684.97
+6314,All property types,Three bed,Clonee; Dublin 15,1356.52,1465.16,1497.87,1499.48,1489.09
+6315,All property types,Three bed,Clonsilla; Dublin 15,1641.37,1585.54,1500.88,1474.97,1467.11
+6317,All property types,Three bed,Mulhuddart; Dublin 15,1398.81,1410.42,1385.02,1410.86,1417
+6318,All property types,Three bed,Ongar; Dublin 15,1498.33,1495.65,1528.72,1484.35,1496.21
+6321,All property types,Three bed,Tyrrelstown; Dublin 15,1423.84,1458.46,1452.63,1482.84,1503.62
+6322,All property types,Three bed,Dublin 16,1811.84,1892.57,1895.17,1920.27,1944.89
+6323,All property types,Three bed,Ballinteer; Dublin 16,1864.8,1819.87,1758.78,1797.46,1871.87
+6324,All property types,Three bed,Dundrum; Dublin 16,2169.71,2352.73,2379.84,2425.99,2403.7
+6325,All property types,Three bed,Knocklyon; Dublin 16,1745.81,1803.9,1784.54,1773.31,1751.35
+6326,All property types,Three bed,Rathfarnham; Dublin 16,1788.6,1860.64,1870.12,1913.2,1925.54
+6328,All property types,Three bed,Dublin 17,1500.09,1539.73,1521.3,1513.85,1495.17
+6329,All property types,Three bed,Malahide Road; Dublin 17,2132.49,1987.76,0,0,0
+6331,All property types,Three bed,Dublin 18,1983.79,2048.18,2045.09,2092.92,2140.94
+6332,All property types,Three bed,Cabinteely; Dublin 18,1835.54,1924.01,1951.32,1983.44,2036.37
+6334,All property types,Three bed,Foxrock; Dublin 18,2141,0,0,0,0
+6335,All property types,Three bed,Leopardstown; Dublin 18,2164.76,2143.72,2150.77,2187.25,2163.63
+6336,All property types,Three bed,Sandyford; Dublin 18,1946.91,2058.32,2041.07,2083.23,2171.25
+6337,All property types,Three bed,Stepaside; Dublin 18,1825.15,0,0,0,0
+6338,All property types,Three bed,Dublin 20,1572.82,1598.41,1589.46,1564.28,1555.29
+6340,All property types,Three bed,Palmerstown; Dublin 20,1543.48,1527.33,1502.98,1437.95,1417.59
+6341,All property types,Three bed,Clondalkin; Dublin 22,1370.48,1426.12,1434.57,1451.53,1474.55
+6342,All property types,Three bed,Dublin 24,1473.72,1516.23,1548.05,1559.28,1558.78
+6343,All property types,Three bed,Ballycullen; Dublin 24,1594.31,1636.66,1662.97,1652.2,1648.48
+6344,All property types,Three bed,Citywest; Dublin 24,1587.29,1635.21,1656.96,1659.2,1650.86
+6345,All property types,Three bed,Firhouse; Dublin 24,1504.27,1607.66,1646.14,1676.96,1685.52
+6346,All property types,Three bed,Tallaght; Dublin 24,1451.38,1474.86,1502.69,1508.75,1504.23
+2933,Terrace house,1 to 2 bed,Rialto; Dublin 8,0,1455.68,0,0,0
+2936,Terrace house,1 to 2 bed,Dublin 9,1413.46,1486.89,1502.81,1499.25,1516.33
+2939,Terrace house,1 to 2 bed,Drumcondra; Dublin 9,1423.83,1378.38,1460.88,1477.35,1543.05
+2943,Terrace house,1 to 2 bed,Dublin 10,1299.71,1337.69,1368.73,1325.79,1340.09
+2944,Terrace house,1 to 2 bed,Ballyfermot; Dublin 10,1332.73,1367.84,1390.78,1341.74,1331.04
+2946,Terrace house,1 to 2 bed,Dublin 11,1304.87,1315.07,1323.73,1432.52,1470.31
+2948,Terrace house,1 to 2 bed,Finglas; Dublin 11,1284.24,1275.04,1262.1,1432.03,1437.82
+2952,Terrace house,1 to 2 bed,Dublin 12,1321.2,1434.45,1448.62,1464.79,1488.93
+2953,Terrace house,1 to 2 bed,Crumlin; Dublin 12,1327.42,1424.88,1423.08,1431.02,1445.6
+2954,Terrace house,1 to 2 bed,Drimnagh; Dublin 12,1264.71,1388.38,1446.38,1461.62,1475.21
+2955,Terrace house,1 to 2 bed,Kimmage; Dublin 12,0,1484.97,0,0,1527.93
+2957,Terrace house,1 to 2 bed,Dublin 13,1425.84,1467.51,1562.89,1590.37,0
+2963,Terrace house,1 to 2 bed,Dublin 14,1623.56,1710.52,1714.5,1742.04,1734.51
+2969,Terrace house,1 to 2 bed,Dublin 15,1279.69,1280.17,1287.78,1271.91,1299.76
+2974,Terrace house,1 to 2 bed,Clonee; Dublin 15,1280.65,0,0,0,0
+2991,Terrace house,1 to 2 bed,Dublin 18,1662.9,1752.6,1768.56,1804.97,1753.91
+3001,Terrace house,1 to 2 bed,Clondalkin; Dublin 22,1198.25,1210.9,1202.47,1189.92,1224.99
+4049,Apartment,1 to 2 bed,Pearse Street; Dublin 2,1668.78,1740.01,1789.41,1753.54,1758.7
+4051,Apartment,1 to 2 bed,Temple Bar; Dublin 2,1631.76,0,0,0,0
+4052,Apartment,1 to 2 bed,Townsend Street; Dublin 2,1721.57,1751.55,1726.79,1729.71,1751.82
+4053,Apartment,1 to 2 bed,Dublin 3,1528.4,1573.92,1588.19,1600.67,1608.44
+4054,Apartment,1 to 2 bed,Clonliffe; Dublin 3,0,0,0,1513.85,1523.37
+4055,Apartment,1 to 2 bed,Clontarf; Dublin 3,1546.45,1615.87,1617.98,1614.48,1625.42
+4056,Apartment,1 to 2 bed,Drumcondra; Dublin 3,1529.29,1489.74,1452.29,1419.46,0
+4057,Apartment,1 to 2 bed,East Wall; Dublin 3,1669.48,1711.36,1726.2,1778.56,1773.23
+4059,Apartment,1 to 2 bed,Fairview; Dublin 3,1423.45,1418.91,1441.43,1443.74,1467.23
+4062,Apartment,1 to 2 bed,Dublin 4,1849.54,1923.47,1945.56,1980.23,1978.97
+4063,Apartment,1 to 2 bed,Ballsbridge; Dublin 4,2038.28,2160.19,2204.35,2234.95,2234.37
+4064,Apartment,1 to 2 bed,Donnybrook; Dublin 4,1793.26,1786.33,1793.11,1788.14,1787.24
+4066,Apartment,1 to 2 bed,Merrion; Dublin 4,1560.65,1594.14,1610.8,1673.12,1720.7
+4067,Apartment,1 to 2 bed,Pembroke; Dublin 4,1735.47,1811.51,1775.96,1862.17,1869.33
+4068,Apartment,1 to 2 bed,Ringsend; Dublin 4,1716.21,1784.11,1776.1,1784.38,1802
+4069,Apartment,1 to 2 bed,Sandymount; Dublin 4,1723.19,1813.12,1850.88,1897.6,1881.39
+4070,Apartment,1 to 2 bed,Dublin 5,1432.93,1499.81,1517.08,1551.83,1546.02
+4071,Apartment,1 to 2 bed,Artane; Dublin 5,1422.94,1435.95,1473.74,1548.03,1472.32
+4072,Apartment,1 to 2 bed,Killester; Dublin 5,1310.4,0,0,0,0
+4073,Apartment,1 to 2 bed,Raheny; Dublin 5,1442.33,1500.65,1511.22,1513.97,1483.86
+4074,Apartment,1 to 2 bed,Dublin 6,1615.88,1620.6,1621.51,1626.51,1628.04
+4076,Apartment,1 to 2 bed,Harolds Cross; Dublin 6,0,0,0,0,1824.48
+4077,Apartment,1 to 2 bed,Milltown; Dublin 6,1867.79,1875.69,1881.23,1891.03,1906.36
+4078,Apartment,1 to 2 bed,Ranelagh; Dublin 6,1619.23,1680.43,1675.01,1676.21,1676.98
+4079,Apartment,1 to 2 bed,Rathgar; Dublin 6,1624.93,1608.26,1604.59,1601.19,1597.78
+4080,Apartment,1 to 2 bed,Rathmines; Dublin 6,1453.25,1481.65,1498.26,1511.1,1507.15
+4081,Apartment,1 to 2 bed,Terenure; Dublin 6,1421.12,1555.06,1603.12,1602.36,1588.84
+4082,Apartment,1 to 2 bed,Dublin 6W,1542.83,1608.34,1596.47,1569.68,1611.24
+4083,Apartment,1 to 2 bed,Harolds Cross; Dublin 6W,1349.45,1365.36,1364.53,1311.02,1347.37
+4085,Apartment,1 to 2 bed,Terenure; Dublin 6W,1676.77,1766.15,1748.19,1732.67,1750.03
+4086,Apartment,1 to 2 bed,Dublin 7,1403.75,1451.94,1473.87,1493.86,1503.08
+4088,Apartment,1 to 2 bed,Cabra; Dublin 7,1384.67,1470.5,1435.66,1401.57,1412.25
+4089,Apartment,1 to 2 bed,Navan Road; Dublin 7,1399.56,1408.8,1420.47,1406.51,1383.11
+4091,Apartment,1 to 2 bed,Phibsboro; Dublin 7,1284.29,1306.76,1300.75,1342.07,1311.81
+4092,Apartment,1 to 2 bed,Smithfield; Dublin 7,1575.56,1647.01,1663.04,1679.15,1692.11
+4094,Apartment,1 to 2 bed,Dublin 8,1496.27,1566.69,1560.94,1566.13,1571.66
+4095,Apartment,1 to 2 bed,Christchurch; Dublin 8,1535.26,1594.03,1590.85,1577.37,1535.74
+4096,Apartment,1 to 2 bed,Cork Street; Dublin 8,1451.3,1487.4,1527.06,1542.41,1534.52
+4098,Apartment,1 to 2 bed,Inchicore; Dublin 8,1357.48,1387.34,1360.34,1365.66,1364.95
+4099,Apartment,1 to 2 bed,Islandbridge; Dublin 8,1748.32,1766.39,1781.61,1799.34,1818.88
+4100,Apartment,1 to 2 bed,Kilmainham ; Dublin 8,1488.08,1495.33,1487.1,1487.18,1508.51
+4101,Apartment,1 to 2 bed,Portobello; Dublin 8,1423.26,1521.02,1497.38,1500.75,1483.68
+4102,Apartment,1 to 2 bed,Rialto; Dublin 8,1389.34,1476.93,1459.7,1436.07,1434.15
+4103,Apartment,1 to 2 bed,South Circular Road; Dublin 8,1162.61,1289.54,1279.82,1342.73,1380.14
+4105,Apartment,1 to 2 bed,Dublin 9,1397.81,1464.45,1486.35,1504.17,1526.77
+4106,Apartment,1 to 2 bed,Ballymun; Dublin 9,1429.92,1391.12,1356.17,0,0
+4107,Apartment,1 to 2 bed,Beaumont; Dublin 9,1327.45,1390.64,1421.48,1404.83,1401.25
+4108,Apartment,1 to 2 bed,Drumcondra; Dublin 9,1427.04,1463.14,1457.16,1450.93,1483.62
+4109,Apartment,1 to 2 bed,Glasnevin; Dublin 9,1243.91,1285.43,1269.84,1292.62,1291.5
+4110,Apartment,1 to 2 bed,Santry; Dublin 9,1393.95,1476.7,1516.63,1586.84,1609.25
+4112,Apartment,1 to 2 bed,Dublin 10,1277.89,1351.6,1342.85,1368.96,1363.67
+4114,Apartment,1 to 2 bed,Cherry Orchard; Dublin 10,1295.12,1345.05,1365.05,1350.44,1327.84
+4115,Apartment,1 to 2 bed,Dublin 11,1389.15,1359.19,1360.14,1374.91,1384.81
+4116,Apartment,1 to 2 bed,Ballymun; Dublin 11,1313.84,1360.09,1347.14,1318.49,1349.36
+4117,Apartment,1 to 2 bed,Finglas; Dublin 11,1405.71,1331.52,1316.13,1330.91,1329.83
+4118,Apartment,1 to 2 bed,Glasnevin; Dublin 11,1336.13,1383.8,1410.85,1383.12,1374
+4121,Apartment,1 to 2 bed,Dublin 12,1399.68,1437.63,1451.74,1465,1460.06
+4122,Apartment,1 to 2 bed,Crumlin; Dublin 12,1223.16,1306.46,1398.31,1507.6,1531.68
+4123,Apartment,1 to 2 bed,Drimnagh; Dublin 12,1444.73,1441.28,1456.48,1494.92,1525.65
+4124,Apartment,1 to 2 bed,Kimmage; Dublin 12,1453.63,1479.49,1478.22,1510.17,1496.71
+4126,Apartment,1 to 2 bed,Dublin 13,1510.83,1514.44,1516.4,1580.38,1585.06
+4127,Apartment,1 to 2 bed,Baldoyle; Dublin 13,1471.95,1476.74,1491.58,1473.28,1476.03
+4128,Apartment,1 to 2 bed,Balgriffin; Dublin 13,1387.5,1498.48,1493.03,0,0
+4129,Apartment,1 to 2 bed,Clongriffin; Dublin 13,1425.43,1464.86,1456.58,1478.53,1467.47
+4130,Apartment,1 to 2 bed,Donaghmede; Dublin 13,1333.77,0,0,0,0
+4131,Apartment,1 to 2 bed,Sutton; Dublin 13,1546.53,0,0,0,0
+4132,Apartment,1 to 2 bed,Dublin 14,1663.94,1748.47,1751.9,1802.53,1808.52
+4133,Apartment,1 to 2 bed,Churchtown; Dublin 14,1806.97,2048.62,2074.32,2092.57,2124.28
+4134,Apartment,1 to 2 bed,Clonskeagh; Dublin 14,1684.78,1715.08,1735.65,1775.14,1779.66
+4135,Apartment,1 to 2 bed,Dundrum; Dublin 14,1683.53,1720.55,1706.89,1702.58,1674.47
+4136,Apartment,1 to 2 bed,Goatstown; Dublin 14,0,1969.45,1967.93,2034.69,2033.9
+4137,Apartment,1 to 2 bed,Rathfarnham; Dublin 14,1542.67,1563.59,1578.2,1575.77,1578.66
+4139,Apartment,1 to 2 bed,Ashtown; Dublin 15,1477.14,1505.4,1572.29,1570.57,1590.44
+4140,Apartment,1 to 2 bed,Blanchardstown; Dublin 15,1378.7,1408.1,1435.07,1442.56,1455.5
+4142,Apartment,1 to 2 bed,Castleknock; Dublin 15,1568.34,1590.97,1606.63,1622,1634.37
+4143,Apartment,1 to 2 bed,Clonee; Dublin 15,1281.4,1260.32,1272.74,1277.53,1286.37
+4144,Apartment,1 to 2 bed,Clonsilla; Dublin 15,1365.41,1381.62,1336.72,1316.24,1323.25
+4146,Apartment,1 to 2 bed,Mulhuddart; Dublin 15,1268.81,0,0,0,0
+4147,Apartment,1 to 2 bed,Ongar; Dublin 15,1240.53,1252.59,1240.22,1261.15,1285.52
+4148,Apartment,1 to 2 bed,Porterstown; Dublin 15,1542.96,0,0,0,0
+4149,Apartment,1 to 2 bed,Royal Canal Park; Dublin 15,1346.91,1390.18,1405.95,1412.3,1399.38
+4150,Apartment,1 to 2 bed,Tyrrelstown; Dublin 15,1238.67,1290.06,0,0,0
+4151,Apartment,1 to 2 bed,Dublin 16,1667.5,1717.57,1716.29,1747.6,1752.79
+4152,Apartment,1 to 2 bed,Ballinteer; Dublin 16,1625.31,1660.27,1659.08,1637.74,1669.54
+4153,Apartment,1 to 2 bed,Dundrum; Dublin 16,1776.93,1819.71,1811.09,1847.64,1842.94
+4154,Apartment,1 to 2 bed,Knocklyon; Dublin 16,1607.5,0,0,0,0
+4155,Apartment,1 to 2 bed,Rathfarnham; Dublin 16,1568.99,1600.72,1614.58,1621.99,1608.66
+4157,Apartment,1 to 2 bed,Dublin 17,1345.4,1369.94,1366.73,1379.87,1394.93
+4158,Apartment,1 to 2 bed,Malahide Road; Dublin 17,1562.18,1489.71,1503.1,1524.68,1549.91
+4160,Apartment,1 to 2 bed,Dublin 18,1673.26,1718.99,1717.23,1725.94,1740.23
+4161,Apartment,1 to 2 bed,Cabinteely; Dublin 18,1466.47,1514.02,1520.73,1528.89,1539.29
+4162,Apartment,1 to 2 bed,Carrickmines; Dublin 18,1607.79,1629.5,1647.73,1658.97,1648.07
+4164,Apartment,1 to 2 bed,Leopardstown; Dublin 18,1876.22,1885.51,1857.68,1860.99,1851.18
+4165,Apartment,1 to 2 bed,Sandyford; Dublin 18,1688.77,1728.44,1724.04,1726.59,1747.07
+4166,Apartment,1 to 2 bed,Stepaside; Dublin 18,1557.32,1605.14,1614.65,1636.23,1624.91
+4167,Apartment,1 to 2 bed,Dublin 20,1375.92,1386.85,1376.1,1364.15,1347.62
+4168,Apartment,1 to 2 bed,Chapelizod; Dublin 20,1355.12,1372.74,1361.37,1351.52,1328.51
+4170,Apartment,1 to 2 bed,Clondalkin; Dublin 22,1354.78,1319.02,1327.35,1312.8,1324.46
+4171,Apartment,1 to 2 bed,Dublin 24,1346.83,1351.78,1343.81,1352.15,1363.46
+4172,Apartment,1 to 2 bed,Ballycullen; Dublin 24,1437.77,1451.21,1460.05,1456.51,1440.18
+4173,Apartment,1 to 2 bed,Citywest; Dublin 24,1338.55,1371.19,1376.21,1391.12,1404.4
+4175,Apartment,1 to 2 bed,Tallaght; Dublin 24,1322.64,1307.85,1303.93,1310.29,1312.22
+5186,Other Flats,1 to 2 bed,Dun Laoghaire; Dublin,1053.97,1104.39,1121.54,1135.16,1090.18
+5206,Other Flats,1 to 2 bed,Dublin 1,1031.92,1099.7,1118.51,1126.73,1123.66
+5211,Other Flats,1 to 2 bed,Dublin 2,1119.82,1312.71,1391.68,1410.34,1428.57
+5222,Other Flats,1 to 2 bed,Dublin 3,966.11,1003.84,1013.51,1070.73,1113.62
+5224,Other Flats,1 to 2 bed,Clontarf; Dublin 3,1005.5,990,958.62,978.53,1016.16
+5225,Other Flats,1 to 2 bed,Drumcondra; Dublin 3,1003.88,1028.49,1032.59,1077.72,1046.37
+5228,Other Flats,1 to 2 bed,Fairview; Dublin 3,840.32,895.09,940.17,1065.6,1154.62
+5230,Other Flats,1 to 2 bed,North Strand; Dublin 3,1116.88,1170.04,1198.11,0,0
+5231,Other Flats,1 to 2 bed,Dublin 4,1229.16,1299.48,1291.6,1311.54,1295.26
+5232,Other Flats,1 to 2 bed,Ballsbridge; Dublin 4,1252.61,1391.45,1367.36,1353.73,1334.8
+5233,Other Flats,1 to 2 bed,Donnybrook; Dublin 4,1204.12,1237.77,1249.44,1297.93,1327.63
+5243,Other Flats,1 to 2 bed,Dublin 6,1045.64,1096.35,1098.48,1101.29,1110.95
+5247,Other Flats,1 to 2 bed,Ranelagh; Dublin 6,1041.04,1108.5,1123.95,1139.39,1139.71
+5248,Other Flats,1 to 2 bed,Rathgar; Dublin 6,1074.3,1126.8,1151.28,1127.33,1121.18
+5249,Other Flats,1 to 2 bed,Rathmines; Dublin 6,1036.56,1081.45,1075.06,1083.92,1097.36
+5251,Other Flats,1 to 2 bed,Dublin 6W,982.25,1002.08,1033.99,1029.74,1045.11
+5252,Other Flats,1 to 2 bed,Harolds Cross; Dublin 6W,951.18,1009.67,1025.08,1024.73,1033.42
+5254,Other Flats,1 to 2 bed,Terenure; Dublin 6W,0,1136.72,0,0,0
+5255,Other Flats,1 to 2 bed,Dublin 7,919.73,993.53,1003.17,1030.97,1030.67
+5257,Other Flats,1 to 2 bed,Cabra; Dublin 7,951.08,1009.59,1013.22,1033.27,1055.43
+5259,Other Flats,1 to 2 bed,North Circular Road; Dublin 7,940.05,985.13,1009.56,0,0
+5260,Other Flats,1 to 2 bed,Phibsboro; Dublin 7,830.7,902.78,902.58,912.26,914.38
+5263,Other Flats,1 to 2 bed,Dublin 8,1008.13,1054.13,1061.61,1086.65,1084.53
+5269,Other Flats,1 to 2 bed,Kilmainham ; Dublin 8,0,0,1064.04,1110.82,1121.42
+5270,Other Flats,1 to 2 bed,Portobello; Dublin 8,1026.36,1073.19,1104.67,1145.9,1207.92
+5271,Other Flats,1 to 2 bed,Rialto; Dublin 8,977.7,1040.09,1088.19,1123.64,0
+5272,Other Flats,1 to 2 bed,South Circular Road; Dublin 8,0,941.45,961.38,967.42,978.87
+5274,Other Flats,1 to 2 bed,Dublin 9,950.63,974.86,1009.48,1017.74,1040.83
+5277,Other Flats,1 to 2 bed,Drumcondra; Dublin 9,953.18,957.17,975.27,982.91,1011.68
+5284,Other Flats,1 to 2 bed,Dublin 11,1058.1,1053.26,1112.23,1077.28,0
+5290,Other Flats,1 to 2 bed,Dublin 12,1080.25,1143.63,1139.4,1143.97,1147.16
+5291,Other Flats,1 to 2 bed,Crumlin; Dublin 12,0,0,0,1195.7,1212.19
+5293,Other Flats,1 to 2 bed,Kimmage; Dublin 12,0,1164.03,0,1187.6,0
+5307,Other Flats,1 to 2 bed,Dublin 15,1156.63,1165.41,0,0,0
+6347,All property types,1 to 2 bed,Dublin,1479.54,1498.9,1514.09,1533.96,1539.09
+6348,All property types,1 to 2 bed,Balbriggan; Dublin,1081.92,1137.95,1169.16,1178.29,1189.59
+6349,All property types,1 to 2 bed,Blackrock; Dublin,1650.98,1684.28,1691.37,1702.63,1717.4
+6350,All property types,1 to 2 bed,Booterstown; Dublin,1673.49,1719.58,1710.56,1769.21,1818.87
+6353,All property types,1 to 2 bed,Dalkey; Dublin,1703.8,1699.61,1664.17,1708.56,1732.83
+6354,All property types,1 to 2 bed,Donabate; Dublin,1104.21,1169.67,1193.57,1236.48,1274.39
+6355,All property types,1 to 2 bed,Dun Laoghaire; Dublin,1697.06,1710.7,1760.28,1811.02,1813.64
+6357,All property types,1 to 2 bed,Howth; Dublin,1541.3,1722.68,1743.91,1745.29,1738.86
+6358,All property types,1 to 2 bed,Killiney; Dublin,1704.33,1791.08,1800.82,1818.77,1746.7
+6359,All property types,1 to 2 bed,Kinsealy; Dublin,1310.44,1345.48,1380.46,1404.76,1426.5
+6360,All property types,1 to 2 bed,Lucan; Dublin,1395.22,1323.86,1318.15,1342.4,1354.88
+6361,All property types,1 to 2 bed,Lusk; Dublin,1179.94,1246.91,1263.89,1321.4,1334.37
+6362,All property types,1 to 2 bed,Malahide; Dublin,1605.55,1645.23,1669.64,1684.61,1695.82
+6363,All property types,1 to 2 bed,Monkstown; Dublin,1502.85,1577.66,1580.46,1581.53,1584.96
+6365,All property types,1 to 2 bed,Portmarnock; Dublin,1453.77,1528.22,1552.25,1554.88,1576.72
+6366,All property types,1 to 2 bed,Rathcoole; Dublin,1184.26,1211.68,1248.07,1311.28,1301.17
+6367,All property types,1 to 2 bed,Rush; Dublin,1140.05,1169.63,1215.21,1187.67,1197.08
+6368,All property types,1 to 2 bed,Saggart; Dublin,1400.01,1466.37,1485.99,1463.78,1480.03
+6369,All property types,1 to 2 bed,Sandycove; Dublin,1558.28,1614.82,1620.01,1652.88,1607.33
+6370,All property types,1 to 2 bed,Shankill; Dublin,1338.04,1361.34,1355.09,1361.11,1373.58
+6371,All property types,1 to 2 bed,Skerries; Dublin,1190.75,1222.83,1229.87,1243.03,1286.36
+6373,All property types,1 to 2 bed,Stillorgan; Dublin,1663.22,1695.8,1710.09,1725,1755.25
+6374,All property types,1 to 2 bed,Swords; Dublin,1327.18,1347.66,1357.44,1382.68,1386.55
+6375,All property types,1 to 2 bed,Dublin 1,1433.29,1478.78,1493.72,1521.07,1517.71
+6376,All property types,1 to 2 bed,I.F.S.C.; Dublin 1,1734.68,1776.26,1776.12,1818.21,1824.67
+6377,All property types,1 to 2 bed,Parnell Street; Dublin 1,1629.12,1663.51,1656.98,1653.88,1653.07
+6378,All property types,1 to 2 bed,Spencer Dock; Dublin 1,1980.37,2049.91,2095.67,2133.28,2151.11
+6379,All property types,1 to 2 bed,Summerhill; Dublin 1,1568.45,1580.43,1581.5,1576.85,1551.83
+6380,All property types,1 to 2 bed,Dublin 2,1848.33,1986.35,2042.69,2068.71,2039.55
+6382,All property types,1 to 2 bed,Charlemont Street; Dublin 2,0,1847.1,0,0,0
+6383,All property types,1 to 2 bed,Grand Canal Dock; Dublin 2,2244.51,2364.98,2345.45,2320.77,2266.53
+6387,All property types,1 to 2 bed,Pearse Street; Dublin 2,1664.9,1737.56,1783.09,1751.02,1755.55
+6389,All property types,1 to 2 bed,Temple Bar; Dublin 2,1631.71,0,1837.02,0,0
+6390,All property types,1 to 2 bed,Townsend Street; Dublin 2,1721.57,1751.55,1726.79,1732.8,1754.62
+6391,All property types,1 to 2 bed,Dublin 3,1391.14,1426.64,1445.03,1475.14,1481.7
+6392,All property types,1 to 2 bed,Clonliffe; Dublin 3,1212.1,1274.58,1301.32,1391.94,1402.14
+6393,All property types,1 to 2 bed,Clontarf; Dublin 3,1449.64,1513.94,1511.49,1539.45,1540.56
+6394,All property types,1 to 2 bed,Drumcondra; Dublin 3,1368.51,1312.3,1283.37,1262.9,1213.29
+6395,All property types,1 to 2 bed,East Wall; Dublin 3,1535.36,1587.13,1611.54,1632,1615.77
+6397,All property types,1 to 2 bed,Fairview; Dublin 3,1210.06,1211.92,1260.06,1298.93,1328.55
+6399,All property types,1 to 2 bed,North Strand; Dublin 3,1250.7,1256.71,1285.25,1377.31,1383.61
+6400,All property types,1 to 2 bed,Dublin 4,1810.52,1884.45,1901.54,1925.61,1925.54
+6401,All property types,1 to 2 bed,Ballsbridge; Dublin 4,1972.32,2078.31,2107.99,2114.58,2110.03
+6402,All property types,1 to 2 bed,Donnybrook; Dublin 4,1705.98,1707.91,1737.09,1747.73,1759.52
+6403,All property types,1 to 2 bed,Irishtown; Dublin 4,1739.47,1759.49,1756.27,0,0
+6404,All property types,1 to 2 bed,Merrion; Dublin 4,1561.65,1604.13,1619.48,1669.15,1715.3
+6405,All property types,1 to 2 bed,Pembroke; Dublin 4,1698.94,1763.03,1711.32,1774,1782.76
+6406,All property types,1 to 2 bed,Ringsend; Dublin 4,1725.52,1807.24,1790.87,1806.37,1828.51
+6407,All property types,1 to 2 bed,Sandymount; Dublin 4,1773.4,1860.81,1868.83,1895.55,1862.23
+6408,All property types,1 to 2 bed,Dublin 5,1407.05,1485.04,1489.96,1527.1,1522.91
+6409,All property types,1 to 2 bed,Artane; Dublin 5,1335.04,1367.03,1369.58,1439.48,1382.33
+6410,All property types,1 to 2 bed,Killester; Dublin 5,1359.11,1460.57,1480.86,1464.05,1463.43
+6411,All property types,1 to 2 bed,Raheny; Dublin 5,1454.01,1507.5,1503.62,1504.16,1483.64
+6412,All property types,1 to 2 bed,Dublin 6,1350.47,1407.83,1421.8,1431.75,1440.54
+6413,All property types,1 to 2 bed,Dartry; Dublin 6,1651.81,1610.28,0,0,0
+6414,All property types,1 to 2 bed,Harolds Cross; Dublin 6,1412.17,1455.02,1460.43,1475.11,1678.07
+6415,All property types,1 to 2 bed,Milltown; Dublin 6,1823.43,1845.94,1864.74,1896.63,1902.74
+6416,All property types,1 to 2 bed,Ranelagh; Dublin 6,1380.63,1496.79,1505.46,1512.68,1519.3
+6417,All property types,1 to 2 bed,Rathgar; Dublin 6,1382.08,1411.68,1412.82,1406.42,1397.81
+6418,All property types,1 to 2 bed,Rathmines; Dublin 6,1194.89,1264.92,1281.03,1296.23,1306.21
+6419,All property types,1 to 2 bed,Terenure; Dublin 6,1288.65,1472.04,1558.42,1547.24,1529.86
+6420,All property types,1 to 2 bed,Dublin 6W,1382.55,1424.02,1423.28,1397.8,1446.56
+6421,All property types,1 to 2 bed,Harolds Cross; Dublin 6W,1228.15,1252.13,1248.78,1226.78,1222.9
+6422,All property types,1 to 2 bed,Templeogue; Dublin 6W,0,1590.25,0,0,0
+6423,All property types,1 to 2 bed,Terenure; Dublin 6W,1581.49,1639.52,1643.32,1617.68,1640.89
+6424,All property types,1 to 2 bed,Dublin 7,1248.97,1303.85,1324.47,1342.83,1342.46
+6426,All property types,1 to 2 bed,Cabra; Dublin 7,1217.26,1232.87,1231.19,1252.6,1246.42
+6427,All property types,1 to 2 bed,Navan Road; Dublin 7,1417.47,1415.07,1418.42,1390.09,1369.78
+6428,All property types,1 to 2 bed,North Circular Road; Dublin 7,1089.17,1122.25,1131.31,1138.05,1129.98
+6429,All property types,1 to 2 bed,Phibsboro; Dublin 7,1004.29,1074.22,1063.33,1068.01,1084.67
+6430,All property types,1 to 2 bed,Smithfield; Dublin 7,1576.65,1637.78,1651.03,1668.43,1677.59
+6431,All property types,1 to 2 bed,Stoneybatter; Dublin 7,1387.25,1435.3,1472.74,1478.55,1459.67
+6432,All property types,1 to 2 bed,Dublin 8,1427.14,1492.6,1493.48,1504.62,1509.4
+6433,All property types,1 to 2 bed,Christchurch; Dublin 8,1554.76,1600.97,1594.83,1582.28,1533.89
+6434,All property types,1 to 2 bed,Cork Street; Dublin 8,1351.33,1487.58,1527.7,1543.8,1542.2
+6436,All property types,1 to 2 bed,Inchicore; Dublin 8,1346.1,1385.91,1367.8,1380.98,1377.54
+6437,All property types,1 to 2 bed,Islandbridge; Dublin 8,1753.99,1778.2,1784.22,1799.34,1816.8
+6438,All property types,1 to 2 bed,Kilmainham ; Dublin 8,1476.24,1483.24,1451.94,1463.98,1474.46
+6439,All property types,1 to 2 bed,Portobello; Dublin 8,1257.73,1345.47,1380.44,1374.24,1400.97
+6440,All property types,1 to 2 bed,Rialto; Dublin 8,1290.54,1384.41,1392.63,1396.16,1391.09
+6441,All property types,1 to 2 bed,South Circular Road; Dublin 8,1206.35,1280.71,1298.67,1338.97,1362.4
+6443,All property types,1 to 2 bed,Dublin 9,1321.21,1378.55,1398.89,1412,1438.05
+6444,All property types,1 to 2 bed,Ballymun; Dublin 9,1414.33,1368.46,1327.76,0,0
+6445,All property types,1 to 2 bed,Beaumont; Dublin 9,1340.08,1430.9,1454.26,1449.34,1437.68
+6446,All property types,1 to 2 bed,Drumcondra; Dublin 9,1264.57,1253.31,1263.48,1252.78,1286.98
+6447,All property types,1 to 2 bed,Glasnevin; Dublin 9,1195.04,1262.25,1267.73,1292.11,1276.73
+6448,All property types,1 to 2 bed,Santry; Dublin 9,1388.14,1468.69,1504.89,1569.97,1591.16
+6449,All property types,1 to 2 bed,Whitehall; Dublin 9,1296.04,1486.29,1518.74,1338.38,1380.96
+6450,All property types,1 to 2 bed,Dublin 10,1260.17,1322,1316.39,1311.9,1297.67
+6451,All property types,1 to 2 bed,Ballyfermot; Dublin 10,1257.33,1307.76,1313.11,1311.05,1283.87
+6452,All property types,1 to 2 bed,Cherry Orchard; Dublin 10,1284.73,1346.55,1371.43,1361.77,1341.11
+6453,All property types,1 to 2 bed,Dublin 11,1367,1339.1,1343.63,1362.26,1379.52
+6454,All property types,1 to 2 bed,Ballymun; Dublin 11,1297.74,1349.35,1341.5,1295.06,1336.62
+6455,All property types,1 to 2 bed,Finglas; Dublin 11,1379.31,1314.8,1302.54,1330.42,1335.04
+6456,All property types,1 to 2 bed,Glasnevin; Dublin 11,1334.16,1339.05,1373.91,1338.55,1348.67
+6459,All property types,1 to 2 bed,Dublin 12,1341.17,1384.68,1398.92,1414.05,1418.85
+6460,All property types,1 to 2 bed,Crumlin; Dublin 12,1280.04,1345.43,1388.4,1401.2,1403.67
+6461,All property types,1 to 2 bed,Drimnagh; Dublin 12,1375.76,1429.11,1456.93,1484.24,1509.61
+6462,All property types,1 to 2 bed,Kimmage; Dublin 12,1384.27,1408.42,1429.72,1441.56,1453.22
+6463,All property types,1 to 2 bed,Walkinstown; Dublin 12,0,1099.11,1121.68,1221.83,1228.69
+6464,All property types,1 to 2 bed,Dublin 13,1495.76,1509.87,1522.07,1579.9,1592.86
+6465,All property types,1 to 2 bed,Baldoyle; Dublin 13,1461.82,1471.16,1494.58,1476.69,1486.12
+6466,All property types,1 to 2 bed,Balgriffin; Dublin 13,1398.26,1534.66,1565.31,1673.11,0
+6467,All property types,1 to 2 bed,Clongriffin; Dublin 13,1435.62,1471.9,1457.72,1480.79,1469.75
+6468,All property types,1 to 2 bed,Donaghmede; Dublin 13,1316.27,0,0,0,0
+6469,All property types,1 to 2 bed,Sutton; Dublin 13,1516.93,1560.95,1608.05,1612.49,1666.72
+6470,All property types,1 to 2 bed,Dublin 14,1647.32,1730.57,1731.06,1774.81,1780.12
+6471,All property types,1 to 2 bed,Churchtown; Dublin 14,1801.17,2019.49,2037.12,2066.63,2091.68
+6472,All property types,1 to 2 bed,Clonskeagh; Dublin 14,1677,1697.47,1727.72,1766.15,1775.34
+6473,All property types,1 to 2 bed,Dundrum; Dublin 14,1687.29,1716.69,1699.15,1690.77,1669.94
+6474,All property types,1 to 2 bed,Goatstown; Dublin 14,1901.31,1918.13,1923.48,1994,2001.39
+6475,All property types,1 to 2 bed,Rathfarnham; Dublin 14,1503.97,1540.27,1552.86,1550.45,1557
+6476,All property types,1 to 2 bed,Dublin 15,1392.13,1425.74,1443.06,1450.44,1460
+6477,All property types,1 to 2 bed,Ashtown; Dublin 15,1477.97,1507.12,1572.29,1570.57,1590.44
+6478,All property types,1 to 2 bed,Blanchardstown; Dublin 15,1362.15,1394.86,1418.24,1425.07,1436.12
+6480,All property types,1 to 2 bed,Castleknock; Dublin 15,1549.93,1576.54,1587.46,1603.62,1616.83
+6481,All property types,1 to 2 bed,Clonee; Dublin 15,1291.32,1286.48,1302.61,1297.87,1324.81
+6482,All property types,1 to 2 bed,Clonsilla; Dublin 15,1342.15,1346.87,1327.89,1297.36,1307.75
+6484,All property types,1 to 2 bed,Mulhuddart; Dublin 15,1274.85,1258.98,1187.46,1152.81,1200.14
+6485,All property types,1 to 2 bed,Ongar; Dublin 15,1239.26,1253.95,1250.42,1287.92,1311.98
+6486,All property types,1 to 2 bed,Porterstown; Dublin 15,1542.96,0,0,0,0
+6487,All property types,1 to 2 bed,Royal Canal Park; Dublin 15,1355.29,1395.93,1411.18,1417.22,1402.43
+6488,All property types,1 to 2 bed,Tyrrelstown; Dublin 15,1261.38,1274.51,1289.25,1287.5,1262.35
+6489,All property types,1 to 2 bed,Dublin 16,1646.61,1699.32,1705.11,1733.94,1742.84
+6490,All property types,1 to 2 bed,Ballinteer; Dublin 16,1611.64,1638.79,1640.71,1634.02,1665.57
+6491,All property types,1 to 2 bed,Dundrum; Dublin 16,1759.22,1808.48,1803.29,1842.57,1842.95
+6492,All property types,1 to 2 bed,Knocklyon; Dublin 16,1561.82,1611.23,0,0,0
+6493,All property types,1 to 2 bed,Rathfarnham; Dublin 16,1550.5,1612.48,1632.94,1621.61,1614.57
+6495,All property types,1 to 2 bed,Dublin 17,1332.43,1373.55,1367.34,1380.56,1390.78
+4677,Other flats,One bed,Dublin,973.91,1012.28,1010.14,1013.3,1011.2
+6496,All property types,1 to 2 bed,Malahide Road; Dublin 17,1560.99,1492.14,1505.42,1524.84,1549
+6498,All property types,1 to 2 bed,Dublin 18,1666.7,1717.06,1714.38,1723.68,1736.65
+6499,All property types,1 to 2 bed,Cabinteely; Dublin 18,1463.91,1513.83,1515.61,1528.06,1535.33
+6500,All property types,1 to 2 bed,Carrickmines; Dublin 18,1597.3,1625.54,1642.99,1653.79,1642.54
+6501,All property types,1 to 2 bed,Foxrock; Dublin 18,1877.18,2081.57,2080.52,2093.14,2083.58
+6502,All property types,1 to 2 bed,Leopardstown; Dublin 18,1873.63,1889.11,1860.19,1863.23,1853.45
+6503,All property types,1 to 2 bed,Sandyford; Dublin 18,1681.79,1722.46,1716.37,1718.62,1737.48
+6504,All property types,1 to 2 bed,Stepaside; Dublin 18,1556.13,1597.98,1609.98,1636.38,1628.41
+6505,All property types,1 to 2 bed,Dublin 20,1357.65,1380.29,1374.8,1364.43,1352.98
+6506,All property types,1 to 2 bed,Chapelizod; Dublin 20,1339.27,1365.76,1356.96,1340.3,1334.49
+6508,All property types,1 to 2 bed,Clondalkin; Dublin 22,1311.23,1284.11,1291.41,1284.35,1302.2
+6509,All property types,1 to 2 bed,Dublin 24,1335.24,1345.29,1338.34,1344.75,1355.09
+6510,All property types,1 to 2 bed,Ballycullen; Dublin 24,1435.68,1454.14,1453.66,1443.93,1430.5
+6511,All property types,1 to 2 bed,Citywest; Dublin 24,1339.18,1371.07,1375.56,1390.03,1403.04
+6513,All property types,1 to 2 bed,Tallaght; Dublin 24,1314.96,1307.37,1304.89,1310.08,1309.74
+3218,Terrace house,Four plus bed,Dublin 3,2286.05,2476.43,2468.05,2503.1,2529.4
+3227,Terrace house,Four plus bed,Dublin 4,3503.29,3728.74,3791.94,3771.85,3885.76
+3228,Terrace house,Four plus bed,Ballsbridge; Dublin 4,3784.87,4006.43,0,0,0
+3239,Terrace house,Four plus bed,Dublin 6,3059,3275.61,3201.52,3037.95,3102.89
+3243,Terrace house,Four plus bed,Ranelagh; Dublin 6,3257.55,3363.42,3373.58,0,0
+3247,Terrace house,Four plus bed,Dublin 6W,0,2691.92,2745.16,2678.2,0
+3251,Terrace house,Four plus bed,Dublin 7,2041.89,2223.47,2197.77,2288.57,2294.18
+3259,Terrace house,Four plus bed,Dublin 8,2404.07,2501.19,2311.6,2407.68,2418.9
+722,Detached house,1 to 3 bed,Dublin 4,2657.25,2923.85,2928.83,2976.41,3043.75
+723,Detached house,1 to 3 bed,Ballsbridge; Dublin 4,0,0,0,3467.11,3565.98
+734,Detached house,1 to 3 bed,Dublin 6,0,2319.9,2322.95,2392.82,2460.28
+798,Detached house,1 to 3 bed,Dublin 15,1381.95,1309.28,1360.12,1316.31,1412.28
+820,Detached house,1 to 3 bed,Dublin 18,0,2014.46,1980.42,0,0
+831,Detached house,1 to 3 bed,Dublin 24,1340.88,1425.66,1481.74,1517.85,0
+1882,Semi detached house,1 to 3 bed,Dublin 3,1797.53,1873.42,1917.54,1945.36,1919.81
+1884,Semi detached house,1 to 3 bed,Clontarf; Dublin 3,1917.33,2016.14,2114.47,2126.67,2115.41
+1891,Semi detached house,1 to 3 bed,Dublin 4,2520.14,2529.94,2521.09,2422.02,2422.21
+1892,Semi detached house,1 to 3 bed,Ballsbridge; Dublin 4,0,2598.88,2722.94,2583.23,2615.85
+1893,Semi detached house,1 to 3 bed,Donnybrook; Dublin 4,0,2341.98,0,0,0
+1898,Semi detached house,1 to 3 bed,Sandymount; Dublin 4,2577.54,2613.53,2558.42,2470.42,2435.48
+1899,Semi detached house,1 to 3 bed,Dublin 5,1621.57,1692.37,1677.45,1682.97,1663.88
+1900,Semi detached house,1 to 3 bed,Artane; Dublin 5,1542.28,1602,1529.53,1511.15,1494.75
+1902,Semi detached house,1 to 3 bed,Raheny; Dublin 5,1693.76,1735.5,1760.19,1798.03,1744.54
+1903,Semi detached house,1 to 3 bed,Dublin 6,2127.69,2332.41,2289.39,2344.8,2330.11
+1907,Semi detached house,1 to 3 bed,Ranelagh; Dublin 6,2432.38,2663.45,2645.47,2744.94,2756.64
+1908,Semi detached house,1 to 3 bed,Rathgar; Dublin 6,2110.5,2208.41,0,0,0
+1911,Semi detached house,1 to 3 bed,Dublin 6W,1823.99,1857.51,1867.81,1815.54,1838.73
+1913,Semi detached house,1 to 3 bed,Templeogue; Dublin 6W,1730.03,1831.4,1801.94,1814.26,1831.56
+1914,Semi detached house,1 to 3 bed,Terenure; Dublin 6W,1928.83,1995.4,2024.86,1956.55,1952.71
+1915,Semi detached house,1 to 3 bed,Dublin 7,1542.53,1582,1603.29,1585.77,1588.53
+1917,Semi detached house,1 to 3 bed,Cabra; Dublin 7,1402.55,1437.75,1502.61,1489.31,1480.59
+1918,Semi detached house,1 to 3 bed,Navan Road; Dublin 7,0,1887.11,0,0,0
+1923,Semi detached house,1 to 3 bed,Dublin 8,1672.08,1710.44,1718.05,1733.06,1741.08
+1934,Semi detached house,1 to 3 bed,Dublin 9,1616.9,1650.06,1630.19,1599.35,1624.9
+1936,Semi detached house,1 to 3 bed,Beaumont; Dublin 9,1771.35,1839.65,1747.19,1712.16,1701.96
+1937,Semi detached house,1 to 3 bed,Drumcondra; Dublin 9,1604.76,1644.59,1654.22,1620.78,1686.31
+1939,Semi detached house,1 to 3 bed,Santry; Dublin 9,1604.06,1615.41,1605.98,1542.57,1539.93
+1940,Semi detached house,1 to 3 bed,Whitehall; Dublin 9,1524.22,1583.5,1573.31,0,0
+1941,Semi detached house,1 to 3 bed,Dublin 10,1276.61,1274.11,1274.82,0,0
+1942,Semi detached house,1 to 3 bed,Ballyfermot; Dublin 10,1260.42,1276.69,1293.47,0,0
+1944,Semi detached house,1 to 3 bed,Dublin 11,1405.26,1425.89,1434.74,1471.71,1557.86
+1946,Semi detached house,1 to 3 bed,Finglas; Dublin 11,1332.65,1335.26,1373.6,1394.45,1458.5
+1947,Semi detached house,1 to 3 bed,Glasnevin; Dublin 11,1564.72,1575.68,1562.75,0,0
+1950,Semi detached house,1 to 3 bed,Dublin 12,1480.43,1508.87,1559.52,1605.7,1627.47
+1951,Semi detached house,1 to 3 bed,Crumlin; Dublin 12,1456.9,1533.57,1618.28,1636.06,1618.14
+1952,Semi detached house,1 to 3 bed,Drimnagh; Dublin 12,1430.16,1456.81,1505.36,1514.99,1527.59
+1955,Semi detached house,1 to 3 bed,Dublin 13,1569.1,1652.02,1624.32,1589.98,1566.59
+1961,Semi detached house,1 to 3 bed,Dublin 14,2019.44,2052.2,2022.54,2002.17,2018.82
+1962,Semi detached house,1 to 3 bed,Churchtown; Dublin 14,0,2219.47,0,0,0
+1963,Semi detached house,1 to 3 bed,Clonskeagh; Dublin 14,0,2166.98,2142.39,2096.29,2104.86
+1964,Semi detached house,1 to 3 bed,Dundrum; Dublin 14,2043.87,0,0,0,0
+1966,Semi detached house,1 to 3 bed,Rathfarnham; Dublin 14,1875.49,1835.84,1786.09,1849.4,1870.68
+1967,Semi detached house,1 to 3 bed,Dublin 15,1414.96,1460.24,1472.87,1490.91,1480.7
+1969,Semi detached house,1 to 3 bed,Blanchardstown; Dublin 15,1302.37,1379.1,1418.38,1440.81,1446.66
+1971,Semi detached house,1 to 3 bed,Castleknock; Dublin 15,1537.02,1571.41,1573.61,1638.89,1638.46
+1972,Semi detached house,1 to 3 bed,Clonee; Dublin 15,1336.72,1454.47,1474.03,1453.96,1446.26
+1973,Semi detached house,1 to 3 bed,Clonsilla; Dublin 15,1447.14,1425.48,1441.35,1446.53,1433.4
+1975,Semi detached house,1 to 3 bed,Mulhuddart; Dublin 15,1381.33,1425.4,1387.08,1390.2,1363.42
+1979,Semi detached house,1 to 3 bed,Tyrrelstown; Dublin 15,1395.86,1450.81,1438.13,0,0
+1980,Semi detached house,1 to 3 bed,Dublin 16,1718.88,1822.03,1804.59,1815.66,1842.24
+1981,Semi detached house,1 to 3 bed,Ballinteer; Dublin 16,1769.84,0,0,0,0
+1983,Semi detached house,1 to 3 bed,Knocklyon; Dublin 16,1702,1772.95,1760.29,1773.19,1754.96
+1984,Semi detached house,1 to 3 bed,Rathfarnham; Dublin 16,1747.05,1873.74,1859.02,1783.63,1806.58
+1986,Semi detached house,1 to 3 bed,Dublin 17,1488.41,1598.92,1596.51,1571.52,1544.72
+1989,Semi detached house,1 to 3 bed,Dublin 18,1797.16,1845.07,1862.54,1883.4,1904.76
+1993,Semi detached house,1 to 3 bed,Leopardstown; Dublin 18,1933.82,1938.37,1962.66,1954.11,1941.22
+1994,Semi detached house,1 to 3 bed,Sandyford; Dublin 18,0,1682.53,1715.41,1774.08,0
+1996,Semi detached house,1 to 3 bed,Dublin 20,1551.56,1570.55,1583.97,1558.19,1531.17
+1998,Semi detached house,1 to 3 bed,Palmerstown; Dublin 20,1546.8,1556.27,1546.03,0,1475.52
+1999,Semi detached house,1 to 3 bed,Clondalkin; Dublin 22,1342.9,1400.53,1404.37,1438.99,1457.73
+2000,Semi detached house,1 to 3 bed,Dublin 24,1494.34,1529.54,1557.13,1559.83,1557.01
+2001,Semi detached house,1 to 3 bed,Ballycullen; Dublin 24,1664.33,1675.81,0,0,0
+2003,Semi detached house,1 to 3 bed,Firhouse; Dublin 24,1493.77,1561.53,1590.08,1626.22,1646.13
+2004,Semi detached house,1 to 3 bed,Tallaght; Dublin 24,1483.93,1497.54,1522.77,1513.54,1507.58
+3015,Terrace house,1 to 3 bed,Dun Laoghaire; Dublin,1571.17,1686.14,1682.52,1715.63,1712.01
+3020,Terrace house,1 to 3 bed,Lucan; Dublin,1606.59,1650.73,1628.23,1588.3,1594.06
+3021,Terrace house,1 to 3 bed,Lusk; Dublin,1314.05,1369.89,1403.38,1413.11,1432.52
+3022,Terrace house,1 to 3 bed,Malahide; Dublin,1969.81,2017.93,2016.54,2027.83,1965.68
+3023,Terrace house,1 to 3 bed,Monkstown; Dublin,1931.44,1890.27,1980.55,0,0
+3027,Terrace house,1 to 3 bed,Rush; Dublin,1228.48,1254.16,1255,1212.76,1236.26
+3031,Terrace house,1 to 3 bed,Skerries; Dublin,1342.52,0,0,0,0
+3033,Terrace house,1 to 3 bed,Stillorgan; Dublin,1805.23,1827.63,1797.26,1772.17,0
+3034,Terrace house,1 to 3 bed,Swords; Dublin,1426.32,1431.73,1433.15,1441.69,1468.71
+3035,Terrace house,1 to 3 bed,Dublin 1,1355.87,1464.18,1484.64,1549.9,1598.13
+3040,Terrace house,1 to 3 bed,Dublin 2,1996.95,2028.97,2126.64,2241.62,2190.8
+3051,Terrace house,1 to 3 bed,Dublin 3,1596.87,1655.24,1683.26,1752.03,1754.29
+3053,Terrace house,1 to 3 bed,Clontarf; Dublin 3,1748.67,1815.54,1786,1912.09,1961.23
+3055,Terrace house,1 to 3 bed,East Wall; Dublin 3,1536.75,1615.39,1694.67,1673.74,1560.52
+3057,Terrace house,1 to 3 bed,Fairview; Dublin 3,1676.17,1641.32,1638.44,1671.03,1698.46
+3059,Terrace house,1 to 3 bed,North Strand; Dublin 3,1454.71,1537.2,0,1684.14,0
+3060,Terrace house,1 to 3 bed,Dublin 4,2242.76,2304.24,2295.93,2321.21,2327.92
+3061,Terrace house,1 to 3 bed,Ballsbridge; Dublin 4,2731.1,2564.96,2622.37,2557.83,2577.22
+3062,Terrace house,1 to 3 bed,Donnybrook; Dublin 4,2132.48,2172.06,2109.05,2199.1,2264.85
+3066,Terrace house,1 to 3 bed,Ringsend; Dublin 4,1908.27,2018.05,1965.03,1987.32,1994.38
+3067,Terrace house,1 to 3 bed,Sandymount; Dublin 4,2218.69,2282.96,2277.02,2314.58,2281.97
+3068,Terrace house,1 to 3 bed,Dublin 5,1529.43,1589.58,1579.3,1608.78,1598.3
+3069,Terrace house,1 to 3 bed,Artane; Dublin 5,1533.21,1569.24,1521.93,1569.21,1536.59
+3071,Terrace house,1 to 3 bed,Raheny; Dublin 5,1553.51,1632.11,1613.11,1636.66,1635.51
+3072,Terrace house,1 to 3 bed,Dublin 6,2009.94,2005.91,1962.97,1958.6,1976.57
+3074,Terrace house,1 to 3 bed,Harolds Cross; Dublin 6,1715.13,1727.79,1715.57,1750.45,1702.63
+3075,Terrace house,1 to 3 bed,Milltown; Dublin 6,1883.59,1882.35,0,2002.77,0
+3076,Terrace house,1 to 3 bed,Ranelagh; Dublin 6,2370.05,2341.58,2283.41,2281.93,2292.26
+3077,Terrace house,1 to 3 bed,Rathgar; Dublin 6,1923.28,1857.54,1769.57,1777,1753.97
+3078,Terrace house,1 to 3 bed,Rathmines; Dublin 6,1803.02,1780.16,1780.28,1784.88,1884.28
+3080,Terrace house,1 to 3 bed,Dublin 6W,1655.07,1689.73,1691.36,1719.77,1714.61
+3081,Terrace house,1 to 3 bed,Harolds Cross; Dublin 6W,1577.02,1663.38,1739.67,1806.08,1778.97
+3083,Terrace house,1 to 3 bed,Terenure; Dublin 6W,1748.96,1770.91,1674.8,1718.33,1723.67
+3084,Terrace house,1 to 3 bed,Dublin 7,1480.63,1548.59,1553.74,1577.72,1588.52
+3086,Terrace house,1 to 3 bed,Cabra; Dublin 7,1434.39,1418.56,1408.92,1436.1,1475.47
+3087,Terrace house,1 to 3 bed,Navan Road; Dublin 7,1588.64,1676.94,1651.62,1648.98,0
+3089,Terrace house,1 to 3 bed,Phibsboro; Dublin 7,1382.02,1435.33,1403.09,0,0
+3091,Terrace house,1 to 3 bed,Stoneybatter; Dublin 7,1519.34,1583.59,1602.37,1586.91,1575.6
+3092,Terrace house,1 to 3 bed,Dublin 8,1646.7,1730.97,1736.36,1760.96,1764.53
+3096,Terrace house,1 to 3 bed,Inchicore; Dublin 8,1410.4,1465.21,1472.52,1532.38,1569.4
+3098,Terrace house,1 to 3 bed,Kilmainham ; Dublin 8,1698.19,1857.3,1821.67,1817.79,1798.84
+3099,Terrace house,1 to 3 bed,Portobello; Dublin 8,2012.56,1987.3,0,0,0
+3100,Terrace house,1 to 3 bed,Rialto; Dublin 8,1456.13,1620.57,1707.59,1735.16,1671.82
+3101,Terrace house,1 to 3 bed,South Circular Road; Dublin 8,1794.74,1884.53,1998.22,2026.1,2071.44
+3103,Terrace house,1 to 3 bed,Dublin 9,1596.59,1698.74,1681.71,1649.6,1675.18
+3106,Terrace house,1 to 3 bed,Drumcondra; Dublin 9,1672.3,1757.4,1790.61,1792.98,1842.75
+3109,Terrace house,1 to 3 bed,Whitehall; Dublin 9,1524.31,1635.52,1627.38,1562.61,0
+3110,Terrace house,1 to 3 bed,Dublin 10,1328.56,1384.73,1432.52,1409.93,1415.6
+3111,Terrace house,1 to 3 bed,Ballyfermot; Dublin 10,1345.18,1388.22,1429.21,1401.14,1393.08
+3113,Terrace house,1 to 3 bed,Dublin 11,1350.96,1390.49,1425.27,1469.61,1513.68
+3115,Terrace house,1 to 3 bed,Finglas; Dublin 11,1328.53,1363.4,1393.46,1457.71,1487.96
+3119,Terrace house,1 to 3 bed,Dublin 12,1415.08,1502.16,1509.57,1512.83,1516.92
+3120,Terrace house,1 to 3 bed,Crumlin; Dublin 12,1394.27,1512.15,1514.38,1509.53,1515.91
+3121,Terrace house,1 to 3 bed,Drimnagh; Dublin 12,1355.58,1413.8,1432.74,1447.9,1449.73
+3122,Terrace house,1 to 3 bed,Kimmage; Dublin 12,1588.36,1659.94,1682.75,1661.6,1667.79
+3123,Terrace house,1 to 3 bed,Walkinstown; Dublin 12,1438.5,1475.22,1461.81,1353.16,1324.82
+3124,Terrace house,1 to 3 bed,Dublin 13,1661.59,1653.53,1671.96,1708.51,1705.27
+3126,Terrace house,1 to 3 bed,Balgriffin; Dublin 13,0,1871.28,1848.09,1829.18,1806.44
+3129,Terrace house,1 to 3 bed,Sutton; Dublin 13,1697.78,1716.7,0,1700.32,0
+3130,Terrace house,1 to 3 bed,Dublin 14,1826.36,1904.13,1908.44,1909.32,1901.26
+3133,Terrace house,1 to 3 bed,Dundrum; Dublin 14,1973.61,2026.04,2017.99,1938.74,1926.2
+3135,Terrace house,1 to 3 bed,Rathfarnham; Dublin 14,1669.58,1716.73,1758.11,1812.41,1801.29
+3136,Terrace house,1 to 3 bed,Dublin 15,1416.68,1438.85,1463.37,1468.54,1464.66
+3138,Terrace house,1 to 3 bed,Blanchardstown; Dublin 15,1294.11,1352.27,1372.99,1375.96,1380.46
+3140,Terrace house,1 to 3 bed,Castleknock; Dublin 15,1554.61,1591,1575.35,1539.49,1541.1
+3141,Terrace house,1 to 3 bed,Clonee; Dublin 15,1308.34,1385.16,1435.89,0,1469.3
+3142,Terrace house,1 to 3 bed,Clonsilla; Dublin 15,1363.98,1381.36,1440.65,1383.87,1412.15
+3145,Terrace house,1 to 3 bed,Ongar; Dublin 15,1459.22,1426.32,0,0,0
+3148,Terrace house,1 to 3 bed,Tyrrelstown; Dublin 15,1404.86,1396.94,0,0,0
+3149,Terrace house,1 to 3 bed,Dublin 16,1789.59,1743.73,1769.95,1849.86,1899.39
+3153,Terrace house,1 to 3 bed,Rathfarnham; Dublin 16,0,0,0,0,1955.3
+3155,Terrace house,1 to 3 bed,Dublin 17,1343.46,1352.2,1331.92,1322.48,1342.44
+3158,Terrace house,1 to 3 bed,Dublin 18,1801.99,1848.47,1869.39,1875.1,1864.51
+3165,Terrace house,1 to 3 bed,Dublin 20,1458.85,1447.74,1409.97,1359.77,0
+3168,Terrace house,1 to 3 bed,Clondalkin; Dublin 22,1296.37,1332.61,1352.22,1343.33,1373.85
+3169,Terrace house,1 to 3 bed,Dublin 24,1403.59,1457.04,1484.75,1498.2,1491.71
+3173,Terrace house,1 to 3 bed,Tallaght; Dublin 24,1368.27,1419.32,1441.09,1453.84,1450.38
+4216,Apartment,1 to 3 bed,Pearse Street; Dublin 2,1729.79,1742.41,1790.61,1762.64,1768.1
+4218,Apartment,1 to 3 bed,Temple Bar; Dublin 2,1643.64,0,1860.92,0,0
+4219,Apartment,1 to 3 bed,Townsend Street; Dublin 2,1777.31,1797.21,1766.1,1770.25,1792.63
+4221,Apartment,1 to 3 bed,Clonliffe; Dublin 3,0,0,0,1557.53,1580.2
+4222,Apartment,1 to 3 bed,Clontarf; Dublin 3,1577.02,1645.84,1650.85,1647.84,1663.98
+4223,Apartment,1 to 3 bed,Drumcondra; Dublin 3,1555.91,1512.05,1482.06,1462.37,1470.93
+4224,Apartment,1 to 3 bed,East Wall; Dublin 3,1758.09,1778.27,1812.61,1813.07,1808.36
+4226,Apartment,1 to 3 bed,Fairview; Dublin 3,1446.36,1448.69,1469.48,1473.48,1490.39
+4229,Apartment,1 to 3 bed,Dublin 4,1911.06,2000.09,2016.97,2046.58,2044.22
+4230,Apartment,1 to 3 bed,Ballsbridge; Dublin 4,2116.1,2272.88,2305.37,2328.02,2332.52
+4231,Apartment,1 to 3 bed,Donnybrook; Dublin 4,1837.8,1841.97,1844.13,1831.4,1823.16
+4233,Apartment,1 to 3 bed,Merrion; Dublin 4,1614.21,1662.66,1670.21,1711.85,1792.21
+4234,Apartment,1 to 3 bed,Pembroke; Dublin 4,1839.76,1894.46,1828.3,1910.39,1905.44
+4235,Apartment,1 to 3 bed,Ringsend; Dublin 4,1817.1,1865.83,1866.67,1874.77,1878.49
+4236,Apartment,1 to 3 bed,Sandymount; Dublin 4,1768.22,1869.78,1918.32,1972.32,1949.8
+4237,Apartment,1 to 3 bed,Dublin 5,1450.32,1534.08,1554.47,1599.35,1593.92
+4238,Apartment,1 to 3 bed,Artane; Dublin 5,1430.34,1444.13,1486.84,1559.29,1481.08
+4239,Apartment,1 to 3 bed,Killester; Dublin 5,1327.13,1408.17,0,0,0
+4240,Apartment,1 to 3 bed,Raheny; Dublin 5,1453.32,1535.56,1545.6,1576.15,1557.74
+4241,Apartment,1 to 3 bed,Dublin 6,1659.33,1659.79,1661.91,1659.56,1665.5
+4243,Apartment,1 to 3 bed,Harolds Cross; Dublin 6,0,0,0,0,1906.58
+4244,Apartment,1 to 3 bed,Milltown; Dublin 6,1941.74,1944.88,1931.83,1930.65,1940.79
+4245,Apartment,1 to 3 bed,Ranelagh; Dublin 6,1652.3,1715.58,1718.31,1718.21,1719.9
+4246,Apartment,1 to 3 bed,Rathgar; Dublin 6,1652.18,1624.97,1616.56,1596.17,1593.52
+4247,Apartment,1 to 3 bed,Rathmines; Dublin 6,1489.67,1517.59,1537.89,1539.75,1543.88
+4248,Apartment,1 to 3 bed,Terenure; Dublin 6,1453.23,1564.67,1627.34,1618.65,1613.47
+4249,Apartment,1 to 3 bed,Dublin 6W,1602.25,1680.19,1667.13,1648.92,1696.63
+4250,Apartment,1 to 3 bed,Harolds Cross; Dublin 6W,1381.39,1432.52,1394.47,1369.23,1404.61
+4252,Apartment,1 to 3 bed,Terenure; Dublin 6W,1740.99,1844.49,1824.09,1816.79,1826.4
+4253,Apartment,1 to 3 bed,Dublin 7,1432.01,1476.45,1496.93,1520.2,1534.39
+4255,Apartment,1 to 3 bed,Cabra; Dublin 7,1387.38,1489.27,1452.78,1418.94,1434.66
+4256,Apartment,1 to 3 bed,Navan Road; Dublin 7,1416.25,1428.78,1434.73,1421.49,1399.63
+4258,Apartment,1 to 3 bed,Phibsboro; Dublin 7,1288.44,1306.76,1300.75,1342.07,1311.81
+4259,Apartment,1 to 3 bed,Smithfield; Dublin 7,1607.4,1670.35,1686.77,1702.18,1719.69
+4261,Apartment,1 to 3 bed,Dublin 8,1535.56,1605.33,1599.58,1605.52,1607.45
+4262,Apartment,1 to 3 bed,Christchurch; Dublin 8,1535.26,1602.01,1599.94,1586.21,1548.14
+4263,Apartment,1 to 3 bed,Cork Street; Dublin 8,1477.29,1511.69,1556.15,1565.37,1570.35
+4265,Apartment,1 to 3 bed,Inchicore; Dublin 8,1409.92,1438.75,1421.87,1427.56,1419.08
+4266,Apartment,1 to 3 bed,Islandbridge; Dublin 8,1777.01,1813.23,1833.4,1860.58,1880.93
+4267,Apartment,1 to 3 bed,Kilmainham ; Dublin 8,1533.21,1528.97,1527.12,1530.7,1555.73
+4268,Apartment,1 to 3 bed,Portobello; Dublin 8,1453.86,1561.14,1511.5,1514.8,1503.18
+4269,Apartment,1 to 3 bed,Rialto; Dublin 8,1435.15,1523.19,1516.36,1494.83,1475.83
+4270,Apartment,1 to 3 bed,South Circular Road; Dublin 8,1242.66,1363.58,1336.41,1375.83,1410.21
+4272,Apartment,1 to 3 bed,Dublin 9,1427.49,1500.15,1524.19,1549.03,1575.96
+4273,Apartment,1 to 3 bed,Ballymun; Dublin 9,1444.72,1409.5,1386.61,0,0
+4274,Apartment,1 to 3 bed,Beaumont; Dublin 9,1341.43,1402.24,1432.1,1417.13,1427.05
+4275,Apartment,1 to 3 bed,Drumcondra; Dublin 9,1477.62,1551.12,1561.49,1534.84,1569.39
+4276,Apartment,1 to 3 bed,Glasnevin; Dublin 9,1265.4,1299.3,1275.97,1298.25,1313.08
+4277,Apartment,1 to 3 bed,Santry; Dublin 9,1424.42,1509.3,1548.13,1628.29,1653.34
+4279,Apartment,1 to 3 bed,Dublin 10,1315.92,1393.62,1376.1,1400.29,1381.78
+4281,Apartment,1 to 3 bed,Cherry Orchard; Dublin 10,1308.67,1356.12,1375.05,1350.41,1346.89
+4282,Apartment,1 to 3 bed,Dublin 11,1408.69,1383.81,1390.46,1403.16,1408.13
+4283,Apartment,1 to 3 bed,Ballymun; Dublin 11,1324.68,1370.29,1373.61,1348.72,1358.47
+4284,Apartment,1 to 3 bed,Finglas; Dublin 11,1429.88,1361.63,1353.29,1364.69,1361.68
+4285,Apartment,1 to 3 bed,Glasnevin; Dublin 11,1347.27,1399.22,1424.96,1409.1,1391.27
+4288,Apartment,1 to 3 bed,Dublin 12,1445.49,1492.2,1505.23,1506.96,1527.16
+4289,Apartment,1 to 3 bed,Crumlin; Dublin 12,1249.93,1329.37,1465.89,1564.64,1587.9
+4290,Apartment,1 to 3 bed,Drimnagh; Dublin 12,1463.04,1497.58,1520.05,1555.02,1625.01
+4291,Apartment,1 to 3 bed,Kimmage; Dublin 12,1569.31,1577.95,1552.08,1545.85,1566.05
+4293,Apartment,1 to 3 bed,Dublin 13,1561.46,1571.77,1558.4,1617.49,1619.3
+4294,Apartment,1 to 3 bed,Baldoyle; Dublin 13,1520.87,1541.09,1532.62,1526.2,1534.73
+4295,Apartment,1 to 3 bed,Balgriffin; Dublin 13,1438.59,1552.96,1551.44,1638.49,1613.05
+4296,Apartment,1 to 3 bed,Clongriffin; Dublin 13,1450.9,1490.42,1481.21,1506.22,1501.21
+4297,Apartment,1 to 3 bed,Donaghmede; Dublin 13,1333.77,0,0,0,0
+4298,Apartment,1 to 3 bed,Sutton; Dublin 13,1583.95,1626.14,0,1632.76,1648.23
+4299,Apartment,1 to 3 bed,Dublin 14,1721.1,1807.08,1806.27,1855.64,1866.88
+4300,Apartment,1 to 3 bed,Churchtown; Dublin 14,1844.43,2114.43,2145.21,2159.11,2208.84
+4301,Apartment,1 to 3 bed,Clonskeagh; Dublin 14,1774.05,1801.43,1835.69,1883.91,1854.88
+4302,Apartment,1 to 3 bed,Dundrum; Dublin 14,1758.32,1794.68,1762.1,1751.93,1736.6
+4303,Apartment,1 to 3 bed,Goatstown; Dublin 14,1950.07,1992.26,1995.68,2065.83,2064.09
+4304,Apartment,1 to 3 bed,Rathfarnham; Dublin 14,1577.6,1587.03,1607.5,1602.97,1588.64
+4305,Apartment,1 to 3 bed,Dublin 15,1473.98,1499.89,1504.03,1512.92,1521.92
+4306,Apartment,1 to 3 bed,Ashtown; Dublin 15,1496.42,1514.54,1578.46,1597.46,1621.79
+4307,Apartment,1 to 3 bed,Blanchardstown; Dublin 15,1386.96,1415.66,1447.33,1461.33,1469.7
+4309,Apartment,1 to 3 bed,Castleknock; Dublin 15,1590.87,1621.13,1641.42,1651.1,1666.8
+4310,Apartment,1 to 3 bed,Clonee; Dublin 15,1304.66,1269.03,1281.14,1306.97,1321.33
+4311,Apartment,1 to 3 bed,Clonsilla; Dublin 15,1709.68,1654.11,1450.02,1355.37,1349.35
+4313,Apartment,1 to 3 bed,Mulhuddart; Dublin 15,1285.34,0,0,0,0
+4314,Apartment,1 to 3 bed,Ongar; Dublin 15,1263.26,1275.76,1268.87,1278.66,1311.97
+4315,Apartment,1 to 3 bed,Porterstown; Dublin 15,1611.44,1639.11,0,0,0
+4316,Apartment,1 to 3 bed,Royal Canal Park; Dublin 15,1432.62,1443.23,1436.56,1451.57,1440.14
+4317,Apartment,1 to 3 bed,Tyrrelstown; Dublin 15,1239.6,1291.12,1304.49,1308.82,1299.72
+4318,Apartment,1 to 3 bed,Dublin 16,1699.84,1752.95,1756.77,1791.4,1793.19
+4319,Apartment,1 to 3 bed,Ballinteer; Dublin 16,1640.14,1707.08,1702.48,1690.32,1721.97
+4320,Apartment,1 to 3 bed,Dundrum; Dublin 16,1815.72,1858.89,1854.8,1890.26,1879.82
+4321,Apartment,1 to 3 bed,Knocklyon; Dublin 16,1633.59,0,0,0,0
+4322,Apartment,1 to 3 bed,Rathfarnham; Dublin 16,1597.46,1628.96,1647.75,1678.06,1674.58
+4324,Apartment,1 to 3 bed,Dublin 17,1383.95,1411.5,1405.44,1421.34,1424.94
+4325,Apartment,1 to 3 bed,Malahide Road; Dublin 17,1647.88,1567.26,1540.25,1565.94,1580.73
+4327,Apartment,1 to 3 bed,Dublin 18,1722.58,1775.58,1770.04,1784.48,1806.14
+4328,Apartment,1 to 3 bed,Cabinteely; Dublin 18,1556.84,1629.4,1632.32,1621.94,1636.29
+4329,Apartment,1 to 3 bed,Carrickmines; Dublin 18,1641.49,1657.9,1673.39,1668.52,1676.16
+4331,Apartment,1 to 3 bed,Leopardstown; Dublin 18,1975.12,1965.03,1933.56,1941.36,1932.46
+4332,Apartment,1 to 3 bed,Sandyford; Dublin 18,1725.3,1781.19,1774.06,1783.89,1816.03
+4333,Apartment,1 to 3 bed,Stepaside; Dublin 18,1575.91,1634.32,1639.54,1660.38,1650.61
+4334,Apartment,1 to 3 bed,Dublin 20,1397.8,1430.06,1419.58,1410.29,1398.69
+4335,Apartment,1 to 3 bed,Chapelizod; Dublin 20,1383.56,1426.51,1422.41,1419.82,1407.84
+4337,Apartment,1 to 3 bed,Clondalkin; Dublin 22,1371.91,1344.33,1356.04,1337.05,1353.15
+4338,Apartment,1 to 3 bed,Dublin 24,1359.93,1365.31,1360.01,1369.47,1382.24
+4339,Apartment,1 to 3 bed,Ballycullen; Dublin 24,1443.03,1450.38,1459.06,1455.56,1439.46
+4340,Apartment,1 to 3 bed,Citywest; Dublin 24,1373.26,1396.19,1381.98,1396.54,1406.56
+4342,Apartment,1 to 3 bed,Tallaght; Dublin 24,1337.85,1326.13,1324.66,1333.13,1333.89
+5353,Other Flats,1 to 3 bed,Dun Laoghaire; Dublin,1073.4,1120.48,1139.54,1156.38,1099.21
+5373,Other Flats,1 to 3 bed,Dublin 1,1039.51,1105.41,1129.56,1139.2,1135.48
+5378,Other Flats,1 to 3 bed,Dublin 2,1138.55,1336.91,1425.38,1451.73,1472.04
+5389,Other Flats,1 to 3 bed,Dublin 3,982.32,1019,1022.97,1079.08,1120.45
+5391,Other Flats,1 to 3 bed,Clontarf; Dublin 3,1005.5,990,958.62,978.53,1016.16
+5392,Other Flats,1 to 3 bed,Drumcondra; Dublin 3,1024.03,1042.35,1046.37,1077.72,1046.37
+5395,Other Flats,1 to 3 bed,Fairview; Dublin 3,859.41,911.93,940.17,1065.6,1154.62
+5397,Other Flats,1 to 3 bed,North Strand; Dublin 3,1134.25,1184.64,1201.51,1203.88,0
+5398,Other Flats,1 to 3 bed,Dublin 4,1231.82,1310.76,1303.6,1322.71,1307.24
+5399,Other Flats,1 to 3 bed,Ballsbridge; Dublin 4,1252.61,1404.67,1381.52,1367.38,1349.71
+5400,Other Flats,1 to 3 bed,Donnybrook; Dublin 4,1204.12,1244.78,1257.07,1305.11,1334.53
+5410,Other Flats,1 to 3 bed,Dublin 6,1063.19,1117.29,1119.45,1120.98,1131.75
+5414,Other Flats,1 to 3 bed,Ranelagh; Dublin 6,1064.76,1115.29,1130.9,1143.48,1141.16
+5415,Other Flats,1 to 3 bed,Rathgar; Dublin 6,1087.91,1142.87,1164,1145.76,1140.35
+5416,Other Flats,1 to 3 bed,Rathmines; Dublin 6,1053.42,1107.09,1101.81,1108.9,1127.05
+5418,Other Flats,1 to 3 bed,Dublin 6W,1012.02,1030.24,1061.53,1060.65,1066.97
+5419,Other Flats,1 to 3 bed,Harolds Cross; Dublin 6W,958.6,1016.12,1041.26,1033.84,1044.41
+5421,Other Flats,1 to 3 bed,Terenure; Dublin 6W,0,1183.04,0,1191.2,0
+5422,Other Flats,1 to 3 bed,Dublin 7,930.56,1003.18,1013.53,1037.38,1034.67
+5424,Other Flats,1 to 3 bed,Cabra; Dublin 7,979.74,1028.69,1023.39,1033.27,1055.43
+5426,Other Flats,1 to 3 bed,North Circular Road; Dublin 7,940.05,985.13,1009.56,0,0
+5427,Other Flats,1 to 3 bed,Phibsboro; Dublin 7,830.7,902.78,902.58,912.26,914.38
+5430,Other Flats,1 to 3 bed,Dublin 8,1032.38,1071.39,1075.75,1098.56,1091.16
+5436,Other Flats,1 to 3 bed,Kilmainham ; Dublin 8,0,0,1064.04,1110.82,1121.42
+5437,Other Flats,1 to 3 bed,Portobello; Dublin 8,1042.91,1093.07,1120.62,1160.52,1207.92
+5439,Other Flats,1 to 3 bed,South Circular Road; Dublin 8,0,941.45,961.38,967.42,978.87
+5441,Other Flats,1 to 3 bed,Dublin 9,969.48,992.04,1019.55,1027.82,1055.28
+5444,Other Flats,1 to 3 bed,Drumcondra; Dublin 9,981.31,973.32,981.09,988.38,1020.68
+5451,Other Flats,1 to 3 bed,Dublin 11,1076.1,1087.78,1147.36,1096.85,1130.89
+5457,Other Flats,1 to 3 bed,Dublin 12,1118.07,1184.05,1170.13,1168.52,1172.04
+5458,Other Flats,1 to 3 bed,Crumlin; Dublin 12,0,0,0,1247.35,1260.41
+5460,Other Flats,1 to 3 bed,Kimmage; Dublin 12,0,1164.03,0,1187.6,0
+5474,Other Flats,1 to 3 bed,Dublin 15,1188.04,1198.86,0,0,0
+5507,Other Flats,1 to 3 bed,Dublin 24,1079.88,0,0,0,0
+6528,All property types,1 to 3 bed,Lusk; Dublin,1300.38,1352.76,1376.46,1403.42,1401.39
+6529,All property types,1 to 3 bed,Malahide; Dublin,1758.12,1792.86,1804.94,1806.87,1794.32
+6530,All property types,1 to 3 bed,Monkstown; Dublin,1579.2,1687.09,1694.75,1679.11,1698.9
+6532,All property types,1 to 3 bed,Portmarnock; Dublin,1477.57,1549.31,1590.11,1631.54,1649.02
+6533,All property types,1 to 3 bed,Rathcoole; Dublin,1303.28,1346.53,1341.86,1363.78,1387.15
+6534,All property types,1 to 3 bed,Rush; Dublin,1246.24,1280.12,1313.26,1295.03,1289.36
+6535,All property types,1 to 3 bed,Saggart; Dublin,1425.09,1503.49,1523.92,1517.98,1527.61
+6536,All property types,1 to 3 bed,Sandycove; Dublin,1999.75,1810.19,1767.79,1803.48,1790.09
+6537,All property types,1 to 3 bed,Shankill; Dublin,1460.23,1480.73,1475.86,1479,1474.77
+6538,All property types,1 to 3 bed,Skerries; Dublin,1295.18,1342.94,1343.74,1353.75,1373.23
+6540,All property types,1 to 3 bed,Stillorgan; Dublin,1754.15,1791.18,1791.16,1789.77,1817.66
+6541,All property types,1 to 3 bed,Swords; Dublin,1379.46,1410.92,1421.71,1438.29,1455.17
+6542,All property types,1 to 3 bed,Dublin 1,1465.97,1520.25,1533.29,1557.34,1555.14
+6543,All property types,1 to 3 bed,I.F.S.C.; Dublin 1,1766.4,1816.84,1817.71,1852.86,1864.99
+6544,All property types,1 to 3 bed,Parnell Street; Dublin 1,1639.66,1695.13,1683.93,1687.38,1687.57
+6545,All property types,1 to 3 bed,Spencer Dock; Dublin 1,2054.35,2089.49,2140.07,2162,2177.04
+6546,All property types,1 to 3 bed,Summerhill; Dublin 1,1592.08,1635.29,1643.81,1660.38,1642.31
+6547,All property types,1 to 3 bed,Dublin 2,1904.21,2043.28,2101.96,2129.45,2106
+6549,All property types,1 to 3 bed,Charlemont Street; Dublin 2,1844.75,1890.32,1961.46,2014.97,2080.79
+6550,All property types,1 to 3 bed,Grand Canal Dock; Dublin 2,2370.98,2515.51,2514.56,2477.15,2345.79
+6554,All property types,1 to 3 bed,Pearse Street; Dublin 2,1752.47,1748.89,1791.21,1765.95,1770.96
+6556,All property types,1 to 3 bed,Temple Bar; Dublin 2,1643.22,0,1859.02,0,0
+6557,All property types,1 to 3 bed,Townsend Street; Dublin 2,1777.31,1797.21,1766.1,1772.48,1794.55
+6558,All property types,1 to 3 bed,Dublin 3,1474.5,1514.52,1539.64,1569.06,1576.68
+6559,All property types,1 to 3 bed,Clonliffe; Dublin 3,1238.5,1258.51,1333.15,1432.94,1447.58
+6560,All property types,1 to 3 bed,Clontarf; Dublin 3,1532.11,1599.99,1601.93,1634.34,1648.06
+6561,All property types,1 to 3 bed,Drumcondra; Dublin 3,1453.87,1438.1,1428.94,1431.74,1409.04
+6562,All property types,1 to 3 bed,East Wall; Dublin 3,1624.65,1663.38,1722.75,1714.24,1669.11
+6564,All property types,1 to 3 bed,Fairview; Dublin 3,1304.34,1310.28,1345.63,1378.83,1404.69
+6565,All property types,1 to 3 bed,Marino; Dublin 3,1573.65,1589.43,1612.52,1666.81,1687.8
+6566,All property types,1 to 3 bed,North Strand; Dublin 3,1390.75,1412.54,1439.83,1498.32,1500.95
+6567,All property types,1 to 3 bed,Dublin 4,1936.31,2025.4,2036.54,2056.74,2059.73
+6568,All property types,1 to 3 bed,Ballsbridge; Dublin 4,2115.47,2240.57,2277.97,2280.6,2292.83
+6569,All property types,1 to 3 bed,Donnybrook; Dublin 4,1833.4,1869.04,1854.91,1866.72,1886.49
+6570,All property types,1 to 3 bed,Irishtown; Dublin 4,1914.52,1924.69,1845.62,1938.01,1945.85
+6571,All property types,1 to 3 bed,Merrion; Dublin 4,1636.81,1735.08,1737.97,1779.85,1857.78
+6572,All property types,1 to 3 bed,Pembroke; Dublin 4,1853.26,1893.48,1800.97,1854.49,1842.86
+6573,All property types,1 to 3 bed,Ringsend; Dublin 4,1830,1896.94,1883.75,1890.95,1903.26
+6574,All property types,1 to 3 bed,Sandymount; Dublin 4,1983.02,2078.18,2065.29,2098.59,2050.22
+6575,All property types,1 to 3 bed,Dublin 5,1503.12,1580.26,1580.61,1615.51,1608.56
+6576,All property types,1 to 3 bed,Artane; Dublin 5,1458.52,1507.98,1482.52,1531.89,1506.64
+6577,All property types,1 to 3 bed,Killester; Dublin 5,1536.03,1631.09,1653.86,1599.89,1602.12
+6578,All property types,1 to 3 bed,Raheny; Dublin 5,1540.92,1603.92,1607.6,1636.82,1614.03
+6579,All property types,1 to 3 bed,Dublin 6,1457.45,1515.95,1518.56,1526.65,1538.91
+6580,All property types,1 to 3 bed,Dartry; Dublin 6,1739.67,1759.26,0,1805.79,0
+6581,All property types,1 to 3 bed,Harolds Cross; Dublin 6,1509.77,1547.6,1528.83,1524.02,1720.69
+6582,All property types,1 to 3 bed,Milltown; Dublin 6,1920.53,1958.82,1952.58,1972.48,1973.55
+6583,All property types,1 to 3 bed,Ranelagh; Dublin 6,1563.06,1672.98,1656.45,1668.22,1673.68
+6584,All property types,1 to 3 bed,Rathgar; Dublin 6,1479.11,1513.45,1495.04,1476.21,1467.78
+6585,All property types,1 to 3 bed,Rathmines; Dublin 6,1250.97,1319.8,1335.77,1346.55,1369.02
+6586,All property types,1 to 3 bed,Terenure; Dublin 6,1407.24,1592.03,1697.74,1698.54,1686.26
+6587,All property types,1 to 3 bed,Dublin 6W,1530.5,1578.13,1571.64,1549.73,1592.04
+6588,All property types,1 to 3 bed,Harolds Cross; Dublin 6W,1363.72,1395.58,1400.49,1402.36,1427.08
+6589,All property types,1 to 3 bed,Templeogue; Dublin 6W,1648.49,1739.69,1688.96,1682.16,1709.52
+6590,All property types,1 to 3 bed,Terenure; Dublin 6W,1717.51,1780.98,1765.41,1740.95,1749.45
+6591,All property types,1 to 3 bed,Dublin 7,1303.69,1360.95,1378.37,1395.6,1400.11
+6592,All property types,1 to 3 bed,Arbour Hill; Dublin 7,0,0,1652.75,1718.43,1709.66
+6593,All property types,1 to 3 bed,Cabra; Dublin 7,1283.67,1307.15,1314.08,1311.46,1329.32
+6594,All property types,1 to 3 bed,Navan Road; Dublin 7,1548.84,1622.53,1613.32,1579.2,1560.43
+6595,All property types,1 to 3 bed,North Circular Road; Dublin 7,1139.04,1216.09,1221.77,1276.14,1298.41
+6596,All property types,1 to 3 bed,Phibsboro; Dublin 7,1060,1132.08,1111.24,1101,1110.89
+6597,All property types,1 to 3 bed,Smithfield; Dublin 7,1616.39,1666.2,1675.04,1690.43,1703.88
+6598,All property types,1 to 3 bed,Stoneybatter; Dublin 7,1428.01,1476.09,1503.72,1501.09,1488.47
+6599,All property types,1 to 3 bed,Dublin 8,1484.73,1555.04,1555.51,1566.57,1567.86
+6600,All property types,1 to 3 bed,Christchurch; Dublin 8,1584.21,1624.57,1600.2,1590.54,1545.78
+6601,All property types,1 to 3 bed,Cork Street; Dublin 8,1376.14,1514.86,1557.83,1574.21,1583.79
+6603,All property types,1 to 3 bed,Inchicore; Dublin 8,1404.23,1452.34,1440.88,1466.99,1462.9
+6604,All property types,1 to 3 bed,Islandbridge; Dublin 8,1824.57,1854.82,1855.3,1872.22,1887.92
+6605,All property types,1 to 3 bed,Kilmainham ; Dublin 8,1534.11,1550.03,1526.48,1534.18,1545.69
+6606,All property types,1 to 3 bed,Portobello; Dublin 8,1318.97,1431.34,1466.69,1460.4,1471.24
+6607,All property types,1 to 3 bed,Rialto; Dublin 8,1356.44,1482.64,1512.58,1504.17,1487.18
+6608,All property types,1 to 3 bed,South Circular Road; Dublin 8,1315.65,1402.74,1449.93,1472.93,1488.44
+6610,All property types,1 to 3 bed,Dublin 9,1433.64,1501.73,1511.76,1513.42,1540.34
+6611,All property types,1 to 3 bed,Ballymun; Dublin 9,1395.7,1367.67,1332.85,1191.81,0
+6612,All property types,1 to 3 bed,Beaumont; Dublin 9,1525.29,1612.4,1606.11,1561.96,1559.27
+6613,All property types,1 to 3 bed,Drumcondra; Dublin 9,1413.85,1456.93,1470.31,1443.11,1485.38
+6614,All property types,1 to 3 bed,Glasnevin; Dublin 9,1355.58,1428.61,1400.43,1401.89,1392.96
+6615,All property types,1 to 3 bed,Santry; Dublin 9,1445.68,1522.11,1546.43,1601.25,1623.52
+6616,All property types,1 to 3 bed,Whitehall; Dublin 9,1422.12,1586.43,1603.04,1505.94,1469.9
+6617,All property types,1 to 3 bed,Dublin 10,1293.19,1354.8,1360.73,1359.64,1344.69
+6618,All property types,1 to 3 bed,Ballyfermot; Dublin 10,1280.25,1327.91,1352.91,1351.35,1336.56
+6619,All property types,1 to 3 bed,Cherry Orchard; Dublin 10,1297.73,1375.65,1396.12,1387.51,1383.29
+6620,All property types,1 to 3 bed,Dublin 11,1387.25,1376.53,1391.43,1411.85,1434.25
+6621,All property types,1 to 3 bed,Ballymun; Dublin 11,1298.19,1348.48,1355.52,1328.87,1356.46
+6622,All property types,1 to 3 bed,Finglas; Dublin 11,1391.06,1352.21,1360.32,1387.93,1402.27
+6623,All property types,1 to 3 bed,Glasnevin; Dublin 11,1427.7,1433.27,1452.99,1440.99,1456.65
+6624,All property types,1 to 3 bed,Meakstown; Dublin 11,0,1322.12,1353.92,0,0
+6626,All property types,1 to 3 bed,Dublin 12,1417.64,1468.44,1482.79,1487.31,1501.5
+6627,All property types,1 to 3 bed,Crumlin; Dublin 12,1379.95,1470.66,1514.23,1516.43,1516.72
+6628,All property types,1 to 3 bed,Drimnagh; Dublin 12,1402.57,1446.47,1468.49,1491.51,1523.81
+6629,All property types,1 to 3 bed,Kimmage; Dublin 12,1518.56,1543.95,1570.96,1554.55,1581.52
+6630,All property types,1 to 3 bed,Walkinstown; Dublin 12,1427.76,1350.8,1323.4,1343.63,1380.88
+6631,All property types,1 to 3 bed,Dublin 13,1575.13,1596.29,1595.22,1636.99,1635.32
+6632,All property types,1 to 3 bed,Baldoyle; Dublin 13,1531.89,1570.65,1579.89,1581.26,1596.28
+6633,All property types,1 to 3 bed,Balgriffin; Dublin 13,1598.1,1700.24,1705.66,1767.1,1754.78
+6634,All property types,1 to 3 bed,Clongriffin; Dublin 13,1496.46,1524.27,1492.72,1523.21,1518.32
+6635,All property types,1 to 3 bed,Donaghmede; Dublin 13,1317.3,1362.99,1302.16,1371.14,1388.12
+6636,All property types,1 to 3 bed,Sutton; Dublin 13,1660.97,1683.31,1744.12,1707.2,1711
+6637,All property types,1 to 3 bed,Dublin 14,1778.51,1858.6,1846.17,1880.03,1891.98
+6638,All property types,1 to 3 bed,Churchtown; Dublin 14,1924.16,2098.39,2102.17,2130.83,2165.76
+6639,All property types,1 to 3 bed,Clonskeagh; Dublin 14,1873.84,1931.57,1922.48,1936.81,1914.23
+6640,All property types,1 to 3 bed,Dundrum; Dublin 14,1800.33,1827.32,1799.48,1783.84,1780.43
+6641,All property types,1 to 3 bed,Goatstown; Dublin 14,1991.48,2074.33,2068.72,2121.03,2122.84
+6642,All property types,1 to 3 bed,Rathfarnham; Dublin 14,1645.22,1658.64,1657.18,1682.27,1685.22
+6643,All property types,1 to 3 bed,Dublin 15,1447.01,1475.2,1483.1,1493.89,1497.89
+6644,All property types,1 to 3 bed,Ashtown; Dublin 15,1521.6,1538.42,1603.81,1621.52,1635.53
+6645,All property types,1 to 3 bed,Blanchardstown; Dublin 15,1361.3,1403.63,1434.1,1448.08,1454.16
+6646,All property types,1 to 3 bed,Carpenterstown; Dublin 15,1452.35,1459.2,1476.43,1508.18,1496.99
+6647,All property types,1 to 3 bed,Castleknock; Dublin 15,1573.1,1603.05,1614.19,1630.66,1641.98
+6648,All property types,1 to 3 bed,Clonee; Dublin 15,1320.6,1372.84,1397.17,1393.3,1404.12
+6649,All property types,1 to 3 bed,Clonsilla; Dublin 15,1543.36,1504.26,1439.3,1408.52,1406.54
+6651,All property types,1 to 3 bed,Mulhuddart; Dublin 15,1347.69,1352.93,1307.14,1299.9,1325
+6652,All property types,1 to 3 bed,Ongar; Dublin 15,1316.28,1323.74,1331.42,1350.28,1376.91
+6653,All property types,1 to 3 bed,Porterstown; Dublin 15,1611.54,1634.46,0,1524.7,1528.68
+6654,All property types,1 to 3 bed,Royal Canal Park; Dublin 15,1449.27,1467.76,1461.62,1471.69,1455.11
+6655,All property types,1 to 3 bed,Tyrrelstown; Dublin 15,1338.48,1362.03,1373.15,1386.16,1380.18
+6656,All property types,1 to 3 bed,Dublin 16,1711.92,1764.29,1767.04,1796.34,1813.61
+6657,All property types,1 to 3 bed,Ballinteer; Dublin 16,1719.28,1700.99,1680.42,1688.5,1737.89
+6658,All property types,1 to 3 bed,Dundrum; Dublin 16,1827.97,1885.42,1880.43,1913.96,1910.98
+6659,All property types,1 to 3 bed,Knocklyon; Dublin 16,1663.55,1730.73,1722.5,1736.31,1728.33
+6660,All property types,1 to 3 bed,Rathfarnham; Dublin 16,1654.6,1715.44,1734.59,1751.01,1770.06
+6661,All property types,1 to 3 bed,Sandyford; Dublin 16,0,0,1681.56,1695.72,0
+6662,All property types,1 to 3 bed,Dublin 17,1383.64,1425.67,1415.39,1421.97,1425.33
+6663,All property types,1 to 3 bed,Malahide Road; Dublin 17,1647.38,1571.53,1546.29,1567.77,1578.76
+6665,All property types,1 to 3 bed,Dublin 18,1729.64,1785.3,1781.83,1796.74,1816.66
+6666,All property types,1 to 3 bed,Cabinteely; Dublin 18,1599.24,1681.11,1679,1689.4,1705.27
+6667,All property types,1 to 3 bed,Carrickmines; Dublin 18,1659.65,1670.64,1688.57,1677.72,1692.06
+6668,All property types,1 to 3 bed,Foxrock; Dublin 18,2013.21,2105.43,2115.18,2177.88,2195.07
+6669,All property types,1 to 3 bed,Leopardstown; Dublin 18,1967.45,1963.18,1940.5,1945.4,1934.48
+6670,All property types,1 to 3 bed,Sandyford; Dublin 18,1720.95,1775.99,1768.15,1777.25,1806.28
+6671,All property types,1 to 3 bed,Stepaside; Dublin 18,1595.1,1644.3,1649.52,1677.88,1672.27
+6672,All property types,1 to 3 bed,Dublin 20,1418.43,1443.27,1433.49,1417.4,1407.55
+6673,All property types,1 to 3 bed,Chapelizod; Dublin 20,1371.65,1410.99,1404.16,1394.07,1400.09
+6674,All property types,1 to 3 bed,Palmerstown; Dublin 20,1459.42,1452.11,1439.86,1397.26,1378.84
+6675,All property types,1 to 3 bed,Clondalkin; Dublin 22,1340.66,1357.7,1370.1,1371.23,1390.18
+6676,All property types,1 to 3 bed,Dublin 24,1395.04,1414.58,1420.26,1425.47,1430.9
+6677,All property types,1 to 3 bed,Ballycullen; Dublin 24,1501.45,1526.49,1530.88,1518.31,1505.59
+6678,All property types,1 to 3 bed,Citywest; Dublin 24,1419.79,1457.07,1462.14,1464.17,1468.51
+6679,All property types,1 to 3 bed,Firhouse; Dublin 24,1431.11,1515.25,1547.08,1577.11,1594.99
+6680,All property types,1 to 3 bed,Tallaght; Dublin 24,1371.32,1373.21,1378.55,1381.28,1378.69
+3270,Terrace house,Four plus bed,Dublin 9,2164.67,2092.76,2009.57,2180.32,2208.47
+3273,Terrace house,Four plus bed,Drumcondra; Dublin 9,2047.47,1972.91,1846.81,0,2073.9
+5846,All property types,One bed,Dublin,1248.18,1244.03,1257.93,1285.15,1288.54
+3280,Terrace house,Four plus bed,Dublin 11,1947.34,2046.04,1922.26,1949.57,1905.6
+3282,Terrace house,Four plus bed,Finglas; Dublin 11,0,2035.9,0,0,0
+3286,Terrace house,Four plus bed,Dublin 12,0,0,0,2104.31,2182.84
+3291,Terrace house,Four plus bed,Dublin 13,1987.79,2060.12,2073.26,2099.63,2092.59
+3293,Terrace house,Four plus bed,Balgriffin; Dublin 13,2187.53,2195.24,0,2165.09,2120.3
+3303,Terrace house,Four plus bed,Dublin 15,1645.27,1671.59,1709,1767.46,1771.18
+6682,All property types,Four plus bed,Balbriggan; Dublin,1409.06,1454.04,1506.28,1524.53,1556.7
+6683,All property types,Four plus bed,Blackrock; Dublin,2942.55,2971.6,3095.94,3173.97,3218.08
+6687,All property types,Four plus bed,Dalkey; Dublin,0,0,0,4186.03,0
+6689,All property types,Four plus bed,Dun Laoghaire; Dublin,3197.36,3216.61,3120.08,3093.82,2976.85
+6692,All property types,Four plus bed,Killiney; Dublin,3150.63,2826.73,0,0,3180.1
+6694,All property types,Four plus bed,Lucan; Dublin,1915.47,1952.67,1875.64,1814.77,1838.45
+6696,All property types,Four plus bed,Malahide; Dublin,2649.49,2696.39,2701.36,2727.85,2795.42
+6699,All property types,Four plus bed,Portmarnock; Dublin,0,0,0,0,2788.03
+6704,All property types,Four plus bed,Shankill; Dublin,1963.72,1918.21,0,0,1951.29
+6707,All property types,Four plus bed,Stillorgan; Dublin,2606.26,2647.85,2623.28,2624.83,2717.22
+6708,All property types,Four plus bed,Swords; Dublin,1761.99,1829.23,1837.02,1841.89,1811.79
+6709,All property types,Four plus bed,Dublin 1,2261.73,2326.16,2123.47,2099.9,0
+6725,All property types,Four plus bed,Dublin 3,2255.31,2394.34,2439.42,2406.87,2421.75
+6727,All property types,Four plus bed,Clontarf; Dublin 3,2329.77,2461.13,2490.4,2531.27,2518.33
+6734,All property types,Four plus bed,Dublin 4,3464.94,3696.87,3766.27,3844.18,3879.97
+6735,All property types,Four plus bed,Ballsbridge; Dublin 4,3802.06,3883,3760.02,3735.39,3759.18
+6736,All property types,Four plus bed,Donnybrook; Dublin 4,3212.58,3564.3,3634.78,3642.95,3733.65
+6741,All property types,Four plus bed,Sandymount; Dublin 4,3345.48,3578.77,3710.2,3865.85,3941.4
+6742,All property types,Four plus bed,Dublin 5,2021.19,2058.01,2002.19,1909.88,1846.84
+6746,All property types,Four plus bed,Dublin 6,2963.53,3172.03,3142.72,3030.09,3057.49
+6750,All property types,Four plus bed,Ranelagh; Dublin 6,3328.09,3375.53,3387.69,3328.75,3234.77
+6751,All property types,Four plus bed,Rathgar; Dublin 6,2418.28,0,0,0,0
+6752,All property types,Four plus bed,Rathmines; Dublin 6,2796.2,3085.23,3058.01,2777.73,2930.07
+6754,All property types,Four plus bed,Dublin 6W,2403.6,2587.25,2643.53,2587.65,2649.19
+6757,All property types,Four plus bed,Terenure; Dublin 6W,2600.92,2794.59,2914.57,2853.62,2922.88
+6758,All property types,Four plus bed,Dublin 7,2039.53,2205.49,2246.09,2283.95,2309.78
+6766,All property types,Four plus bed,Dublin 8,2093.85,2274.19,2204.83,2329.78,2329.99
+6777,All property types,Four plus bed,Dublin 9,2128.17,2191.28,2140.3,2125.64,2140.93
+6780,All property types,Four plus bed,Drumcondra; Dublin 9,2179.63,2221.76,2117.03,2153.21,2201.2
+6782,All property types,Four plus bed,Santry; Dublin 9,2229.37,0,0,0,2074.85
+6787,All property types,Four plus bed,Dublin 11,1825.63,1946.5,1868.69,1920.66,1909.19
+6789,All property types,Four plus bed,Finglas; Dublin 11,1865.58,1934.07,1827.59,1827.05,1811.97
+6790,All property types,Four plus bed,Glasnevin; Dublin 11,0,1900.44,1835.98,0,1915.46
+6793,All property types,Four plus bed,Dublin 12,1921.34,2129.27,2164.12,2194.37,2248.21
+6798,All property types,Four plus bed,Dublin 13,2007.56,2111.54,2101.6,2112.53,2131.27
+6800,All property types,Four plus bed,Balgriffin; Dublin 13,2179.37,2194.89,2239.31,2204.23,2189.95
+6804,All property types,Four plus bed,Dublin 14,2671.38,2822.63,2838.73,2830.19,2799.8
+6806,All property types,Four plus bed,Clonskeagh; Dublin 14,3249.17,3270.37,3216.01,3103.15,3075.04
+6807,All property types,Four plus bed,Dundrum; Dublin 14,2380.82,2396.97,2433.62,0,0
+6808,All property types,Four plus bed,Goatstown; Dublin 14,0,2906.64,3010.82,0,0
+6809,All property types,Four plus bed,Rathfarnham; Dublin 14,2360.65,2464.92,2543.79,2518.97,2503.47
+6810,All property types,Four plus bed,Dublin 15,1742.83,1824.55,1855.21,1882.83,1890.63
+6814,All property types,Four plus bed,Castleknock; Dublin 15,2051.71,2152.7,2157.83,2127.16,2129.35
+6815,All property types,Four plus bed,Clonee; Dublin 15,1583.12,1662.36,1667.88,1652.99,1713.39
+6816,All property types,Four plus bed,Clonsilla; Dublin 15,1715.48,1740.08,1770.13,1804.54,1819.83
+6822,All property types,Four plus bed,Tyrrelstown; Dublin 15,1596.66,1658.93,1671.46,1730.35,1735.94
+6823,All property types,Four plus bed,Dublin 16,2245.56,2319.98,2351.25,2429.07,2400.91
+6827,All property types,Four plus bed,Rathfarnham; Dublin 16,2245.06,2374.49,2399.24,2575.13,2594.04
+6832,All property types,Four plus bed,Dublin 18,2660.21,2735.25,2748.64,2798.61,2776.46
+6833,All property types,Four plus bed,Cabinteely; Dublin 18,2509.26,2527.88,2619.36,0,0
+6835,All property types,Four plus bed,Foxrock; Dublin 18,3129.21,3317.68,3277.14,3397.59,3238.46
+6842,All property types,Four plus bed,Clondalkin; Dublin 22,1524.48,1573.28,1650.57,1734.14,1742.47
+6843,All property types,Four plus bed,Dublin 24,1602.54,1708.41,1759.04,1809.69,1817.95
+6847,All property types,Four plus bed,Tallaght; Dublin 24,1506.83,1597.46,1642.9,1658.05,1635.97
+6021,All property types,All bedrooms,Dun Laoghaire; Dublin,1853.75,1887.74,1926.96,1978.32,2003.13
+6023,All property types,All bedrooms,Howth; Dublin,1701.42,1910.6,1956.59,1977.97,1949.85
+6024,All property types,All bedrooms,Killiney; Dublin,1785.22,1881.35,1950.55,1975.38,1905.31
+6025,All property types,All bedrooms,Kinsealy; Dublin,1339.67,0,1417.45,0,0
+6026,All property types,All bedrooms,Lucan; Dublin,1435.82,1450.84,1449.98,1480.03,1495.59
+6027,All property types,All bedrooms,Lusk; Dublin,1228.87,1260.25,1280.46,1339.07,1361.29
+6028,All property types,All bedrooms,Malahide; Dublin,1658.71,1700.63,1715.32,1748.9,1761.23
+6029,All property types,All bedrooms,Monkstown; Dublin,1651.25,1716.88,1742.48,1767.29,1799.63
+6031,All property types,All bedrooms,Portmarnock; Dublin,1502.62,1593.86,1622.98,1637.28,1655.12
+6032,All property types,All bedrooms,Rathcoole; Dublin,1261,1287.05,1327.38,1376.65,1388.79
+6033,All property types,All bedrooms,Rush; Dublin,1154.3,1169.63,1210.12,1206.56,1221.66
+6034,All property types,All bedrooms,Saggart; Dublin,1431.2,1508.96,1532.55,1507.1,1524.68
+6035,All property types,All bedrooms,Sandycove; Dublin,0,1809.63,1825.39,1792.97,1777.1
+6036,All property types,All bedrooms,Shankill; Dublin,1387.52,1440.81,1438.7,1418.24,1439.87
+6037,All property types,All bedrooms,Skerries; Dublin,1222.62,1258.07,1265.88,1276.45,1309.91
+6039,All property types,All bedrooms,Stillorgan; Dublin,1744.46,1773.84,1785.06,1794.83,1816.08
+6040,All property types,All bedrooms,Swords; Dublin,1369.18,1392.04,1400.58,1422.61,1425.48
+6041,All property types,All bedrooms,Dublin 1,1688.59,1745.09,1773.55,1792.59,1800.29
+6042,All property types,All bedrooms,I.F.S.C.; Dublin 1,1914.32,1957.33,1951.09,1982.02,1981.85
+6043,All property types,All bedrooms,Parnell Street; Dublin 1,1842.68,1825.55,1829.71,1842.62,1857.25
+6044,All property types,All bedrooms,Spencer Dock; Dublin 1,2013.62,2098.58,2132.27,2164.8,2186.99
+6045,All property types,All bedrooms,Summerhill; Dublin 1,1732.67,1730.99,1743.3,0,0
+6046,All property types,All bedrooms,Dublin 2,2120.42,2290.55,2348.71,2412.79,2382.53
+6049,All property types,All bedrooms,Grand Canal Dock; Dublin 2,2349.4,2400.62,2415.23,0,0
+6057,All property types,All bedrooms,Dublin 3,1590.54,1626.91,1649.95,1660.92,1669.36
+6059,All property types,All bedrooms,Clontarf; Dublin 3,1640.54,1692.37,1693.46,1691.47,1699.62
+6060,All property types,All bedrooms,Drumcondra; Dublin 3,1577.81,1527.03,1533.63,1528.84,1496.22
+6061,All property types,All bedrooms,East Wall; Dublin 3,1595.92,1656.2,1675.48,1692.27,1662.88
+6063,All property types,All bedrooms,Fairview; Dublin 3,1476.09,1462.41,1519.8,1530.54,1569.07
+6066,All property types,All bedrooms,Dublin 4,2021.36,2097.01,2121.13,2142.43,2139.93
+6067,All property types,All bedrooms,Ballsbridge; Dublin 4,2299.4,2405.29,2444.21,2462.42,2449.31
+6068,All property types,All bedrooms,Donnybrook; Dublin 4,1897.73,1932.7,1969.19,1974.9,1996.26
+6070,All property types,All bedrooms,Merrion; Dublin 4,1698.31,1718.7,1749.82,1809.71,1851.65
+6071,All property types,All bedrooms,Pembroke; Dublin 4,1871.64,2007.33,1975.52,2044.53,2023.33
+6072,All property types,All bedrooms,Ringsend; Dublin 4,1822.71,1868.72,1857.06,1846.98,1872.77
+6073,All property types,All bedrooms,Sandymount; Dublin 4,1897.9,1954.86,2002.27,2037.35,2032.69
+6074,All property types,All bedrooms,Dublin 5,1512.09,1588.44,1585.91,1621.9,1633.79
+6075,All property types,All bedrooms,Artane; Dublin 5,1435,1480.08,1491.93,1557.8,1501.26
+6076,All property types,All bedrooms,Killester; Dublin 5,1469.74,1564.84,1509.11,1493.12,0
+6077,All property types,All bedrooms,Raheny; Dublin 5,1567.71,1618.29,1626.73,1650.69,1646.95
+6078,All property types,All bedrooms,Dublin 6,1773.88,1813.87,1811.92,1824.23,1828.2
+6080,All property types,All bedrooms,Harolds Cross; Dublin 6,1604.49,1616.32,1648.03,1680.66,1840.82
+6081,All property types,All bedrooms,Milltown; Dublin 6,1956.42,1953.44,1976.35,1998,1997.27
+6082,All property types,All bedrooms,Ranelagh; Dublin 6,1834.76,1923.05,1912.36,1916.39,1911.3
+6083,All property types,All bedrooms,Rathgar; Dublin 6,1834.85,1882.03,1820.94,1827.12,1804.41
+6084,All property types,All bedrooms,Rathmines; Dublin 6,1582.78,1654.38,1672.89,1683.25,1696.19
+6085,All property types,All bedrooms,Terenure; Dublin 6,0,1757.73,1798.43,1808.43,1813.36
+6086,All property types,All bedrooms,Dublin 6W,1666.49,1745.56,1734.57,1757.2,1789.13
+6087,All property types,All bedrooms,Harolds Cross; Dublin 6W,1536.83,1643.44,1620.06,1668.66,0
+6089,All property types,All bedrooms,Terenure; Dublin 6W,1729.84,1815.56,1809.59,1800.51,1832.03
+6090,All property types,All bedrooms,Dublin 7,1502.79,1562.42,1591.43,1607.52,1613.86
+6092,All property types,All bedrooms,Cabra; Dublin 7,1428.58,1457.8,1454.02,1495.45,1505.05
+6093,All property types,All bedrooms,Navan Road; Dublin 7,1520.55,1542.41,1570.27,0,0
+6095,All property types,All bedrooms,Phibsboro; Dublin 7,1397.92,1482.69,1464.29,0,0
+6096,All property types,All bedrooms,Smithfield; Dublin 7,1753.03,1816.71,1841.4,1874.27,1857.11
+6097,All property types,All bedrooms,Stoneybatter; Dublin 7,1506.51,1571.25,1601.22,1589.19,1568
+6098,All property types,All bedrooms,Dublin 8,1591.54,1645.37,1656.14,1672.22,1683.03
+6099,All property types,All bedrooms,Christchurch; Dublin 8,1679.08,1753.98,1751.48,1742.05,1685.21
+6100,All property types,All bedrooms,Cork Street; Dublin 8,1576.13,1611.79,1687.98,1728.33,1757.11
+6102,All property types,All bedrooms,Inchicore; Dublin 8,1428.59,1446.38,1434.37,1463.47,1468.53
+6103,All property types,All bedrooms,Islandbridge; Dublin 8,1859.76,1885.34,1906.21,1909.83,1925.77
+6104,All property types,All bedrooms,Kilmainham ; Dublin 8,1608.48,1616.59,1601,1609.54,1622.43
+6105,All property types,All bedrooms,Portobello; Dublin 8,1665.6,1744.04,1789.1,1777.34,1803.68
+6106,All property types,All bedrooms,Rialto; Dublin 8,1492.4,1534.62,1525.21,1536.5,1551.23
+6107,All property types,All bedrooms,South Circular Road; Dublin 8,1289.16,1396.12,1446.37,1479.42,1518.18
+6110,All property types,All bedrooms,Ballymun; Dublin 9,1432.31,1390.41,0,0,0
+6111,All property types,All bedrooms,Beaumont; Dublin 9,1430.42,1522.82,1537.17,1543.07,1548.26
+6112,All property types,All bedrooms,Drumcondra; Dublin 9,1526.53,1523.73,1546.52,1545.95,1597.57
+6113,All property types,All bedrooms,Glasnevin; Dublin 9,1408.27,1493.31,1513.35,1491.4,1444.86
+6114,All property types,All bedrooms,Santry; Dublin 9,1424.74,1513.43,1550.96,1619.56,1646.38
+6115,All property types,All bedrooms,Whitehall; Dublin 9,1436.63,1648.83,1669.34,1459.85,1500.37
+6116,All property types,All bedrooms,Dublin 10,1313.5,1382.38,1391.82,1369.86,1360.2
+6117,All property types,All bedrooms,Ballyfermot; Dublin 10,1317.27,1357.66,1365.25,1355.51,1321.05
+6118,All property types,All bedrooms,Cherry Orchard; Dublin 10,1258,1325.94,1356.06,0,0
+6119,All property types,All bedrooms,Dublin 11,1431.32,1396.44,1404.64,1432.85,1448.06
+6120,All property types,All bedrooms,Ballymun; Dublin 11,1327.88,1396.24,1391.62,1335.81,1389.99
+6121,All property types,All bedrooms,Finglas; Dublin 11,1443.55,1363.71,1363.06,1398.78,1398.75
+6122,All property types,All bedrooms,Glasnevin; Dublin 11,1430.29,1450.02,1460.75,1443.07,1456.34
+6125,All property types,All bedrooms,Dublin 12,1405.24,1471.91,1488.85,1518.65,1524.92
+6126,All property types,All bedrooms,Crumlin; Dublin 12,1312.66,1393.44,1430.92,1471.28,1483.49
+6127,All property types,All bedrooms,Drimnagh; Dublin 12,1415.84,1471.66,1493.96,1525.23,1562.05
+6128,All property types,All bedrooms,Kimmage; Dublin 12,1520.38,1556,1592.08,1606.8,1599.71
+6130,All property types,All bedrooms,Dublin 13,1558.75,1581.35,1588.56,1654.45,1666.19
+6131,All property types,All bedrooms,Baldoyle; Dublin 13,1531.72,1545.9,1570,1548.04,1577.72
+6132,All property types,All bedrooms,Balgriffin; Dublin 13,1404.47,1537.46,1567.12,1673.11,0
+6133,All property types,All bedrooms,Clongriffin; Dublin 13,1501.5,1530.89,1508.95,1546.41,1560.69
+6134,All property types,All bedrooms,Donaghmede; Dublin 13,1347.07,0,0,0,0
+6135,All property types,All bedrooms,Sutton; Dublin 13,1568.34,1595.39,1634.59,1625.9,1664.22
+6136,All property types,All bedrooms,Dublin 14,1728.22,1810.08,1823.99,1859.2,1863.61
+6137,All property types,All bedrooms,Churchtown; Dublin 14,1908.22,2116.03,2127.17,2200.51,2237.6
+6138,All property types,All bedrooms,Clonskeagh; Dublin 14,1776.44,1760.73,1782.95,1817.34,1812.54
+6139,All property types,All bedrooms,Dundrum; Dublin 14,1779.3,1809.53,1808.87,1787.23,1763.56
+6140,All property types,All bedrooms,Goatstown; Dublin 14,1950.5,1969.02,1996.37,2052.28,2045.32
+6141,All property types,All bedrooms,Rathfarnham; Dublin 14,1557.99,1592.47,1613.16,1613.3,1629.78
+6142,All property types,All bedrooms,Dublin 15,1426.05,1464.86,1487.97,1496.56,1509.77
+6143,All property types,All bedrooms,Ashtown; Dublin 15,1527.36,1555.02,1608.57,1620.3,1644.41
+6144,All property types,All bedrooms,Blanchardstown; Dublin 15,1387.89,1424.24,1448.77,1461.45,1474.37
+6146,All property types,All bedrooms,Castleknock; Dublin 15,1576.35,1599.68,1610.89,1628.57,1642.88
+6147,All property types,All bedrooms,Clonee; Dublin 15,1292.95,1290.15,1318.59,1333.02,1365.27
+6148,All property types,All bedrooms,Clonsilla; Dublin 15,1379.88,1389.94,1364.65,1329.28,1338.96
+6151,All property types,All bedrooms,Ongar; Dublin 15,1294.98,1311.69,1331.16,1376.56,1419.29
+6153,All property types,All bedrooms,Royal Canal Park; Dublin 15,1415.87,1494.07,1513.72,1525.31,1503.27
+6154,All property types,All bedrooms,Tyrrelstown; Dublin 15,1280.27,1283.38,1300.84,1288.57,1262.97
+6155,All property types,All bedrooms,Dublin 16,1709.77,1774.25,1772.55,1792.95,1810.11
+6156,All property types,All bedrooms,Ballinteer; Dublin 16,1666.92,1726.97,1735.99,1732.84,1788.66
+6157,All property types,All bedrooms,Dundrum; Dublin 16,1822.43,1869.13,1860.69,1889.24,1889.87
+6158,All property types,All bedrooms,Knocklyon; Dublin 16,1608.84,0,0,0,0
+6159,All property types,All bedrooms,Rathfarnham; Dublin 16,1601.19,1679.01,1689.3,1686.16,1693.17
+6161,All property types,All bedrooms,Dublin 17,1397.89,1430.2,1421.8,1434.53,1438.96
+6162,All property types,All bedrooms,Malahide Road; Dublin 17,1633.97,1585.56,1588.14,1608.07,1635.49
+6164,All property types,All bedrooms,Dublin 18,1734.13,1789.34,1785.82,1790.33,1797.8
+6165,All property types,All bedrooms,Cabinteely; Dublin 18,1490.98,1546.3,1548.01,1556.2,1557.7
+6166,All property types,All bedrooms,Carrickmines; Dublin 18,1720.67,1786.5,1802.08,1770.19,1784.59
+6167,All property types,All bedrooms,Foxrock; Dublin 18,0,2157.57,2142.59,2140.1,2125.44
+6168,All property types,All bedrooms,Leopardstown; Dublin 18,1927.99,1935.46,1907.39,1915.01,1897.4
+6169,All property types,All bedrooms,Sandyford; Dublin 18,1751.13,1795.27,1792.07,1794.31,1813.61
+6170,All property types,All bedrooms,Stepaside; Dublin 18,1605.21,1652.12,1664.53,1677.83,1669.44
+6171,All property types,All bedrooms,Dublin 20,1402.94,1441.3,1438.39,1428.53,1422.33
+6172,All property types,All bedrooms,Chapelizod; Dublin 20,1380.95,1422.26,1396.11,1378.53,1380.38
+6174,All property types,All bedrooms,Clondalkin; Dublin 22,1361.08,1329.66,1342.09,1328.95,1343.24
+6175,All property types,All bedrooms,Dublin 24,1402.41,1423.87,1419.01,1423.19,1432.94
+6176,All property types,All bedrooms,Ballycullen; Dublin 24,1479.57,1516.85,1518.5,1513.03,1489.54
+6177,All property types,All bedrooms,Citywest; Dublin 24,1357.57,1410.53,1420.18,1436.72,1449.36
+6179,All property types,All bedrooms,Tallaght; Dublin 24,1393.27,1392.34,1391.92,1387.16,1388.89
+6860,All property types,All bedrooms,Kinsealy; Dublin,1495.53,1547.41,1579.45,1601.3,1620.68
+6861,All property types,All bedrooms,Lucan; Dublin,1562.37,1551.21,1533.1,1526.06,1535.85
+6862,All property types,All bedrooms,Lusk; Dublin,1327.98,1384.22,1415.93,1443.81,1435.53
+6863,All property types,All bedrooms,Malahide; Dublin,1923.71,1977.51,1982.78,1977.77,1972.65
+6864,All property types,All bedrooms,Monkstown; Dublin,1707.72,1803.68,1821.94,1792.47,1829.87
+6865,All property types,All bedrooms,Mount Merrion; Dublin,0,2772.63,2729.57,2718.82,2693.52
+6866,All property types,All bedrooms,Portmarnock; Dublin,1587.37,1689.11,1771.5,1831.81,1874.01
+6867,All property types,All bedrooms,Rathcoole; Dublin,1355.74,1438.31,1516.05,1519.98,1551.05
+6868,All property types,All bedrooms,Rush; Dublin,1323.21,1341.76,1379.57,1363.25,1356.46
+6869,All property types,All bedrooms,Saggart; Dublin,1449.46,1545.04,1564.87,1553.62,1563.11
+6870,All property types,All bedrooms,Sandycove; Dublin,2252.69,2119.15,2065.13,2048.9,2065.52
+6871,All property types,All bedrooms,Shankill; Dublin,1567.36,1587.59,1578.96,1600.2,1602.41
+6872,All property types,All bedrooms,Skerries; Dublin,1357.77,1414.4,1397.58,1406.97,1440.77
+6874,All property types,All bedrooms,Stillorgan; Dublin,1862.27,1915.12,1900.55,1889.75,1919.93
+6875,All property types,All bedrooms,Swords; Dublin,1412.96,1446.15,1455.6,1471.3,1484.33
+6876,All property types,All bedrooms,Dublin 1,1479.48,1532.42,1541.62,1564.11,1560.77
+6877,All property types,All bedrooms,I.F.S.C.; Dublin 1,1763.01,1813.38,1814.22,1849.22,1864.99
+6878,All property types,All bedrooms,Parnell Street; Dublin 1,1639.66,1695.13,1683.93,1687.38,1687.57
+6879,All property types,All bedrooms,Spencer Dock; Dublin 1,2069.46,2089.6,2140.07,2162,2177.04
+6880,All property types,All bedrooms,Summerhill; Dublin 1,1614.91,1655.5,1656.4,1675.38,1642.31
+6881,All property types,All bedrooms,Dublin 2,1914.39,2050.44,2108.24,2135.6,2112.12
+6883,All property types,All bedrooms,Charlemont Street; Dublin 2,1844.75,1890.32,1961.46,2014.97,2080.79
+6884,All property types,All bedrooms,Grand Canal Dock; Dublin 2,2370.98,2515.51,2514.56,2477.15,2345.79
+6888,All property types,All bedrooms,Pearse Street; Dublin 2,1752.47,1748.89,1791.21,1783.95,1789.71
+6890,All property types,All bedrooms,Temple Bar; Dublin 2,1643.22,0,1859.02,0,0
+6891,All property types,All bedrooms,Townsend Street; Dublin 2,1777.31,1797.21,1766.1,1772.48,1794.55
+6892,All property types,All bedrooms,Dublin 3,1521.11,1567.78,1590.25,1618.68,1626.48
+6893,All property types,All bedrooms,Clonliffe; Dublin 3,1298.06,1385.12,1402.46,1489.99,1501.54
+6894,All property types,All bedrooms,Clontarf; Dublin 3,1586.47,1656.74,1660.85,1692.21,1699.33
+6895,All property types,All bedrooms,Drumcondra; Dublin 3,1503.93,1500.09,1488.64,1486.33,1482.02
+6896,All property types,All bedrooms,East Wall; Dublin 3,1672.57,1696.89,1766.15,1759.99,1708.9
+6898,All property types,All bedrooms,Fairview; Dublin 3,1355.38,1372.5,1393.54,1432.83,1464.35
+6899,All property types,All bedrooms,Marino; Dublin 3,1624.26,1702.22,1716.8,1793.57,1810.15
+6900,All property types,All bedrooms,North Strand; Dublin 3,1433.46,1484.96,1532,1539.81,1580.95
+6901,All property types,All bedrooms,Dublin 4,2041.75,2138.46,2151.08,2170.3,2178.68
+6902,All property types,All bedrooms,Ballsbridge; Dublin 4,2245.6,2363.75,2389.16,2379.66,2397.23
+6903,All property types,All bedrooms,Donnybrook; Dublin 4,1985.11,2052.73,2044.07,2045.72,2072.72
+6904,All property types,All bedrooms,Irishtown; Dublin 4,1922.51,1950.81,1875.49,1970.29,1975.45
+6905,All property types,All bedrooms,Merrion; Dublin 4,1705.57,1817.58,1855.41,1891.85,1970.19
+6906,All property types,All bedrooms,Pembroke; Dublin 4,1877.19,1916.74,1825.91,1876.41,1867.29
+6907,All property types,All bedrooms,Ringsend; Dublin 4,1862.44,1940.87,1925.74,1935.24,1955.79
+6908,All property types,All bedrooms,Sandymount; Dublin 4,2170.36,2298.73,2285.55,2312.8,2270.6
+6909,All property types,All bedrooms,Dublin 5,1549.48,1624.56,1616.96,1640.98,1629.66
+6910,All property types,All bedrooms,Artane; Dublin 5,1518.12,1574.75,1543.59,1563.78,1550.87
+6911,All property types,All bedrooms,Killester; Dublin 5,1619.96,1713.34,1681.73,1651.11,1651.78
+6912,All property types,All bedrooms,Raheny; Dublin 5,1586.9,1660.59,1660.71,1689.82,1657.47
+6913,All property types,All bedrooms,Dublin 6,1541.12,1606.73,1599.65,1597.42,1616.84
+6914,All property types,All bedrooms,Dartry; Dublin 6,1911.11,2145.36,2350.92,2147.54,2208.96
+6915,All property types,All bedrooms,Harolds Cross; Dublin 6,1568.52,1572.57,1532.35,1541.52,1740.88
+6916,All property types,All bedrooms,Milltown; Dublin 6,1972.3,2011.78,2000.82,2004.16,2015.64
+6917,All property types,All bedrooms,Ranelagh; Dublin 6,1720.22,1806.68,1777.54,1775.55,1778.28
+6918,All property types,All bedrooms,Rathgar; Dublin 6,1524.32,1562.26,1535.7,1535.2,1531.62
+6919,All property types,All bedrooms,Rathmines; Dublin 6,1302.44,1383.93,1389.01,1391.28,1422.41
+6920,All property types,All bedrooms,Terenure; Dublin 6,1497.37,1681.85,1780.61,1775.02,1800.87
+6921,All property types,All bedrooms,Dublin 6W,1639.64,1726.09,1734.4,1702.53,1747.19
+6922,All property types,All bedrooms,Harolds Cross; Dublin 6W,1455.43,1467.1,1473.14,1494.08,1528.14
+6923,All property types,All bedrooms,Templeogue; Dublin 6W,1752.46,1875.89,1907.42,1864.74,1893.8
+6924,All property types,All bedrooms,Terenure; Dublin 6W,1838.6,1956.04,1968,1930.57,1943.08
+6925,All property types,All bedrooms,Dublin 7,1336.75,1401.08,1420.76,1434.88,1441.06
+6926,All property types,All bedrooms,Arbour Hill; Dublin 7,0,1623.78,1728.22,1773.46,1754.94
+6927,All property types,All bedrooms,Cabra; Dublin 7,1310.22,1334.99,1348.03,1340.1,1358.35
+6928,All property types,All bedrooms,Navan Road; Dublin 7,1587.61,1667.85,1668.08,1623.68,1611.95
+6929,All property types,All bedrooms,North Circular Road; Dublin 7,1234.06,1341.15,1389.26,1406.23,1431.51
+6930,All property types,All bedrooms,Phibsboro; Dublin 7,1102.87,1187.11,1182.53,1178.41,1194.02
+6931,All property types,All bedrooms,Smithfield; Dublin 7,1621.44,1671.11,1675.04,1690.43,1703.88
+6932,All property types,All bedrooms,Stoneybatter; Dublin 7,1442.36,1503.24,1538.68,1544.65,1535.99
+6933,All property types,All bedrooms,Dublin 8,1497.03,1569.69,1567.85,1580.41,1582.21
+6934,All property types,All bedrooms,Christchurch; Dublin 8,1584.21,1624.57,1600.2,1590.54,1545.78
+6935,All property types,All bedrooms,Cork Street; Dublin 8,1376.14,1514.86,1557.83,1574.21,1593.75
+6937,All property types,All bedrooms,Inchicore; Dublin 8,1399.7,1448.57,1433.72,1484.82,1487.23
+6938,All property types,All bedrooms,Islandbridge; Dublin 8,1832.31,1866.84,1863,1875.32,1891.14
+6939,All property types,All bedrooms,Kilmainham ; Dublin 8,1536.17,1550.76,1527.81,1540.46,1549.91
+6940,All property types,All bedrooms,Portobello; Dublin 8,1391.33,1486.34,1488.75,1483.04,1498.29
+6941,All property types,All bedrooms,Rialto; Dublin 8,1388.39,1509.97,1547.41,1520.2,1486.41
+6942,All property types,All bedrooms,South Circular Road; Dublin 8,1316.07,1410.55,1450.83,1496.6,1518.77
+6944,All property types,All bedrooms,Dublin 9,1505.97,1577.59,1578.53,1576.12,1608.39
+6945,All property types,All bedrooms,Ballymun; Dublin 9,1395.7,1367.67,1332.85,1191.81,0
+6946,All property types,All bedrooms,Beaumont; Dublin 9,1598.08,1678.93,1651.18,1649.93,1654.37
+6947,All property types,All bedrooms,Drumcondra; Dublin 9,1506.02,1555.86,1549.28,1522.35,1569.96
+6948,All property types,All bedrooms,Glasnevin; Dublin 9,1547.45,1622.23,1570.48,1565.73,1544.8
+6949,All property types,All bedrooms,Santry; Dublin 9,1490.01,1558.31,1583.89,1617.39,1653.05
+6950,All property types,All bedrooms,Whitehall; Dublin 9,1460.83,1625.16,1652.65,1587.48,1561.19
+6951,All property types,All bedrooms,Dublin 10,1294.57,1353.38,1359.17,1357.83,1343.03
+6952,All property types,All bedrooms,Ballyfermot; Dublin 10,1282.61,1325.86,1350.56,1348.64,1334.05
+6953,All property types,All bedrooms,Cherry Orchard; Dublin 10,1297.73,1375.65,1396.12,1387.51,1383.29
+6954,All property types,All bedrooms,Dublin 11,1416.08,1421.44,1423.99,1446.71,1467.7
+6955,All property types,All bedrooms,Ballymun; Dublin 11,1321.93,1375.22,1366.24,1341.24,1356.46
+6956,All property types,All bedrooms,Finglas; Dublin 11,1418.53,1393.1,1387.98,1414.88,1427.43
+6957,All property types,All bedrooms,Glasnevin; Dublin 11,1490.4,1523.11,1520.18,1524.28,1549.61
+6958,All property types,All bedrooms,Meakstown; Dublin 11,0,1395.73,1421.22,1500.67,1510.41
+6960,All property types,All bedrooms,Dublin 12,1451.25,1509.37,1525.75,1530.54,1545.6
+6961,All property types,All bedrooms,Crumlin; Dublin 12,1428.18,1526.99,1565,1574.25,1569.43
+6962,All property types,All bedrooms,Drimnagh; Dublin 12,1432.09,1496.51,1523.48,1547.37,1569.99
+6963,All property types,All bedrooms,Kimmage; Dublin 12,1576.62,1614.95,1648.95,1612.11,1658.11
+6964,All property types,All bedrooms,Walkinstown; Dublin 12,1485.72,1410.03,1383.58,1412.48,1452.09
+6965,All property types,All bedrooms,Dublin 13,1625.07,1659.8,1658.67,1699.84,1710.84
+6966,All property types,All bedrooms,Baldoyle; Dublin 13,1543.47,1584.48,1596,1602.03,1630.59
+6967,All property types,All bedrooms,Balgriffin; Dublin 13,1812.92,1846.68,1848.21,1903.25,1905.41
+6968,All property types,All bedrooms,Clongriffin; Dublin 13,1493.91,1532.91,1526.37,1554.83,1563.67
+7002,All property types,All bedrooms,Foxrock; Dublin 18,2553.21,2677.06,2667.59,2750.61,2644.81
+7003,All property types,All bedrooms,Leopardstown; Dublin 18,2003.44,2002.42,1975.05,1974.06,1967.25
+7004,All property types,All bedrooms,Sandyford; Dublin 18,1744.35,1793.36,1783.68,1792.11,1821.03
+7005,All property types,All bedrooms,Stepaside; Dublin 18,1665.88,1730.1,1747.55,1757.16,1760.92
+7006,All property types,All bedrooms,Dublin 20,1440.33,1467.05,1456.22,1448.99,1440.18
+7007,All property types,All bedrooms,Chapelizod; Dublin 20,1384.66,1424.47,1417.66,1400.95,1407.38
+7008,All property types,All bedrooms,Palmerstown; Dublin 20,1476.05,1491.42,1483.54,1504.03,1495.93
+7009,All property types,All bedrooms,Clondalkin; Dublin 22,1348.84,1368.66,1384.81,1387.6,1406.83
+7010,All property types,All bedrooms,Dublin 24,1406.07,1429.68,1436.55,1443.67,1450.56
+7011,All property types,All bedrooms,Ballycullen; Dublin 24,1517.89,1571.95,1588.71,1589.94,1591.5
+7012,All property types,All bedrooms,Citywest; Dublin 24,1448.33,1493.36,1490.21,1502.24,1501.61
+7013,All property types,All bedrooms,Firhouse; Dublin 24,1460.96,1541.41,1589.18,1624.13,1645.57
+7014,All property types,All bedrooms,Tallaght; Dublin 24,1377.67,1382.37,1387.57,1389.3,1386.61
+1047,Detached house,All bedrooms,Dublin 3,2234.31,2261.91,2191.27,2179.17,2138.1
+1049,Detached house,All bedrooms,Clontarf; Dublin 3,0,2387.64,2287.24,0,0
+1056,Detached house,All bedrooms,Dublin 4,3031.88,3272,3254.71,3350.58,3412.44
+1057,Detached house,All bedrooms,Ballsbridge; Dublin 4,3204.22,3486.58,3591.42,3641.33,3727.13
+1068,Detached house,All bedrooms,Dublin 6,2329.72,2557.14,2564.63,2553.55,2622.21
+1080,Detached house,All bedrooms,Dublin 7,0,1734.04,1895.44,0,0
+1099,Detached house,All bedrooms,Dublin 9,1764.81,1964.06,0,0,0
+1120,Detached house,All bedrooms,Dublin 13,1910.6,2049.34,2042.78,2041.54,2122.76
+1126,Detached house,All bedrooms,Dublin 14,2652.88,2924.2,2893.48,2855.04,2785.9
+2185,Semi detached house,All bedrooms,Lucan; Dublin,1591.67,1636.22,1610.91,1597.44,1600.15
+2186,Semi detached house,All bedrooms,Lusk; Dublin,1403.97,1461.76,1473.73,1489.92,1461.03
+2187,Semi detached house,All bedrooms,Malahide; Dublin,2060.45,2080.26,2086.39,2113.32,2160.62
+2188,Semi detached house,All bedrooms,Monkstown; Dublin,1974.79,2125.71,2268.67,2346.6,2326.35
+2192,Semi detached house,All bedrooms,Rush; Dublin,1356.42,1391.59,1455.89,1457.08,1434.81
+2193,Semi detached house,All bedrooms,Saggart; Dublin,0,1621.26,0,0,1682.19
+2195,Semi detached house,All bedrooms,Shankill; Dublin,1702.1,1657.94,1689.98,1707.88,1705.42
+2196,Semi detached house,All bedrooms,Skerries; Dublin,1417.55,1502.85,1513.21,1511.61,1488.95
+2198,Semi detached house,All bedrooms,Stillorgan; Dublin,2206.87,2258.66,2198.32,2245.24,2300.88
+2199,Semi detached house,All bedrooms,Swords; Dublin,1501.46,1580.65,1594.11,1591.1,1608.57
+2216,Semi detached house,All bedrooms,Dublin 3,1850.04,1944.29,2017.18,2029.61,2017.8
+2218,Semi detached house,All bedrooms,Clontarf; Dublin 3,1966.44,2062.82,2182.5,2214.4,2177.86
+2225,Semi detached house,All bedrooms,Dublin 4,2853.79,2930.01,2968.41,2977.79,2922.71
+2226,Semi detached house,All bedrooms,Ballsbridge; Dublin 4,3121.44,3051.2,3096.21,3005.81,2994.35
+2227,Semi detached house,All bedrooms,Donnybrook; Dublin 4,2816.56,2947.94,3049.14,3094.54,3005.31
+2232,Semi detached house,All bedrooms,Sandymount; Dublin 4,2816.99,2919.66,2976.04,3035.89,2933.35
+2233,Semi detached house,All bedrooms,Dublin 5,1704.65,1782.21,1765.8,1740.45,1718.01
+2234,Semi detached house,All bedrooms,Artane; Dublin 5,1665.72,1711.83,1634.31,1564.15,1566.54
+2236,Semi detached house,All bedrooms,Raheny; Dublin 5,1739.67,1839.51,1855.35,1897.96,1848.18
+2237,Semi detached house,All bedrooms,Dublin 6,2397.49,2563.61,2547.78,2612.32,2639.08
+2241,Semi detached house,All bedrooms,Ranelagh; Dublin 6,2781.83,2838.2,2825.7,2970.63,2965.21
+2242,Semi detached house,All bedrooms,Rathgar; Dublin 6,2286.28,2293.66,2185.32,0,2265.65
+2243,Semi detached house,All bedrooms,Rathmines; Dublin 6,2199.15,2455.71,0,2430.82,2482.61
+2245,Semi detached house,All bedrooms,Dublin 6W,1985.07,2099.57,2147.24,2089.29,2120.38
+2247,Semi detached house,All bedrooms,Templeogue; Dublin 6W,1786.96,1949.29,2007.4,1974.22,2005.7
+2248,Semi detached house,All bedrooms,Terenure; Dublin 6W,2143.32,2310.12,2409.63,2375.31,2380.89
+2249,Semi detached house,All bedrooms,Dublin 7,1635.54,1712.19,1755.81,1732.96,1727.02
+2251,Semi detached house,All bedrooms,Cabra; Dublin 7,1481.59,1496.96,1577.88,1537.9,1509.08
+2252,Semi detached house,All bedrooms,Navan Road; Dublin 7,1847.11,1927.49,1944.41,1854.84,1766.64
+2257,Semi detached house,All bedrooms,Dublin 8,1724.88,1808.05,1809.51,1879.47,1898.63
+2270,Semi detached house,All bedrooms,Beaumont; Dublin 9,1871.69,1874.85,1746.02,1779.87,1767.61
+2271,Semi detached house,All bedrooms,Drumcondra; Dublin 9,1840.77,1957.58,1933.12,1865.31,1953.16
+2272,Semi detached house,All bedrooms,Glasnevin; Dublin 9,2027.04,2214.15,0,0,0
+2273,Semi detached house,All bedrooms,Santry; Dublin 9,1774.71,1773.54,1794.73,1661.96,1756.35
+2274,Semi detached house,All bedrooms,Whitehall; Dublin 9,1638.52,1735.39,1672.5,1676.37,1677.73
+2275,Semi detached house,All bedrooms,Dublin 10,1281.3,1274.11,1274.82,0,0
+2276,Semi detached house,All bedrooms,Ballyfermot; Dublin 10,1266,1276.69,1293.47,0,0
+2278,Semi detached house,All bedrooms,Dublin 11,1473.67,1531.89,1522.57,1566.64,1644.57
+2280,Semi detached house,All bedrooms,Finglas; Dublin 11,1385.71,1421.62,1471.85,1493.51,1536.26
+2281,Semi detached house,All bedrooms,Glasnevin; Dublin 11,1637.82,1656.35,1590.79,1677.15,1783.81
+2284,Semi detached house,All bedrooms,Dublin 12,1576.83,1602.84,1641.76,1687.7,1710.94
+2285,Semi detached house,All bedrooms,Crumlin; Dublin 12,1573.93,1614.49,1670.77,1714.6,1702.99
+2286,Semi detached house,All bedrooms,Drimnagh; Dublin 12,1526.05,1585.7,1631.12,1624.65,1631.46
+2287,Semi detached house,All bedrooms,Kimmage; Dublin 12,0,1765.27,0,0,1880.84
+2289,Semi detached house,All bedrooms,Dublin 13,1675.59,1745.87,1733.29,1761.98,1797.74
+2291,Semi detached house,All bedrooms,Balgriffin; Dublin 13,0,0,0,0,2249.31
+2295,Semi detached house,All bedrooms,Dublin 14,2247.88,2335.92,2314.83,2276.85,2269.38
+2296,Semi detached house,All bedrooms,Churchtown; Dublin 14,2285.97,2371.54,2357.76,2256.81,2235.03
+2297,Semi detached house,All bedrooms,Clonskeagh; Dublin 14,2608.08,2603.57,2557.63,2445.18,2451.22
+2298,Semi detached house,All bedrooms,Dundrum; Dublin 14,2188.38,2170.88,2160.47,2127.35,2132.54
+2299,Semi detached house,All bedrooms,Goatstown; Dublin 14,0,2381.86,0,0,0
+2300,Semi detached house,All bedrooms,Rathfarnham; Dublin 14,2015.87,1984.12,1957.16,1990.61,2020.05
+2301,Semi detached house,All bedrooms,Dublin 15,1510.28,1574.41,1583.59,1603.6,1596.64
+2303,Semi detached house,All bedrooms,Blanchardstown; Dublin 15,1372.68,1421.17,1458,1465.4,1469.62
+2305,Semi detached house,All bedrooms,Castleknock; Dublin 15,1707.59,1779.55,1761.52,1800.15,1788.31
+2306,Semi detached house,All bedrooms,Clonee; Dublin 15,1413.81,1525.64,1549.07,1518.9,1540.31
+2307,Semi detached house,All bedrooms,Clonsilla; Dublin 15,1530.02,1533.3,1556.57,1579.61,1570.92
+2309,Semi detached house,All bedrooms,Mulhuddart; Dublin 15,1380.7,1420.98,1375.35,1378.45,1363.22
+2313,Semi detached house,All bedrooms,Tyrrelstown; Dublin 15,1460.97,1538.9,1542.48,1608.62,1650
+2314,Semi detached house,All bedrooms,Dublin 16,1841.2,1935.78,1945.67,1967.43,1981.41
+2315,Semi detached house,All bedrooms,Ballinteer; Dublin 16,1841.79,1804,1781.92,1837.12,1906.48
+2316,Semi detached house,All bedrooms,Dundrum; Dublin 16,0,2293.29,2245.18,0,0
+2317,Semi detached house,All bedrooms,Knocklyon; Dublin 16,1779.92,1806.91,1771.97,1785.3,1777.07
+2318,Semi detached house,All bedrooms,Rathfarnham; Dublin 16,1878.41,1990.17,1986,2010.23,2019.62
+2320,Semi detached house,All bedrooms,Dublin 17,1505.57,1606.5,1577.78,1557.65,1533.01
+2323,Semi detached house,All bedrooms,Dublin 18,2014.87,2045.33,2057.89,2091.16,2095.38
+2324,Semi detached house,All bedrooms,Cabinteely; Dublin 18,2046.79,2028.36,2046.73,2133.4,2174.81
+2326,Semi detached house,All bedrooms,Foxrock; Dublin 18,2302.27,2334.51,2374.84,0,0
+2327,Semi detached house,All bedrooms,Leopardstown; Dublin 18,2060.28,2049.01,2050.4,2054.44,2069.18
+2328,Semi detached house,All bedrooms,Sandyford; Dublin 18,1726.09,1845.1,1865.94,1930.94,1949.71
+2330,Semi detached house,All bedrooms,Dublin 20,1579.39,1602.87,1600.13,1637.93,1634.08
+2332,Semi detached house,All bedrooms,Palmerstown; Dublin 20,1524.27,1561.31,1551.48,1583.98,1612.47
+2333,Semi detached house,All bedrooms,Clondalkin; Dublin 22,1352.23,1421.57,1433.39,1472.19,1491.78
+2334,Semi detached house,All bedrooms,Dublin 24,1511.15,1549.78,1584.78,1598.09,1597.08
+2335,Semi detached house,All bedrooms,Ballycullen; Dublin 24,1676.87,1732.13,1756.82,1750.26,1770.63
+2336,Semi detached house,All bedrooms,Citywest; Dublin 24,0,1664.77,0,0,0
+2337,Semi detached house,All bedrooms,Firhouse; Dublin 24,1522.23,1596.51,1653,1697.19,1719.23
+2338,Semi detached house,All bedrooms,Tallaght; Dublin 24,1490.99,1508.06,1535.09,1534.91,1524.84
+3354,Terrace house,All bedrooms,Lucan; Dublin,1657.57,1702.68,1682.78,1624.95,1639.93
+3355,Terrace house,All bedrooms,Lusk; Dublin,1308.01,1371.51,1420.17,1429.05,1447.62
+3356,Terrace house,All bedrooms,Malahide; Dublin,2193.88,2234.91,2222.56,2248.32,2178.04
+3357,Terrace house,All bedrooms,Monkstown; Dublin,2170.23,2054.91,2111.84,2157.97,2233.9
+3361,Terrace house,All bedrooms,Rush; Dublin,1234.09,1268.91,1275.22,1237.06,1264.52
+3362,Terrace house,All bedrooms,Saggart; Dublin,0,1603.55,1566.1,0,0
+3365,Terrace house,All bedrooms,Skerries; Dublin,1356.81,0,0,0,0
+3367,Terrace house,All bedrooms,Stillorgan; Dublin,1869.62,1839.83,1817.33,1789.88,1953.44
+3368,Terrace house,All bedrooms,Swords; Dublin,1431.04,1439.15,1450.48,1463.41,1490.79
+3369,Terrace house,All bedrooms,Dublin 1,1652.11,1725.57,1616.29,1624.65,1646.47
+3374,Terrace house,All bedrooms,Dublin 2,2123.75,2126.21,2238.97,2362.91,2307.52
+3385,Terrace house,All bedrooms,Dublin 3,1676.18,1755.23,1770.46,1836.93,1847.4
+3387,Terrace house,All bedrooms,Clontarf; Dublin 3,1793.39,1892.74,1862.4,1986.02,2028.25
+3388,Terrace house,All bedrooms,Drumcondra; Dublin 3,0,1901.62,1900.8,1881.72,1862.91
+3389,Terrace house,All bedrooms,East Wall; Dublin 3,1626.03,1654.44,1725.02,1706.48,1600.1
+3391,Terrace house,All bedrooms,Fairview; Dublin 3,1801.87,1807.39,1774.59,1858.04,1893.16
+3393,Terrace house,All bedrooms,North Strand; Dublin 3,1559.19,1681.46,1801.52,1798.39,1895.32
+3394,Terrace house,All bedrooms,Dublin 4,2510.24,2580.96,2573.71,2570.64,2603.46
+3395,Terrace house,All bedrooms,Ballsbridge; Dublin 4,3060.4,2984.8,2945.57,2824.1,2838.81
+3396,Terrace house,All bedrooms,Donnybrook; Dublin 4,2235.02,2268.5,2258.81,2329.3,2423.14
+3400,Terrace house,All bedrooms,Ringsend; Dublin 4,2097.88,2212.83,2127.99,2160.62,2167.16
+3401,Terrace house,All bedrooms,Sandymount; Dublin 4,2412.64,2570.7,2568.12,2504.18,2536.01
+3402,Terrace house,All bedrooms,Dublin 5,1538.96,1591.91,1569.05,1602.39,1591.27
+3403,Terrace house,All bedrooms,Artane; Dublin 5,1560.22,1604.72,1564.7,1582.56,1548.72
+3405,Terrace house,All bedrooms,Raheny; Dublin 5,1547.12,1622.91,1605.01,1627.39,1626.69
+3406,Terrace house,All bedrooms,Dublin 6,2267.61,2303.49,2242.13,2164.32,2206.68
+3408,Terrace house,All bedrooms,Harolds Cross; Dublin 6,1809.58,1769.03,1715.57,1750.45,1702.63
+3409,Terrace house,All bedrooms,Milltown; Dublin 6,2096.11,2169.09,2127.27,2101.07,2123.66
+3410,Terrace house,All bedrooms,Ranelagh; Dublin 6,2637.71,2611.23,2577.28,2508.78,2527.99
+3411,Terrace house,All bedrooms,Rathgar; Dublin 6,2024.61,2024.59,1933.32,1957.48,1943.19
+3412,Terrace house,All bedrooms,Rathmines; Dublin 6,2072.23,2104.97,2096.66,2002.95,2159.87
+3414,Terrace house,All bedrooms,Dublin 6W,1815.41,1918.42,1939.75,1950.37,1936.64
+3415,Terrace house,All bedrooms,Harolds Cross; Dublin 6W,1663.07,1759.15,1836.65,1909.55,1870.1
+3417,Terrace house,All bedrooms,Terenure; Dublin 6W,1943.23,2066.5,2000.32,1972.52,1952.02
+3418,Terrace house,All bedrooms,Dublin 7,1554.27,1628.88,1632.23,1656.98,1668.09
+3420,Terrace house,All bedrooms,Cabra; Dublin 7,1463.11,1462.25,1440.39,1467.83,1515.39
+3421,Terrace house,All bedrooms,Navan Road; Dublin 7,1588.64,1689.39,1655.49,1665.14,0
+3422,Terrace house,All bedrooms,North Circular Road; Dublin 7,0,0,0,0,1804.43
+3423,Terrace house,All bedrooms,Phibsboro; Dublin 7,1477.65,1581.28,1627.57,0,0
+3425,Terrace house,All bedrooms,Stoneybatter; Dublin 7,1540.42,1609.95,1642.22,1626.53,1617.4
+3426,Terrace house,All bedrooms,Dublin 8,1702.8,1793.71,1784.03,1808.58,1817.84
+3430,Terrace house,All bedrooms,Inchicore; Dublin 8,1417.85,1471.64,1487.99,1545.18,1597.32
+3432,Terrace house,All bedrooms,Kilmainham ; Dublin 8,1668.49,1798.42,1765.52,1798.56,1797.44
+3433,Terrace house,All bedrooms,Portobello; Dublin 8,2236.54,2164.75,0,0,0
+3434,Terrace house,All bedrooms,Rialto; Dublin 8,1585.61,1705.47,1786.66,1745.35,1606.34
+3445,Terrace house,All bedrooms,Ballyfermot; Dublin 10,1346.11,1384.3,1424.55,1396.25,1388.23
+3447,Terrace house,All bedrooms,Dublin 11,1452,1508.02,1495.36,1546.07,1577.88
+3449,Terrace house,All bedrooms,Finglas; Dublin 11,1437.32,1480.02,1445.82,1502.81,1529.64
+3450,Terrace house,All bedrooms,Glasnevin; Dublin 11,0,1757.13,1763.25,1776.96,1760.28
+3453,Terrace house,All bedrooms,Dublin 12,1441.07,1549.46,1562.11,1570.36,1579.78
+3454,Terrace house,All bedrooms,Crumlin; Dublin 12,1418.4,1572.82,1580.64,1582.3,1578.13
+3455,Terrace house,All bedrooms,Drimnagh; Dublin 12,1379.58,1452.54,1480.57,1514.42,1504.18
+3456,Terrace house,All bedrooms,Kimmage; Dublin 12,1666.85,1757.47,1800.76,1757.38,1804.43
+3457,Terrace house,All bedrooms,Walkinstown; Dublin 12,1449.04,1491.51,1515.39,1450.67,1445.71
+3458,Terrace house,All bedrooms,Dublin 13,1744.47,1756.15,1768.82,1797.96,1803.02
+3459,Terrace house,All bedrooms,Baldoyle; Dublin 13,1597.54,1553.81,1608.35,1680.56,0
+3460,Terrace house,All bedrooms,Balgriffin; Dublin 13,2040.83,2010.7,1983.69,1933.54,1899.67
+3463,Terrace house,All bedrooms,Sutton; Dublin 13,1749.62,1814.14,1810.35,1756.56,0
+3464,Terrace house,All bedrooms,Dublin 14,1925.2,2014.54,2049.29,2046.49,2036.46
+3465,Terrace house,All bedrooms,Churchtown; Dublin 14,2104.48,2073.94,2076.67,0,0
+3467,Terrace house,All bedrooms,Dundrum; Dublin 14,1947.09,2007.97,2015.78,1898.7,1915.25
+3469,Terrace house,All bedrooms,Rathfarnham; Dublin 14,1748.06,1754.88,1814.6,1836.51,1825.35
+3470,Terrace house,All bedrooms,Dublin 15,1448.11,1475.54,1501.25,1513.73,1514.15
+3472,Terrace house,All bedrooms,Blanchardstown; Dublin 15,1297.96,1378.2,1405.91,1408.74,1405.32
+3474,Terrace house,All bedrooms,Castleknock; Dublin 15,1595.38,1685.4,1725.45,1679.36,1726.74
+3475,Terrace house,All bedrooms,Clonee; Dublin 15,1316.16,1390.27,1443.58,1449.5,1461.06
+3476,Terrace house,All bedrooms,Clonsilla; Dublin 15,1371.39,1387.79,1434.58,1379.54,1406.14
+3479,Terrace house,All bedrooms,Ongar; Dublin 15,1486.17,1489.76,1507.64,1510.79,1541.71
+3482,Terrace house,All bedrooms,Tyrrelstown; Dublin 15,1461.27,1453.46,1460.26,1488.98,1462.94
+3483,Terrace house,All bedrooms,Dublin 16,1827.03,1808.4,1825.71,1980.25,2063.36
+3487,Terrace house,All bedrooms,Rathfarnham; Dublin 16,0,0,0,2083.19,2155.48
+3489,Terrace house,All bedrooms,Dublin 17,1341.56,1365.66,1345.98,1367.23,1369.06
+3492,Terrace house,All bedrooms,Dublin 18,1903.1,1951.99,1979.68,1962.92,1962.47
+3499,Terrace house,All bedrooms,Dublin 20,1474.27,1476.76,1449.72,1390.09,1367.88
+3502,Terrace house,All bedrooms,Clondalkin; Dublin 22,1292.77,1334.96,1357.84,1352.36,1381.06
+3503,Terrace house,All bedrooms,Dublin 24,1414.34,1478.08,1504.89,1522.14,1520.46
+3507,Terrace house,All bedrooms,Tallaght; Dublin 24,1374.1,1429.01,1452.35,1456.97,1455.39
+4533,Apartment,All bedrooms,Shankill; Dublin,1384.76,1428.45,1436.43,1433.91,1445.41
+4534,Apartment,All bedrooms,Skerries; Dublin,1214.55,1223.61,1208.85,1228.81,1240.21
+4536,Apartment,All bedrooms,Stillorgan; Dublin,1739.4,1774.11,1777.59,1778.19,1792.81
+4537,Apartment,All bedrooms,Swords; Dublin,1328.31,1358.48,1372.04,1404.44,1409.69
+4538,Apartment,All bedrooms,Dublin 1,1578.18,1637.33,1651.86,1673.1,1677.91
+4539,Apartment,All bedrooms,I.F.S.C.; Dublin 1,1763.56,1814.1,1817.34,1853.49,1868.76
+4540,Apartment,All bedrooms,Parnell Street; Dublin 1,1639.66,1702.61,1692.71,1695.28,1695.7
+4541,Apartment,All bedrooms,Spencer Dock; Dublin 1,2069.46,2089.6,2136.32,2158.44,2173.71
+4542,Apartment,All bedrooms,Summerhill; Dublin 1,1636.07,1677.41,1685.54,1755.23,1719.11
+4543,Apartment,All bedrooms,Dublin 2,1985.25,2130.06,2174.33,2193.65,2164.56
+4545,Apartment,All bedrooms,Charlemont Street; Dublin 2,1844.75,1890.32,1961.46,2014.97,2080.79
+4546,Apartment,All bedrooms,Grand Canal Dock; Dublin 2,2370.62,2515.51,2514.56,2477.15,2345.79
+4550,Apartment,All bedrooms,Pearse Street; Dublin 2,1729.79,1742.41,1790.61,1762.64,1768.1
+4552,Apartment,All bedrooms,Temple Bar; Dublin 2,1643.64,0,1860.92,0,0
+4553,Apartment,All bedrooms,Townsend Street; Dublin 2,1777.31,1797.21,1766.1,1770.25,1792.63
+4554,Apartment,All bedrooms,Dublin 3,1569.85,1611.58,1630.43,1636.01,1648.3
+4555,Apartment,All bedrooms,Clonliffe; Dublin 3,0,0,0,1557.53,1580.2
+4556,Apartment,All bedrooms,Clontarf; Dublin 3,1580.12,1647.9,1652.93,1650.88,1667.14
+4557,Apartment,All bedrooms,Drumcondra; Dublin 3,1555.91,1512.05,1482.06,1462.37,1470.93
+4558,Apartment,All bedrooms,East Wall; Dublin 3,1758.09,1778.27,1812.61,1813.07,1808.36
+4560,Apartment,All bedrooms,Fairview; Dublin 3,1446.36,1456.12,1477.17,1481.14,1499.77
+4563,Apartment,All bedrooms,Dublin 4,1920.25,2008.99,2026.83,2052.38,2050.3
+4564,Apartment,All bedrooms,Ballsbridge; Dublin 4,2143.08,2294.32,2326.25,2334.91,2340.13
+4565,Apartment,All bedrooms,Donnybrook; Dublin 4,1837.8,1849.91,1852.28,1840.23,1832.8
+4567,Apartment,All bedrooms,Merrion; Dublin 4,1615.27,1662.66,1670.21,1711.85,1792.21
+4568,Apartment,All bedrooms,Pembroke; Dublin 4,1839.76,1894.46,1828.3,1910.39,1905.44
+4569,Apartment,All bedrooms,Ringsend; Dublin 4,1813.68,1863.84,1866.67,1874.77,1878.49
+4570,Apartment,All bedrooms,Sandymount; Dublin 4,1774.17,1874.57,1922.43,1990.21,1964.46
+4571,Apartment,All bedrooms,Dublin 5,1450.32,1534.08,1554.47,1599.35,1593.92
+4572,Apartment,All bedrooms,Artane; Dublin 5,1430.34,1444.13,1486.84,1559.29,1481.08
+4573,Apartment,All bedrooms,Killester; Dublin 5,1327.13,1408.17,0,0,0
+4574,Apartment,All bedrooms,Raheny; Dublin 5,1453.32,1535.56,1545.6,1576.15,1557.74
+4575,Apartment,All bedrooms,Dublin 6,1665.04,1664.26,1667.64,1664.27,1669.46
+4577,Apartment,All bedrooms,Harolds Cross; Dublin 6,0,0,0,0,1906.58
+4578,Apartment,All bedrooms,Milltown; Dublin 6,1943.49,1946.05,1933.19,1931.97,1942.08
+4579,Apartment,All bedrooms,Ranelagh; Dublin 6,1663.83,1722.44,1724.88,1724.34,1722.28
+4580,Apartment,All bedrooms,Rathgar; Dublin 6,1656.79,1627.93,1620.16,1594.15,1591.53
+4581,Apartment,All bedrooms,Rathmines; Dublin 6,1489.67,1517.47,1541.26,1543.02,1549.65
+4582,Apartment,All bedrooms,Terenure; Dublin 6,1453.23,1564.67,1627.34,1618.65,1613.47
+4583,Apartment,All bedrooms,Dublin 6W,1607.82,1688.68,1680.89,1663.65,1717.66
+4584,Apartment,All bedrooms,Harolds Cross; Dublin 6W,1381.39,1454.82,1419.48,1397.15,1436.1
+4586,Apartment,All bedrooms,Terenure; Dublin 6W,1741.89,1843.34,1829.44,1822.67,1833.54
+4587,Apartment,All bedrooms,Dublin 7,1438.1,1484.12,1501.27,1523.59,1542.39
+4589,Apartment,All bedrooms,Cabra; Dublin 7,1387.38,1489.27,1448.84,1415.54,1429.96
+4590,Apartment,All bedrooms,Navan Road; Dublin 7,1416.25,1428.78,1434.73,1421.49,1399.63
+4592,Apartment,All bedrooms,Phibsboro; Dublin 7,1288.44,1306.76,1300.75,1342.07,1311.81
+4593,Apartment,All bedrooms,Smithfield; Dublin 7,1612.44,1675.49,1686.77,1702.18,1719.69
+4595,Apartment,All bedrooms,Dublin 8,1536.27,1605.71,1599.87,1605.16,1606.66
+4596,Apartment,All bedrooms,Christchurch; Dublin 8,1535.26,1602.01,1599.94,1586.21,1548.14
+4597,Apartment,All bedrooms,Cork Street; Dublin 8,1477.29,1511.69,1556.15,1565.37,1570.35
+4599,Apartment,All bedrooms,Inchicore; Dublin 8,1401.43,1430.7,1413.12,1417.78,1409.14
+4600,Apartment,All bedrooms,Islandbridge; Dublin 8,1781.16,1817.62,1837.89,1860.68,1880.98
+4601,Apartment,All bedrooms,Kilmainham ; Dublin 8,1537.26,1533.59,1532.22,1536.04,1555.73
+4602,Apartment,All bedrooms,Portobello; Dublin 8,1453.86,1561.14,1511.5,1514.8,1503.18
+4603,Apartment,All bedrooms,Rialto; Dublin 8,1435.15,1523.19,1516.36,1494.83,1475.83
+4604,Apartment,All bedrooms,South Circular Road; Dublin 8,1226.36,1347.5,1320.6,1359.47,1393.62
+4606,Apartment,All bedrooms,Dublin 9,1430.16,1500.68,1524.73,1549.52,1576.88
+4607,Apartment,All bedrooms,Ballymun; Dublin 9,1444.72,1409.5,1386.61,0,0
+4608,Apartment,All bedrooms,Beaumont; Dublin 9,1341.43,1402.24,1432.1,1417.13,1427.05
+4609,Apartment,All bedrooms,Drumcondra; Dublin 9,1485.05,1551.12,1561.49,1534.84,1569.39
+4610,Apartment,All bedrooms,Glasnevin; Dublin 9,1277.06,1299.3,1275.97,1298.25,1313.08
+4611,Apartment,All bedrooms,Santry; Dublin 9,1424.42,1510.34,1549.15,1629,1654.43
+4613,Apartment,All bedrooms,Dublin 10,1315.92,1393.62,1376.1,1400.29,1381.78
+4615,Apartment,All bedrooms,Cherry Orchard; Dublin 10,1308.67,1356.12,1375.05,1350.41,1346.89
+4616,Apartment,All bedrooms,Dublin 11,1409.09,1386.6,1392.71,1404.17,1408.97
+4617,Apartment,All bedrooms,Ballymun; Dublin 11,1324.68,1370.29,1373.61,1348.72,1358.47
+4618,Apartment,All bedrooms,Finglas; Dublin 11,1429.22,1363.62,1354.19,1365.59,1362.65
+4619,Apartment,All bedrooms,Glasnevin; Dublin 11,1356.68,1415.04,1439.57,1414.33,1396.29
+4622,Apartment,All bedrooms,Dublin 12,1445.64,1492.22,1507.78,1509.52,1529.55
+4623,Apartment,All bedrooms,Crumlin; Dublin 12,1249.93,1329.37,1486.47,1583.02,1607.05
+4624,Apartment,All bedrooms,Drimnagh; Dublin 12,1463.46,1497.61,1520.05,1555.02,1625.01
+4625,Apartment,All bedrooms,Kimmage; Dublin 12,1569.31,1577.95,1552.08,1545.85,1566.05
+4627,Apartment,All bedrooms,Dublin 13,1563.78,1574.27,1561.7,1618.78,1621.88
+4628,Apartment,All bedrooms,Baldoyle; Dublin 13,1530.27,1546.26,1538.96,1540.3,1552.31
+4629,Apartment,All bedrooms,Balgriffin; Dublin 13,1438.59,1552.96,1551.44,1638.49,1613.05
+4630,Apartment,All bedrooms,Clongriffin; Dublin 13,1454.89,1498.78,1494.6,1515.67,1515.33
+4631,Apartment,All bedrooms,Donaghmede; Dublin 13,1333.77,0,0,0,0
+4632,Apartment,All bedrooms,Sutton; Dublin 13,1583.95,1631.75,1661.5,1637.68,1652.97
+4633,Apartment,All bedrooms,Dublin 14,1725.8,1811.43,1812.39,1858.5,1868.85
+4634,Apartment,All bedrooms,Churchtown; Dublin 14,1844.43,2114.43,2145.21,2159.11,2208.84
+4635,Apartment,All bedrooms,Clonskeagh; Dublin 14,1795.66,1823.64,1868.26,1893.51,1864.71
+4636,Apartment,All bedrooms,Dundrum; Dublin 14,1753.09,1789.01,1755.19,1751.93,1736.6
+4637,Apartment,All bedrooms,Goatstown; Dublin 14,1966.73,2002.84,2006.19,2065.83,2064.09
+4638,Apartment,All bedrooms,Rathfarnham; Dublin 14,1577.6,1587.03,1607.5,1602.97,1588.64
+4639,Apartment,All bedrooms,Dublin 15,1478.35,1505.11,1510.78,1515.25,1524.46
+4640,Apartment,All bedrooms,Ashtown; Dublin 15,1496.42,1514.54,1589.57,1602.65,1626.81
+4641,Apartment,All bedrooms,Blanchardstown; Dublin 15,1385.56,1414.09,1447.33,1461.33,1469.7
+4643,Apartment,All bedrooms,Castleknock; Dublin 15,1590.85,1624.64,1645.37,1655.07,1670.64
+4644,Apartment,All bedrooms,Clonee; Dublin 15,1304.66,1269.03,1290.78,1315.87,1330.77
+4645,Apartment,All bedrooms,Clonsilla; Dublin 15,1731.54,1684.87,1511.18,1355.37,1349.35
+4647,Apartment,All bedrooms,Mulhuddart; Dublin 15,1285.34,0,0,0,0
+4648,Apartment,All bedrooms,Ongar; Dublin 15,1260.68,1272.95,1268.87,1278.66,1319.71
+4649,Apartment,All bedrooms,Porterstown; Dublin 15,1611.44,1639.11,0,0,0
+4650,Apartment,All bedrooms,Royal Canal Park; Dublin 15,1432.62,1443.23,1436.56,1451.57,1440.14
+4651,Apartment,All bedrooms,Tyrrelstown; Dublin 15,1253.58,1301.69,1316.53,1310.07,1301.28
+4652,Apartment,All bedrooms,Dublin 16,1701.21,1752.95,1756.77,1791.4,1793.19
+4653,Apartment,All bedrooms,Ballinteer; Dublin 16,1647.81,1707.08,1702.48,1690.32,1721.97
+4654,Apartment,All bedrooms,Dundrum; Dublin 16,1815.72,1858.89,1854.8,1890.26,1879.82
+4655,Apartment,All bedrooms,Knocklyon; Dublin 16,1633.59,0,0,0,0
+4656,Apartment,All bedrooms,Rathfarnham; Dublin 16,1597.46,1628.96,1647.75,1678.06,1674.58
+4658,Apartment,All bedrooms,Dublin 17,1393.75,1420.2,1414.75,1431.95,1436.1
+4659,Apartment,All bedrooms,Malahide Road; Dublin 17,1649,1567.26,1540.25,1565.94,1580.73
+4661,Apartment,All bedrooms,Dublin 18,1723.87,1777.05,1771.1,1785.09,1806.65
+4872,Other Flats,All bedrooms,Dublin 1,1273.62,1346.41,1399.12,1426.4,1420.2
+4877,Other Flats,All bedrooms,Dublin 2,1349.91,1571.95,1718.34,0,0
+4888,Other Flats,All bedrooms,Dublin 3,1108.24,1177.93,1262.34,1314.13,1394.95
+4897,Other Flats,All bedrooms,Dublin 4,1650.13,1649.69,1629.59,1663.78,1617.48
+4909,Other Flats,All bedrooms,Dublin 6,1396.85,1441.63,1403.03,1422.89,1412.19
+4913,Other Flats,All bedrooms,Ranelagh; Dublin 6,1373.77,1483.77,1439.02,1445.58,1415.12
+4914,Other Flats,All bedrooms,Rathgar; Dublin 6,1409.86,1491.27,1439.72,1477.11,1395.58
+4915,Other Flats,All bedrooms,Rathmines; Dublin 6,1391.6,1400.88,1375.12,1388.28,1400.75
+4921,Other Flats,All bedrooms,Dublin 7,1125.17,1226.27,1269.97,1293.63,1304.34
+4929,Other Flats,All bedrooms,Dublin 8,1223.65,1212.14,1242.25,1313.75,1309.6
+5707,Other Flats,All bedrooms,Dublin 1,1046.56,1111.09,1133.52,1142.03,1135.48
+5712,Other Flats,All bedrooms,Dublin 2,1166.38,1352.11,1425.38,1451.73,1472.04
+5723,Other Flats,All bedrooms,Dublin 3,982.32,1019,1022.97,1079.08,1120.45
+5725,Other Flats,All bedrooms,Clontarf; Dublin 3,1005.5,990,958.62,978.53,1016.16
+5726,Other Flats,All bedrooms,Drumcondra; Dublin 3,1024.03,1042.35,1046.37,1077.72,1046.37
+5729,Other Flats,All bedrooms,Fairview; Dublin 3,859.41,911.93,940.17,1065.6,1154.62
+5731,Other Flats,All bedrooms,North Strand; Dublin 3,1134.25,1184.64,1201.51,1203.88,0
+5732,Other Flats,All bedrooms,Dublin 4,1231.82,1310.76,1303.6,1326.21,1310.98
+5733,Other Flats,All bedrooms,Ballsbridge; Dublin 4,1252.61,1404.67,1381.52,1367.38,1349.71
+5734,Other Flats,All bedrooms,Donnybrook; Dublin 4,1204.12,1244.78,1257.07,1305.11,1334.53
+5744,Other Flats,All bedrooms,Dublin 6,1074.75,1141.05,1136.45,1136.88,1150.6
+5748,Other Flats,All bedrooms,Ranelagh; Dublin 6,1064.76,1121.47,1137.48,1150.09,1147.93
+5749,Other Flats,All bedrooms,Rathgar; Dublin 6,1089.56,1142.87,1164,1145.76,1140.35
+5750,Other Flats,All bedrooms,Rathmines; Dublin 6,1071.12,1139.36,1124.18,1129.77,1150.95
+5752,Other Flats,All bedrooms,Dublin 6W,1012.02,1030.24,1061.53,1060.65,1066.97
+5753,Other Flats,All bedrooms,Harolds Cross; Dublin 6W,958.6,1016.12,1041.26,1033.84,1044.41
+5755,Other Flats,All bedrooms,Terenure; Dublin 6W,0,1183.04,0,1191.2,0
+5756,Other Flats,All bedrooms,Dublin 7,931.4,1004.06,1014.44,1040.79,1038.05
+5758,Other Flats,All bedrooms,Cabra; Dublin 7,979.74,1028.69,1023.39,1033.27,1055.43
+5760,Other Flats,All bedrooms,North Circular Road; Dublin 7,940.05,985.13,1009.56,0,0
+5761,Other Flats,All bedrooms,Phibsboro; Dublin 7,836.76,902.78,902.58,912.26,914.38
+5764,Other Flats,All bedrooms,Dublin 8,1032.28,1071.39,1075.75,1098.56,1091.16
+5770,Other Flats,All bedrooms,Kilmainham ; Dublin 8,0,0,1064.04,1110.82,1121.42
+5771,Other Flats,All bedrooms,Portobello; Dublin 8,1042.91,1093.07,1120.62,1160.52,1207.92
+5772,Other Flats,All bedrooms,Rialto; Dublin 8,977.7,1040.09,1088.19,1123.64,0
+5773,Other Flats,All bedrooms,South Circular Road; Dublin 8,0,941.45,961.38,967.42,978.87
+5775,Other Flats,All bedrooms,Dublin 9,972.49,992.04,1019.55,1027.82,1055.28
+5808,Other Flats,All bedrooms,Dublin 15,1188.04,1198.86,0,0,0
+5841,Other Flats,All bedrooms,Dublin 24,1079.88,0,0,0,0
+168,Detached house,Two bed,Dublin,1500.77,1567.17,1550.09,1497.23,1539.93
+502,Detached house,1 to 2 bed,Dublin,1452.87,1478.18,1475.62,1431.83,1473.17
+669,Detached house,1 to 3 bed,Dublin,1712.59,1742.22,1738.94,1753.38,1791.74
+836,Detached house,Four plus bed,Dublin,2704.53,2729.82,2740.21,2813.47,2817.34
+838,Detached house,Four plus bed,Blackrock; Dublin,3252.02,3109.12,3261.14,3350.1,3534.2
+851,Detached house,Four plus bed,Malahide; Dublin,2994.85,3004.62,3055.66,3133,3237.83
+1003,Detached house,All bedrooms,Dublin,2219.11,2277.94,2263.81,2330.11,2370.56
+1005,Detached house,All bedrooms,Blackrock; Dublin,2921.39,2812.66,2882.99,3012.39,3124.67
+1009,Detached house,All bedrooms,Dalkey; Dublin,0,0,0,0,3378.54
+1014,Detached house,All bedrooms,Killiney; Dublin,2780.5,2639.07,2869.54,2958.36,2870.37
+1016,Detached house,All bedrooms,Lucan; Dublin,1560.66,1570.48,1644.16,0,0
+1018,Detached house,All bedrooms,Malahide; Dublin,2691.79,2737.46,2715.47,2742.88,2854.67
+1023,Detached house,All bedrooms,Rush; Dublin,1540.74,0,0,0,0
+1030,Detached house,All bedrooms,Swords; Dublin,1801.06,1754.34,1686.42,1666.22,1720.39
+1132,Detached house,All bedrooms,Dublin 15,1591.5,1634.6,1680.05,1663.69,1673.52
+1145,Detached house,All bedrooms,Dublin 16,0,2244.97,0,0,2469.55
+1154,Detached house,All bedrooms,Dublin 18,2754,2891.65,2904.64,2964.85,2946.84
+1157,Detached house,All bedrooms,Foxrock; Dublin 18,3556.14,3709.95,3654.85,3615.36,3337.09
+1165,Detached house,All bedrooms,Dublin 24,1379.19,1477.18,1510.29,1523.13,1590.53
+1337,Semi detached house,Two bed,Dublin,1504.87,1540.46,1589.07,1619.27,1607.14
+1338,Semi detached house,Two bed,Balbriggan; Dublin,1119.83,0,0,0,0
+1504,Semi detached house,Three bed,Dublin,1573.46,1649.6,1663.23,1674.79,1698.46
+1505,Semi detached house,Three bed,Balbriggan; Dublin,1247.89,1288.95,1311.4,1322.41,1363.58
+1506,Semi detached house,Three bed,Blackrock; Dublin,2118.84,2285.13,2183.26,2249.86,2264.5
+1512,Semi detached house,Three bed,Dun Laoghaire; Dublin,0,1974.23,1942.61,0,2059.27
+1517,Semi detached house,Three bed,Lucan; Dublin,1478.69,1526.44,1549.17,1560.59,1559.35
+1518,Semi detached house,Three bed,Lusk; Dublin,1379.34,1411.25,1422.84,1452.87,1432.84
+1519,Semi detached house,Three bed,Malahide; Dublin,1916.98,1934.69,1949.66,1955.58,1975.48
+1524,Semi detached house,Three bed,Rush; Dublin,1361.87,1403.18,1452.81,1428.38,1390.97
+1528,Semi detached house,Three bed,Skerries; Dublin,1388.56,1458.25,0,0,0
+1530,Semi detached house,Three bed,Stillorgan; Dublin,2016.76,2082.21,2082.06,2049.13,2046.58
+1531,Semi detached house,Three bed,Swords; Dublin,1451.44,1531.2,1547.57,1541.64,1582.4
+1671,Semi detached house,1 to 2 bed,Dublin,1449.97,1485.29,1533.21,1566.3,1537.15
+1672,Semi detached house,1 to 2 bed,Balbriggan; Dublin,1093.29,0,0,0,0
+1838,Semi detached house,1 to 3 bed,Dublin,1552.28,1622.39,1643.25,1657.93,1673.65
+1839,Semi detached house,1 to 3 bed,Balbriggan; Dublin,1208.68,1262.95,1296.53,1305.16,1338.69
+1840,Semi detached house,1 to 3 bed,Blackrock; Dublin,1970.38,2162.82,2081,2117.23,2131.4
+1846,Semi detached house,1 to 3 bed,Dun Laoghaire; Dublin,1878.42,1872.37,1822.66,1891.14,1956.61
+1851,Semi detached house,1 to 3 bed,Lucan; Dublin,1473.58,1522.51,1543.61,1553.4,1547.44
+1852,Semi detached house,1 to 3 bed,Lusk; Dublin,1368.08,1403.38,1415.45,1441.28,1422.9
+1853,Semi detached house,1 to 3 bed,Malahide; Dublin,1872.71,1867.11,1879.93,1908.61,1911.17
+1854,Semi detached house,1 to 3 bed,Monkstown; Dublin,1824.76,1908.33,1874.45,0,0
+1858,Semi detached house,1 to 3 bed,Rush; Dublin,1330.86,1366.3,1418.65,1433.6,1404.4
+1861,Semi detached house,1 to 3 bed,Shankill; Dublin,1599.45,0,0,0,0
+1862,Semi detached house,1 to 3 bed,Skerries; Dublin,1380.75,1440.33,1465.48,1451.07,1458.13
+1864,Semi detached house,1 to 3 bed,Stillorgan; Dublin,1972.98,2029.35,2044.43,2023.2,2037.04
+1865,Semi detached house,1 to 3 bed,Swords; Dublin,1441.86,1519.15,1532.78,1525.51,1564.88
+2005,Semi detached house,Four plus bed,Dublin,2143.42,2265.54,2263.03,2266.57,2263.29
+2007,Semi detached house,Four plus bed,Blackrock; Dublin,2777.57,2926.49,3039.33,3134.69,3107.07
+2018,Semi detached house,Four plus bed,Lucan; Dublin,1901.22,1942.42,1843.89,1775.05,1792.07
+2020,Semi detached house,Four plus bed,Malahide; Dublin,2356.27,2333.73,2326.32,2350.36,2396.59
+2172,Semi detached house,All bedrooms,Dublin,1710.03,1804.1,1811.62,1818.53,1834.54
+2173,Semi detached house,All bedrooms,Balbriggan; Dublin,1239.59,1281.67,1302.76,1299.56,1339.43
+2174,Semi detached house,All bedrooms,Blackrock; Dublin,2329.68,2514.63,2479.34,2489.64,2495.65
+2175,Semi detached house,All bedrooms,Booterstown; Dublin,2637.82,2798.66,2517.79,2535,2553.03
+2178,Semi detached house,All bedrooms,Dalkey; Dublin,2570.33,2677.1,2791.21,2786.48,2755.89
+2179,Semi detached house,All bedrooms,Donabate; Dublin,0,0,0,1801.77,1801.38
+2180,Semi detached house,All bedrooms,Dun Laoghaire; Dublin,2091.68,2123.73,2101.05,2195.85,2174.99
+2181,Semi detached house,All bedrooms,Glenageary; Dublin,1841.97,0,0,0,0
+2183,Semi detached house,All bedrooms,Killiney; Dublin,1979.06,2062.12,0,0,2251.59
+2268,Semi detached house,All bedrooms,Dublin 9,1772.08,1836.88,1812.57,1764.3,1813.54
+2506,Terrace house,Two bed,Dublin,1437.77,1475.23,1493.06,1502.2,1512.01
+2507,Terrace house,Two bed,Balbriggan; Dublin,1122.78,1155.31,1152.37,1168.57,1159.4
+2508,Terrace house,Two bed,Blackrock; Dublin,1695.8,1683.89,1701.87,1790.86,1845.19
+2673,Terrace house,Three bed,Dublin,1625.22,1689.15,1675.17,1676.57,1693.96
+2674,Terrace house,Three bed,Balbriggan; Dublin,1241.4,1268.44,1288.74,1313.45,1339.22
+2675,Terrace house,Three bed,Blackrock; Dublin,2101.18,2203.91,2219.76,2254.11,2269.38
+2840,Terrace house,1 to 2 bed,Dublin,1422.23,1458.53,1473.5,1481.04,1491.65
+2841,Terrace house,1 to 2 bed,Balbriggan; Dublin,1115.3,1149.81,1145.68,1152.96,1139.58
+2842,Terrace house,1 to 2 bed,Blackrock; Dublin,1611.66,1629.65,1598.33,1662.26,1707.32
+3007,Terrace house,1 to 3 bed,Dublin,1534.16,1585.08,1582.8,1589.06,1605.41
+3008,Terrace house,1 to 3 bed,Balbriggan; Dublin,1172.49,1204.08,1216.34,1238.75,1248.94
+3009,Terrace house,1 to 3 bed,Blackrock; Dublin,1892.78,1956.98,1925.75,1991.07,2020.29
+3174,Terrace house,Four plus bed,Dublin,2419.91,2584.08,2620.08,2648.98,2617.76
+3341,Terrace house,All bedrooms,Dublin,1623.95,1697.52,1692.83,1695.56,1713.78
+3342,Terrace house,All bedrooms,Balbriggan; Dublin,1173.02,1207.69,1225.43,1244.46,1259.86
+3343,Terrace house,All bedrooms,Blackrock; Dublin,1975.88,2063.35,2008.26,2063.83,2111.31
+3349,Terrace house,All bedrooms,Dun Laoghaire; Dublin,2080.64,2208.76,2204.2,2159.26,2123.32
+3435,Terrace house,All bedrooms,South Circular Road; Dublin 8,1807.41,1910.05,1968.36,2096.7,2162.23
+3437,Terrace house,All bedrooms,Dublin 9,1706.61,1778.41,1743.74,1753.58,1777.98
+3440,Terrace house,All bedrooms,Drumcondra; Dublin 9,1761.63,1811.28,1804.66,1846.27,1902.4
+3441,Terrace house,All bedrooms,Glasnevin; Dublin 9,1887.22,1888.1,1809.21,1785.58,1696.89
+3443,Terrace house,All bedrooms,Whitehall; Dublin 9,1563.91,1657.36,1652.85,1645.36,1630.11
+3444,Terrace house,All bedrooms,Dublin 10,1329.7,1381.23,1428.28,1405.48,1411.13
+3675,Apartment,Two bed,Dublin,1599.88,1631.49,1643.67,1664.06,1669.53
+3676,Apartment,Two bed,Balbriggan; Dublin,1126.65,1208.59,1246.32,1256.62,1263.88
+3677,Apartment,Two bed,Blackrock; Dublin,1769.1,1815.69,1816.94,1830.9,1830.7
+3678,Apartment,Two bed,Booterstown; Dublin,1860.91,1864.44,1844.63,1881.93,1918.97
+3682,Apartment,Two bed,Donabate; Dublin,1243.37,1327.48,1372.87,1423.26,1466.55
+3683,Apartment,Two bed,Dun Laoghaire; Dublin,1906.64,1951.24,1989.19,2035.37,2060.4
+3685,Apartment,Two bed,Howth; Dublin,1729.48,1919.45,1927.29,1987.5,1946.89
+3686,Apartment,Two bed,Killiney; Dublin,0,0,0,2233.27,0
+3688,Apartment,Two bed,Lucan; Dublin,1455.24,1467.07,1467.01,1511.79,1534.41
+3690,Apartment,Two bed,Malahide; Dublin,1648.02,1699.45,1706.8,1744.38,1754.83
+3691,Apartment,Two bed,Monkstown; Dublin,1590.8,1654.83,1675.35,1688.39,1730.03
+3693,Apartment,Two bed,Portmarnock; Dublin,1498.82,1566.3,1591.07,1611.51,1623.28
+3694,Apartment,Two bed,Rathcoole; Dublin,0,0,1341.2,1371.64,0
+3695,Apartment,Two bed,Rush; Dublin,1123.47,1174.04,0,0,0
+3842,Apartment,Three bed,Dublin,1961.18,2001.48,2005.94,2019.94,2021.28
+3843,Apartment,Three bed,Balbriggan; Dublin,1229.18,1554.25,1655.03,1681.96,1681.5
+3844,Apartment,Three bed,Blackrock; Dublin,2415.02,2373.8,2250.17,2279.86,2341.25
+3849,Apartment,Three bed,Donabate; Dublin,0,0,0,0,1959.68
+3850,Apartment,Three bed,Dun Laoghaire; Dublin,2629.65,2637.11,2651.98,2634.57,2609.1
+3855,Apartment,Three bed,Lucan; Dublin,1600.65,1630.81,1651.27,1721.84,1712.04
+3857,Apartment,Three bed,Malahide; Dublin,2015.14,2031.9,2060.44,2076.74,2048.87
+3869,Apartment,Three bed,Swords; Dublin,1386.48,1421.42,1471.91,1535.2,1576.77
+3870,Apartment,Three bed,Dublin 1,2154.53,2331.43,2374.16,2378.07,2401.54
+4009,Apartment,1 to 2 bed,Dublin,1526.68,1543.68,1558,1578.47,1584.35
+4010,Apartment,1 to 2 bed,Balbriggan; Dublin,1074.68,1138.88,1180.63,1199.21,1217.5
+4011,Apartment,1 to 2 bed,Blackrock; Dublin,1665.05,1694.21,1711.37,1726.73,1742.01
+4012,Apartment,1 to 2 bed,Booterstown; Dublin,1683.86,1736,1730.58,1782.52,1852.99
+4015,Apartment,1 to 2 bed,Dalkey; Dublin,1708.19,1651.78,1622.89,1683.93,1716.99
+4016,Apartment,1 to 2 bed,Donabate; Dublin,1096.02,1175.47,1203.61,1244.91,1289.84
+4017,Apartment,1 to 2 bed,Dun Laoghaire; Dublin,1791.24,1819.65,1862.13,1899.19,1907.66
+4019,Apartment,1 to 2 bed,Howth; Dublin,1587.29,1774.29,1789.64,1836.79,1829.54
+4020,Apartment,1 to 2 bed,Killiney; Dublin,1719.58,1895.58,1925.38,1963.32,1851.8
+4021,Apartment,1 to 2 bed,Kinsealy; Dublin,1314.89,1322.21,1365.08,0,0
+4022,Apartment,1 to 2 bed,Lucan; Dublin,1414.65,1339.41,1330.29,1364.77,1383.24
+4024,Apartment,1 to 2 bed,Malahide; Dublin,1596.51,1643.85,1667.31,1686.9,1706.55
+4025,Apartment,1 to 2 bed,Monkstown; Dublin,1471.5,1549.23,1554.3,1547.85,1567.11
+4027,Apartment,1 to 2 bed,Portmarnock; Dublin,1443.74,1501.11,1521.18,1528.59,1546.01
+4028,Apartment,1 to 2 bed,Rathcoole; Dublin,1221.94,1240.35,1303.26,1324.02,1319.26
+4029,Apartment,1 to 2 bed,Rush; Dublin,1104.94,1174.04,0,1176.49,1183.43
+4030,Apartment,1 to 2 bed,Saggart; Dublin,1408.18,1469.61,1498.94,1474.41,1487.21
+4032,Apartment,1 to 2 bed,Shankill; Dublin,1372.86,1395.72,1401.53,1388.55,1403.07
+4033,Apartment,1 to 2 bed,Skerries; Dublin,1142.7,1165.84,1156.48,1188.78,1211.58
+4035,Apartment,1 to 2 bed,Stillorgan; Dublin,1672.12,1710.81,1725.95,1741.18,1761.45
+4036,Apartment,1 to 2 bed,Swords; Dublin,1320.14,1350.09,1360.56,1389.54,1391.77
+4037,Apartment,1 to 2 bed,Dublin 1,1541.31,1593.68,1610.26,1635.94,1639.04
+4038,Apartment,1 to 2 bed,I.F.S.C.; Dublin 1,1734.9,1776.58,1778.78,1822.06,1827.92
+4039,Apartment,1 to 2 bed,Parnell Street; Dublin 1,1629.12,1671.48,1666.36,1661.76,1661.18
+4040,Apartment,1 to 2 bed,Spencer Dock; Dublin 1,1980.37,2049.91,2091.18,2129.25,2147.39
+4041,Apartment,1 to 2 bed,Summerhill; Dublin 1,1584.16,1600.17,1601.28,1648.82,1615.62
+4042,Apartment,1 to 2 bed,Dublin 2,1942.5,2079.3,2125.47,2141.9,2109.34
+4044,Apartment,1 to 2 bed,Charlemont Street; Dublin 2,0,1847.1,0,0,0
+4045,Apartment,1 to 2 bed,Grand Canal Dock; Dublin 2,2242.16,2364.98,2345.45,2320.77,2266.53
+4138,Apartment,1 to 2 bed,Dublin 15,1414.16,1453.92,1474.67,1484.25,1493.68
+4176,Apartment,1 to 3 bed,Dublin,1576.35,1596.32,1610.33,1631.28,1636.53
+4177,Apartment,1 to 3 bed,Balbriggan; Dublin,1097.98,1211.77,1275.81,1310.86,1320.61
+4178,Apartment,1 to 3 bed,Blackrock; Dublin,1743.72,1781.29,1775.16,1795.35,1820.52
+4179,Apartment,1 to 3 bed,Booterstown; Dublin,1765.18,1807.4,1780.61,1828.59,1902.89
+4182,Apartment,1 to 3 bed,Dalkey; Dublin,1941.83,1965.43,2023.32,2058.56,1994.43
+4183,Apartment,1 to 3 bed,Donabate; Dublin,1104.69,1211.34,1302.1,1424.55,1473.6
+4184,Apartment,1 to 3 bed,Dun Laoghaire; Dublin,1887.1,1910.18,1941.36,1977.63,1983.6
+4186,Apartment,1 to 3 bed,Howth; Dublin,1598.76,1775.11,1793.15,1858.75,1871.07
+4187,Apartment,1 to 3 bed,Killiney; Dublin,1751.59,1908.38,1961.13,1997.37,1877.09
+4188,Apartment,1 to 3 bed,Kinsealy; Dublin,1321.04,1352.68,1392.95,0,0
+4189,Apartment,1 to 3 bed,Lucan; Dublin,1453.37,1386.97,1385.66,1428,1439.33
+4191,Apartment,1 to 3 bed,Malahide; Dublin,1665.79,1703,1727.23,1740.57,1757.9
+4192,Apartment,1 to 3 bed,Monkstown; Dublin,1488.99,1578.17,1574.19,1559.72,1586.35
+4194,Apartment,1 to 3 bed,Portmarnock; Dublin,1470.08,1516.32,1542.51,1557.91,1565.48
+4195,Apartment,1 to 3 bed,Rathcoole; Dublin,1242.77,1261.11,1319.22,1324.02,1332.26
+4196,Apartment,1 to 3 bed,Rush; Dublin,1123.11,1189.81,1237.95,1193.27,1198.7
+4197,Apartment,1 to 3 bed,Saggart; Dublin,1445.5,1516.83,1547.55,1525.61,1528.27
+4199,Apartment,1 to 3 bed,Shankill; Dublin,1384.76,1413.02,1419.83,1415.23,1426.54
+4200,Apartment,1 to 3 bed,Skerries; Dublin,1214.55,1223.61,1208.85,1228.81,1240.21
+4202,Apartment,1 to 3 bed,Stillorgan; Dublin,1722.18,1756.67,1763.2,1773.86,1792.81
+4203,Apartment,1 to 3 bed,Swords; Dublin,1327.43,1357.63,1371.11,1403.7,1408.17
+4204,Apartment,1 to 3 bed,Dublin 1,1575.17,1635.23,1649.17,1669.58,1674.16
+4205,Apartment,1 to 3 bed,I.F.S.C.; Dublin 1,1766.99,1817.6,1820.89,1857.21,1868.76
+4206,Apartment,1 to 3 bed,Parnell Street; Dublin 1,1639.66,1702.61,1692.71,1695.28,1695.7
+4207,Apartment,1 to 3 bed,Spencer Dock; Dublin 1,2054.35,2089.49,2136.32,2158.44,2173.71
+4208,Apartment,1 to 3 bed,Summerhill; Dublin 1,1620.07,1664.35,1672.81,1739.04,1719.11
+4209,Apartment,1 to 3 bed,Dublin 2,1985.18,2130.55,2174.91,2194.24,2165.17
+4211,Apartment,1 to 3 bed,Charlemont Street; Dublin 2,1844.75,1890.32,1961.46,2014.97,2080.79
+4212,Apartment,1 to 3 bed,Grand Canal Dock; Dublin 2,2370.62,2515.51,2514.56,2477.15,2345.79
+4220,Apartment,1 to 3 bed,Dublin 3,1566.09,1607.56,1626.51,1632.36,1644.42
+4343,Apartment,Four plus bed,Dublin,2350.45,2504.47,2384.55,2261.84,2288.05
+4510,Apartment,All bedrooms,Dublin,1581.42,1603.35,1617.15,1638.78,1644.83
+4511,Apartment,All bedrooms,Balbriggan; Dublin,1097.98,1211.77,1286.38,1327.09,1336.2
+4512,Apartment,All bedrooms,Blackrock; Dublin,1748.22,1790.65,1784.01,1801.22,1829.74
+4513,Apartment,All bedrooms,Booterstown; Dublin,1765.18,1807.4,1780.61,1828.59,1902.89
+4516,Apartment,All bedrooms,Dalkey; Dublin,1974.99,1997.59,2024.82,2059.36,1996.42
+4517,Apartment,All bedrooms,Donabate; Dublin,1104.69,1232.48,1347.72,1498.44,1545.73
+4518,Apartment,All bedrooms,Dun Laoghaire; Dublin,1892.17,1917.63,1945.64,1981.69,1995.34
+4520,Apartment,All bedrooms,Howth; Dublin,1598.76,1775.11,1793.15,1858.75,1871.07
+4521,Apartment,All bedrooms,Killiney; Dublin,1751.59,1924.37,1975.7,2034.72,1921.44
+4522,Apartment,All bedrooms,Kinsealy; Dublin,1321.04,1352.68,1392.95,0,0
+4523,Apartment,All bedrooms,Lucan; Dublin,1458.84,1392.19,1388.12,1435.27,1449.84
+4525,Apartment,All bedrooms,Malahide; Dublin,1680.45,1712.59,1739.16,1749.62,1764.14
+4526,Apartment,All bedrooms,Monkstown; Dublin,1488.38,1576.8,1572.74,1558.45,1585.64
+4528,Apartment,All bedrooms,Portmarnock; Dublin,1479.8,1525.44,1552.36,1567.14,1565.48
+4529,Apartment,All bedrooms,Rathcoole; Dublin,1242.77,1261.11,1319.22,1324.02,1332.26
+4530,Apartment,All bedrooms,Rush; Dublin,1187.64,1257.87,1313.01,1296.92,1296.62
+4531,Apartment,All bedrooms,Saggart; Dublin,1450.02,1532,1564.75,1549.47,1550.4
+4662,Apartment,All bedrooms,Cabinteely; Dublin 18,1560.42,1638.77,1644.34,1626.84,1641.04
+4663,Apartment,All bedrooms,Carrickmines; Dublin 18,1641.49,1657.9,1673.39,1668.52,1676.16
+4665,Apartment,All bedrooms,Leopardstown; Dublin 18,1975.12,1965.03,1933.56,1941.24,1932.38
+4666,Apartment,All bedrooms,Sandyford; Dublin 18,1728.2,1782.47,1774.05,1783.95,1815.95
+4667,Apartment,All bedrooms,Stepaside; Dublin 18,1574.92,1634.32,1639.54,1660.38,1650.61
+4668,Apartment,All bedrooms,Dublin 20,1397.8,1430.06,1419.58,1410.29,1398.69
+4669,Apartment,All bedrooms,Chapelizod; Dublin 20,1383.56,1426.51,1422.41,1419.82,1407.84
+4671,Apartment,All bedrooms,Clondalkin; Dublin 22,1378.22,1349.32,1358.76,1337.05,1354.79
+4672,Apartment,All bedrooms,Dublin 24,1361.59,1368.03,1362.05,1371.08,1383.92
+4673,Apartment,All bedrooms,Ballycullen; Dublin 24,1443.03,1450.38,1459.06,1455.56,1439.46
+4674,Apartment,All bedrooms,Citywest; Dublin 24,1373.26,1396.19,1381.98,1396.54,1406.56
+4676,Apartment,All bedrooms,Tallaght; Dublin 24,1338.82,1327.78,1326.7,1334.49,1335.49
+5178,Other Flats,1 to 2 bed,Dublin,1058.77,1113.19,1122.39,1121.44,1121.87
+5345,Other Flats,1 to 3 bed,Dublin,1087.75,1153.75,1164.45,1162.25,1161.12
+5438,Other Flats,1 to 3 bed,Rialto; Dublin 8,977.7,1040.09,1088.19,1123.64,0
+5679,Other Flats,All bedrooms,Dublin,1089.91,1155.41,1166.83,1164.8,1163.75
+5687,Other Flats,All bedrooms,Dun Laoghaire; Dublin,1073.4,1120.48,1139.54,1156.38,1099.21
+5778,Other Flats,All bedrooms,Drumcondra; Dublin 9,981.31,973.32,981.09,988.38,1020.68
+5785,Other Flats,All bedrooms,Dublin 11,1076.1,1087.78,1147.36,1096.85,1130.89
+5791,Other Flats,All bedrooms,Dublin 12,1118.07,1184.05,1167.93,1166.56,1170.02
+5792,Other Flats,All bedrooms,Crumlin; Dublin 12,0,0,0,1238.6,1251.79
+5794,Other Flats,All bedrooms,Kimmage; Dublin 12,0,1164.03,0,1187.6,0
+6014,All property types,All bedrooms,Balbriggan; Dublin,1121.07,1189.29,1221.13,1234.95,1238.61
+6015,All property types,All bedrooms,Blackrock; Dublin,1755.63,1798.32,1798.34,1812.05,1814.22
+6016,All property types,All bedrooms,Booterstown; Dublin,1799,1811.32,1789.28,1845.97,1865.43
+6019,All property types,All bedrooms,Dalkey; Dublin,1859.86,1828.11,1803.88,1849.6,1862.65
+6020,All property types,All bedrooms,Donabate; Dublin,1243.54,1312.19,1355.57,1397.61,1425.51
+6109,All property types,All bedrooms,Dublin 9,1452.34,1523.4,1546.51,1564.16,1593.1
+6969,All property types,All bedrooms,Donaghmede; Dublin 13,1337.29,1395.56,1344.77,1402.62,1435.88
+6970,All property types,All bedrooms,Sutton; Dublin 13,1795.83,1890.87,1914.86,1868.26,1921.46
+6971,All property types,All bedrooms,Dublin 14,1925.17,2029.73,2017.97,2026.54,2032.82
+6972,All property types,All bedrooms,Churchtown; Dublin 14,2039.79,2189.31,2183.3,2181.57,2202.92
+6973,All property types,All bedrooms,Clonskeagh; Dublin 14,2141.47,2245.84,2202.17,2182.36,2175.08
+6974,All property types,All bedrooms,Dundrum; Dublin 14,1861.33,1897.03,1880.09,1848.91,1857.74
+6975,All property types,All bedrooms,Goatstown; Dublin 14,2225.43,2346.58,2351.35,2382.47,2340.45
+6976,All property types,All bedrooms,Rathfarnham; Dublin 14,1771.78,1796.7,1795.09,1797.79,1793.92
+6977,All property types,All bedrooms,Dublin 15,1483.36,1521.57,1532.21,1541.92,1544.28
+6978,All property types,All bedrooms,Ashtown; Dublin 15,1529.89,1543.83,1613.82,1637.44,1652.52
+6979,All property types,All bedrooms,Blanchardstown; Dublin 15,1373.39,1415.73,1448.89,1459.18,1464.18
+6980,All property types,All bedrooms,Carpenterstown; Dublin 15,1478.99,1525.06,1547.1,1565.99,1543.48
+6981,All property types,All bedrooms,Castleknock; Dublin 15,1641.02,1693.49,1705.27,1713.71,1715.66
+6982,All property types,All bedrooms,Clonee; Dublin 15,1364.18,1426.55,1456.88,1442.43,1460.03
+6983,All property types,All bedrooms,Clonsilla; Dublin 15,1579.74,1560.18,1521.4,1497.6,1498.91
+6985,All property types,All bedrooms,Mulhuddart; Dublin 15,1340.04,1346.64,1299.32,1297.85,1325.07
+6986,All property types,All bedrooms,Ongar; Dublin 15,1349.43,1356.57,1357.99,1373.21,1412.82
+6987,All property types,All bedrooms,Porterstown; Dublin 15,1585.99,1624.77,1628.86,1539.12,1542.74
+6988,All property types,All bedrooms,Royal Canal Park; Dublin 15,1449.27,1482.78,1476.7,1485.97,1468.21
+6989,All property types,All bedrooms,Tyrrelstown; Dublin 15,1408.6,1439.79,1447.73,1468.23,1474.44
+6990,All property types,All bedrooms,Dublin 16,1776.22,1827.44,1835.22,1876.82,1902.52
+6991,All property types,All bedrooms,Ballinteer; Dublin 16,1784.51,1780.93,1757.48,1783.7,1850.65
+6992,All property types,All bedrooms,Dundrum; Dublin 16,1877.45,1904.85,1896.84,1919.28,1915.88
+6993,All property types,All bedrooms,Knocklyon; Dublin 16,1740.2,1804.36,1775.92,1805.37,1804.65
+6994,All property types,All bedrooms,Rathfarnham; Dublin 16,1745.05,1823.82,1853.17,1930.33,1970.49
+6995,All property types,All bedrooms,Sandyford; Dublin 16,0,1700.79,1686.24,1699.19,1782.02
+6996,All property types,All bedrooms,Dublin 17,1392.31,1435.01,1421.83,1433.45,1436.19
+6997,All property types,All bedrooms,Malahide Road; Dublin 17,1648.45,1571.53,1546.29,1567.77,1578.76
+6999,All property types,All bedrooms,Dublin 18,1826.29,1886.57,1885.45,1895.17,1902.38
+7000,All property types,All bedrooms,Cabinteely; Dublin 18,1770.14,1835.77,1842.35,1830.75,1836.48
+7001,All property types,All bedrooms,Carrickmines; Dublin 18,1712.22,1802.42,1848.1,1882.51,1909.63
